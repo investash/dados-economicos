@@ -6,15 +6,15 @@ Esse projeto tem o objetivo de centralizar e disponibilizar dados em JSON dos pr
 
 | Índice          | Última Atualização | Nome                                                     | Fonte |
 | --------------- | ------------------ | -------------------------------------------------------- | ----- |
-| IPCA            | 12/2025            | Índice Nacional de Preços ao Consumidor Amplo            | IBGE  |
-| IPCA15          | 12/2025            | Índice Nacional de Preços ao Consumidor Amplo 15         | IBGE  |
-| IPCA - 12 Meses | 12/2025            | IPCA acumulado nos últimos 12 meses                      | IBGE  |
-| INPC            | 12/2025            | Índice Nacional de Preços ao Consumidor                  | IBGE  |
-| IGP-M           | 12/2025            | Índice Geral de Preços - Mercado                         | FGV   |
-| IGP-DI          | 12/2025            | Índice Geral de Preços – Disponibilidade Interna         | FGV   |
-| IPC-BR          | 12/2025            | Índice de Preços ao Consumidor - Brasil                  | FGV   |
-| IPC-M           | 12/2025            | Índice de Preços ao Consumidor - Mercado                 | FGV   |
-| IPC-SP          | 12/2025            | Índice de Preços ao Consumidor do Município de São Paulo | FIPE  |
+| IPCA            | 01/2026            | Índice Nacional de Preços ao Consumidor Amplo            | IBGE  |
+| IPCA15          | 01/2026            | Índice Nacional de Preços ao Consumidor Amplo 15         | IBGE  |
+| IPCA - 12 Meses | 01/2026            | IPCA acumulado nos últimos 12 meses                      | IBGE  |
+| INPC            | 01/2026            | Índice Nacional de Preços ao Consumidor                  | IBGE  |
+| IGP-M           | 01/2026            | Índice Geral de Preços - Mercado                         | FGV   |
+| IGP-DI          | 01/2026            | Índice Geral de Preços – Disponibilidade Interna         | FGV   |
+| IPC-BR          | 01/2026            | Índice de Preços ao Consumidor - Brasil                  | FGV   |
+| IPC-M           | 01/2026            | Índice de Preços ao Consumidor - Mercado                 | FGV   |
+| IPC-SP          | 01/2026            | Índice de Preços ao Consumidor do Município de São Paulo | FIPE  |
 
 Além dos índices de inflação, também é disponibilizado as **[metas de inflação](metas-de-inflacao.json)** definida pelo [Conselho Monetario Nacional (CMN)](https://www.bcb.gov.br/acessoinformacao/cmn) do Banco Central para cada ano.
 
