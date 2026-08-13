@@ -1,0 +1,31 @@
+{
+  "categorias": {
+    "taxas-de-juros": {
+      "identificador": "taxas-de-juros",
+      "series": [
+        "tr-mensal"
+      ]
+    }
+  },
+  "descricao": "Catálogo completo do dataset de dados econômicos oficiais do Brasil. Cada série é publicada pelo Banco Central do Brasil (BACEN) e mantida neste repositório como fallback estático.",
+  "series": [
+    {
+      "caminho": "dados/v1/taxas-de-juros/tr-mensal",
+      "categoria": "taxas-de-juros",
+      "descricao": "Taxa Referencial (TR) mensal, divulgada diariamente pelo Banco Central do Brasil. Cada observação diária carrega o valor vigente da TR do mês.",
+      "frequencia": "diaria",
+      "identificador": "tr-mensal",
+      "metadados": "dados/v1/taxas-de-juros/tr-mensal/metadados.json",
+      "moeda": "BRL",
+      "nome": "Taxa referencial (TR)",
+      "primeira-observacao": "1991-02-01",
+      "provedor": "BACEN",
+      "somas-verificacao": "dados/v1/taxas-de-juros/tr-mensal/somas-verificacao.json",
+      "status": "ativa",
+      "ultima-alteracao-dados": "2026-08-13",
+      "ultima-observacao": "2026-08-12",
+      "unidade": "% a.m."
+    }
+  ],
+  "versao-schema": "v1"
+}
