@@ -1,0 +1,2002 @@
+[
+  {
+    "cotacao-compra": 1.08296,
+    "cotacao-venda": 1.08643,
+    "data": "2001-01-02",
+    "data-hora-fonte": "2001-01-02 18:14:00.0",
+    "paridade-compra": 0.55892,
+    "paridade-venda": 0.56048
+  },
+  {
+    "cotacao-compra": 1.08179,
+    "cotacao-venda": 1.08526,
+    "data": "2001-01-03",
+    "data-hora-fonte": "2001-01-03 18:10:00.0",
+    "paridade-compra": 0.55722,
+    "paridade-venda": 0.55878
+  },
+  {
+    "cotacao-compra": 1.09344,
+    "cotacao-venda": 1.09693,
+    "data": "2001-01-04",
+    "data-hora-fonte": "2001-01-04 18:18:00.0",
+    "paridade-compra": 0.56512,
+    "paridade-venda": 0.56668
+  },
+  {
+    "cotacao-compra": 1.11328,
+    "cotacao-venda": 1.1168,
+    "data": "2001-01-05",
+    "data-hora-fonte": "2001-01-05 18:12:00.0",
+    "paridade-compra": 0.57161,
+    "paridade-venda": 0.57319
+  },
+  {
+    "cotacao-compra": 1.10874,
+    "cotacao-venda": 1.11225,
+    "data": "2001-01-08",
+    "data-hora-fonte": "2001-01-08 18:13:00.0",
+    "paridade-compra": 0.56812,
+    "paridade-venda": 0.56969
+  },
+  {
+    "cotacao-compra": 1.09508,
+    "cotacao-venda": 1.09858,
+    "data": "2001-01-09",
+    "data-hora-fonte": "2001-01-09 18:24:00.0",
+    "paridade-compra": 0.56352,
+    "paridade-venda": 0.56508
+  },
+  {
+    "cotacao-compra": 1.08121,
+    "cotacao-venda": 1.08468,
+    "data": "2001-01-10",
+    "data-hora-fonte": "2001-01-10 18:12:00.0",
+    "paridade-compra": 0.55672,
+    "paridade-venda": 0.55828
+  },
+  {
+    "cotacao-compra": 1.09224,
+    "cotacao-venda": 1.09573,
+    "data": "2001-01-11",
+    "data-hora-fonte": "2001-01-11 18:29:00.0",
+    "paridade-compra": 0.56142,
+    "paridade-venda": 0.56298
+  },
+  {
+    "cotacao-compra": 1.0858,
+    "cotacao-venda": 1.08929,
+    "data": "2001-01-12",
+    "data-hora-fonte": "2001-01-12 18:24:00.0",
+    "paridade-compra": 0.55682,
+    "paridade-venda": 0.55838
+  },
+  {
+    "cotacao-compra": 1.07657,
+    "cotacao-venda": 1.08004,
+    "data": "2001-01-15",
+    "data-hora-fonte": "2001-01-15 18:17:00.0",
+    "paridade-compra": 0.55302,
+    "paridade-venda": 0.55458
+  },
+  {
+    "cotacao-compra": 1.08371,
+    "cotacao-venda": 1.08719,
+    "data": "2001-01-16",
+    "data-hora-fonte": "2001-01-16 18:17:00.0",
+    "paridade-compra": 0.55552,
+    "paridade-venda": 0.55708
+  },
+  {
+    "cotacao-compra": 1.07898,
+    "cotacao-venda": 1.08246,
+    "data": "2001-01-17",
+    "data-hora-fonte": "2001-01-17 18:19:00.0",
+    "paridade-compra": 0.55352,
+    "paridade-venda": 0.55508
+  },
+  {
+    "cotacao-compra": 1.09076,
+    "cotacao-venda": 1.09425,
+    "data": "2001-01-18",
+    "data-hora-fonte": "2001-01-18 18:09:00.0",
+    "paridade-compra": 0.55882,
+    "paridade-venda": 0.56038
+  },
+  {
+    "cotacao-compra": 1.08733,
+    "cotacao-venda": 1.09082,
+    "data": "2001-01-19",
+    "data-hora-fonte": "2001-01-19 18:43:00.0",
+    "paridade-compra": 0.55632,
+    "paridade-venda": 0.55788
+  },
+  {
+    "cotacao-compra": 1.08814,
+    "cotacao-venda": 1.09163,
+    "data": "2001-01-22",
+    "data-hora-fonte": "2001-01-22 18:15:00.0",
+    "paridade-compra": 0.55622,
+    "paridade-venda": 0.55778
+  },
+  {
+    "cotacao-compra": 1.08232,
+    "cotacao-venda": 1.0858,
+    "data": "2001-01-23",
+    "data-hora-fonte": "2001-01-23 18:12:00.0",
+    "paridade-compra": 0.55282,
+    "paridade-venda": 0.55438
+  },
+  {
+    "cotacao-compra": 1.065,
+    "cotacao-venda": 1.06846,
+    "data": "2001-01-24",
+    "data-hora-fonte": "2001-01-24 18:10:00.0",
+    "paridade-compra": 0.54373,
+    "paridade-venda": 0.54527
+  },
+  {
+    "cotacao-compra": 1.07593,
+    "cotacao-venda": 1.07942,
+    "data": "2001-01-25",
+    "data-hora-fonte": "2001-01-25 18:28:00.0",
+    "paridade-compra": 0.54533,
+    "paridade-venda": 0.54687
+  },
+  {
+    "cotacao-compra": 1.07387,
+    "cotacao-venda": 1.07736,
+    "data": "2001-01-26",
+    "data-hora-fonte": "2001-01-26 18:16:00.0",
+    "paridade-compra": 0.54423,
+    "paridade-venda": 0.54577
+  },
+  {
+    "cotacao-compra": 1.07379,
+    "cotacao-venda": 1.07728,
+    "data": "2001-01-29",
+    "data-hora-fonte": "2001-01-29 18:25:00.0",
+    "paridade-compra": 0.54383,
+    "paridade-venda": 0.54537
+  },
+  {
+    "cotacao-compra": 1.07876,
+    "cotacao-venda": 1.08225,
+    "data": "2001-01-30",
+    "data-hora-fonte": "2001-01-30 18:14:00.0",
+    "paridade-compra": 0.54743,
+    "paridade-venda": 0.54897
+  },
+  {
+    "cotacao-compra": 1.08352,
+    "cotacao-venda": 1.08701,
+    "data": "2001-01-31",
+    "data-hora-fonte": "2001-01-31 18:50:00.0",
+    "paridade-compra": 0.54993,
+    "paridade-venda": 0.55148
+  },
+  {
+    "cotacao-compra": 1.09373,
+    "cotacao-venda": 1.09725,
+    "data": "2001-02-01",
+    "data-hora-fonte": "2001-02-01 18:24:00.0",
+    "paridade-compra": 0.55432,
+    "paridade-venda": 0.55588
+  },
+  {
+    "cotacao-compra": 1.10156,
+    "cotacao-venda": 1.1051,
+    "data": "2001-02-02",
+    "data-hora-fonte": "2001-02-02 18:17:00.0",
+    "paridade-compra": 0.55282,
+    "paridade-venda": 0.55438
+  },
+  {
+    "cotacao-compra": 1.09619,
+    "cotacao-venda": 1.09972,
+    "data": "2001-02-05",
+    "data-hora-fonte": "2001-02-05 18:34:00.0",
+    "paridade-compra": 0.54983,
+    "paridade-venda": 0.55138
+  },
+  {
+    "cotacao-compra": 1.09611,
+    "cotacao-venda": 1.09965,
+    "data": "2001-02-06",
+    "data-hora-fonte": "2001-02-06 18:41:00.0",
+    "paridade-compra": 0.54883,
+    "paridade-venda": 0.55038
+  },
+  {
+    "cotacao-compra": 1.09508,
+    "cotacao-venda": 1.09861,
+    "data": "2001-02-07",
+    "data-hora-fonte": "2001-02-07 18:18:00.0",
+    "paridade-compra": 0.54653,
+    "paridade-venda": 0.54807
+  },
+  {
+    "cotacao-compra": 1.06565,
+    "cotacao-venda": 1.06914,
+    "data": "2001-02-08",
+    "data-hora-fonte": "2001-02-08 18:35:00.0",
+    "paridade-compra": 0.53413,
+    "paridade-venda": 0.53567
+  },
+  {
+    "cotacao-compra": 1.06601,
+    "cotacao-venda": 1.0695,
+    "data": "2001-02-09",
+    "data-hora-fonte": "2001-02-09 18:13:00.0",
+    "paridade-compra": 0.53633,
+    "paridade-venda": 0.53787
+  },
+  {
+    "cotacao-compra": 1.06636,
+    "cotacao-venda": 1.06984,
+    "data": "2001-02-12",
+    "data-hora-fonte": "2001-02-12 18:21:00.0",
+    "paridade-compra": 0.53843,
+    "paridade-venda": 0.53997
+  },
+  {
+    "cotacao-compra": 1.05751,
+    "cotacao-venda": 1.06098,
+    "data": "2001-02-13",
+    "data-hora-fonte": "2001-02-13 18:16:00.0",
+    "paridade-compra": 0.53423,
+    "paridade-venda": 0.53577
+  },
+  {
+    "cotacao-compra": 1.05443,
+    "cotacao-venda": 1.0579,
+    "data": "2001-02-14",
+    "data-hora-fonte": "2001-02-14 18:20:00.0",
+    "paridade-compra": 0.53024,
+    "paridade-venda": 0.53177
+  },
+  {
+    "cotacao-compra": 1.03681,
+    "cotacao-venda": 1.04025,
+    "data": "2001-02-15",
+    "data-hora-fonte": "2001-02-15 18:28:00.0",
+    "paridade-compra": 0.52354,
+    "paridade-venda": 0.52506
+  },
+  {
+    "cotacao-compra": 1.05407,
+    "cotacao-venda": 1.05755,
+    "data": "2001-02-16",
+    "data-hora-fonte": "2001-02-16 18:33:00.0",
+    "paridade-compra": 0.52884,
+    "paridade-venda": 0.53037
+  },
+  {
+    "cotacao-compra": 1.06148,
+    "cotacao-venda": 1.06497,
+    "data": "2001-02-19",
+    "data-hora-fonte": "2001-02-19 18:17:00.0",
+    "paridade-compra": 0.53024,
+    "paridade-venda": 0.53177
+  },
+  {
+    "cotacao-compra": 1.05016,
+    "cotacao-venda": 1.05363,
+    "data": "2001-02-20",
+    "data-hora-fonte": "2001-02-20 18:09:00.0",
+    "paridade-compra": 0.52364,
+    "paridade-venda": 0.52516
+  },
+  {
+    "cotacao-compra": 1.06145,
+    "cotacao-venda": 1.06495,
+    "data": "2001-02-21",
+    "data-hora-fonte": "2001-02-21 18:57:00.0",
+    "paridade-compra": 0.52464,
+    "paridade-venda": 0.52616
+  },
+  {
+    "cotacao-compra": 1.06898,
+    "cotacao-venda": 1.0725,
+    "data": "2001-02-22",
+    "data-hora-fonte": "2001-02-22 18:17:00.0",
+    "paridade-compra": 0.52504,
+    "paridade-venda": 0.52656
+  },
+  {
+    "cotacao-compra": 1.07541,
+    "cotacao-venda": 1.07895,
+    "data": "2001-02-23",
+    "data-hora-fonte": "2001-02-23 18:15:00.0",
+    "paridade-compra": 0.52644,
+    "paridade-venda": 0.52796
+  },
+  {
+    "cotacao-compra": 1.07543,
+    "cotacao-venda": 1.07897,
+    "data": "2001-02-28",
+    "data-hora-fonte": "2001-02-28 18:15:00.0",
+    "paridade-compra": 0.52604,
+    "paridade-venda": 0.52756
+  },
+  {
+    "cotacao-compra": 1.07845,
+    "cotacao-venda": 1.082,
+    "data": "2001-03-01",
+    "data-hora-fonte": "2001-03-01 18:21:00.0",
+    "paridade-compra": 0.52814,
+    "paridade-venda": 0.52967
+  },
+  {
+    "cotacao-compra": 1.07744,
+    "cotacao-venda": 1.08098,
+    "data": "2001-03-02",
+    "data-hora-fonte": "2001-03-02 18:15:00.0",
+    "paridade-compra": 0.52954,
+    "paridade-venda": 0.53107
+  },
+  {
+    "cotacao-compra": 1.05355,
+    "cotacao-venda": 1.05704,
+    "data": "2001-03-05",
+    "data-hora-fonte": "2001-03-05 18:24:00.0",
+    "paridade-compra": 0.52094,
+    "paridade-venda": 0.52246
+  },
+  {
+    "cotacao-compra": 1.04826,
+    "cotacao-venda": 1.05175,
+    "data": "2001-03-06",
+    "data-hora-fonte": "2001-03-06 18:11:00.0",
+    "paridade-compra": 0.51894,
+    "paridade-venda": 0.52046
+  },
+  {
+    "cotacao-compra": 1.0384,
+    "cotacao-venda": 1.04189,
+    "data": "2001-03-07",
+    "data-hora-fonte": "2001-03-07 18:36:00.0",
+    "paridade-compra": 0.50945,
+    "paridade-venda": 0.51096
+  },
+  {
+    "cotacao-compra": 1.04217,
+    "cotacao-venda": 1.04566,
+    "data": "2001-03-08",
+    "data-hora-fonte": "2001-03-08 18:17:00.0",
+    "paridade-compra": 0.51144,
+    "paridade-venda": 0.51296
+  },
+  {
+    "cotacao-compra": 1.04653,
+    "cotacao-venda": 1.05004,
+    "data": "2001-03-09",
+    "data-hora-fonte": "2001-03-09 18:50:00.0",
+    "paridade-compra": 0.50825,
+    "paridade-venda": 0.50976
+  },
+  {
+    "cotacao-compra": 1.0466,
+    "cotacao-venda": 1.05011,
+    "data": "2001-03-12",
+    "data-hora-fonte": "2001-03-12 18:15:00.0",
+    "paridade-compra": 0.50945,
+    "paridade-venda": 0.51096
+  },
+  {
+    "cotacao-compra": 1.03966,
+    "cotacao-venda": 1.04317,
+    "data": "2001-03-13",
+    "data-hora-fonte": "2001-03-13 18:10:00.0",
+    "paridade-compra": 0.50435,
+    "paridade-venda": 0.50585
+  },
+  {
+    "cotacao-compra": 1.02997,
+    "cotacao-venda": 1.03348,
+    "data": "2001-03-14",
+    "data-hora-fonte": "2001-03-14 18:16:00.0",
+    "paridade-compra": 0.49625,
+    "paridade-venda": 0.49775
+  },
+  {
+    "cotacao-compra": 1.02769,
+    "cotacao-venda": 1.0312,
+    "data": "2001-03-15",
+    "data-hora-fonte": "2001-03-15 18:39:00.0",
+    "paridade-compra": 0.49275,
+    "paridade-venda": 0.49425
+  },
+  {
+    "cotacao-compra": 1.04953,
+    "cotacao-venda": 1.0531,
+    "data": "2001-03-16",
+    "data-hora-fonte": "2001-03-16 18:25:00.0",
+    "paridade-compra": 0.49485,
+    "paridade-venda": 0.49635
+  },
+  {
+    "cotacao-compra": 1.06058,
+    "cotacao-venda": 1.06417,
+    "data": "2001-03-19",
+    "data-hora-fonte": "2001-03-19 18:26:00.0",
+    "paridade-compra": 0.49865,
+    "paridade-venda": 0.50015
+  },
+  {
+    "cotacao-compra": 1.04866,
+    "cotacao-venda": 1.05221,
+    "data": "2001-03-20",
+    "data-hora-fonte": "2001-03-20 18:10:00.0",
+    "paridade-compra": 0.50125,
+    "paridade-venda": 0.50275
+  },
+  {
+    "cotacao-compra": 1.039,
+    "cotacao-venda": 1.04254,
+    "data": "2001-03-21",
+    "data-hora-fonte": "2001-03-21 18:14:00.0",
+    "paridade-compra": 0.49495,
+    "paridade-venda": 0.49645
+  },
+  {
+    "cotacao-compra": 1.05717,
+    "cotacao-venda": 1.06077,
+    "data": "2001-03-22",
+    "data-hora-fonte": "2001-03-22 18:35:00.0",
+    "paridade-compra": 0.49375,
+    "paridade-venda": 0.49525
+  },
+  {
+    "cotacao-compra": 1.07146,
+    "cotacao-venda": 1.07509,
+    "data": "2001-03-23",
+    "data-hora-fonte": "2001-03-23 18:28:00.0",
+    "paridade-compra": 0.49655,
+    "paridade-venda": 0.49805
+  },
+  {
+    "cotacao-compra": 1.07006,
+    "cotacao-venda": 1.07367,
+    "data": "2001-03-26",
+    "data-hora-fonte": "2001-03-26 18:09:00.0",
+    "paridade-compra": 0.50085,
+    "paridade-venda": 0.50235
+  },
+  {
+    "cotacao-compra": 1.05896,
+    "cotacao-venda": 1.06254,
+    "data": "2001-03-27",
+    "data-hora-fonte": "2001-03-27 18:42:00.0",
+    "paridade-compra": 0.49885,
+    "paridade-venda": 0.50035
+  },
+  {
+    "cotacao-compra": 1.04467,
+    "cotacao-venda": 1.04823,
+    "data": "2001-03-28",
+    "data-hora-fonte": "2001-03-28 18:13:00.0",
+    "paridade-compra": 0.49365,
+    "paridade-venda": 0.49515
+  },
+  {
+    "cotacao-compra": 1.05172,
+    "cotacao-venda": 1.0553,
+    "data": "2001-03-29",
+    "data-hora-fonte": "2001-03-29 18:12:00.0",
+    "paridade-compra": 0.49235,
+    "paridade-venda": 0.49385
+  },
+  {
+    "cotacao-compra": 1.04898,
+    "cotacao-venda": 1.05258,
+    "data": "2001-03-30",
+    "data-hora-fonte": "2001-03-30 18:17:00.0",
+    "paridade-compra": 0.48546,
+    "paridade-venda": 0.48694
+  },
+  {
+    "cotacao-compra": 1.0334,
+    "cotacao-venda": 1.03698,
+    "data": "2001-04-02",
+    "data-hora-fonte": "2001-04-02 18:15:00.0",
+    "paridade-compra": 0.47896,
+    "paridade-venda": 0.48044
+  },
+  {
+    "cotacao-compra": 1.05917,
+    "cotacao-venda": 1.06279,
+    "data": "2001-04-03",
+    "data-hora-fonte": "2001-04-03 18:37:00.0",
+    "paridade-compra": 0.48756,
+    "paridade-venda": 0.48904
+  },
+  {
+    "cotacao-compra": 1.05667,
+    "cotacao-venda": 1.06028,
+    "data": "2001-04-04",
+    "data-hora-fonte": "2001-04-04 18:11:00.0",
+    "paridade-compra": 0.48866,
+    "paridade-venda": 0.49015
+  },
+  {
+    "cotacao-compra": 1.05694,
+    "cotacao-venda": 1.06055,
+    "data": "2001-04-05",
+    "data-hora-fonte": "2001-04-05 18:14:00.0",
+    "paridade-compra": 0.48976,
+    "paridade-venda": 0.49125
+  },
+  {
+    "cotacao-compra": 1.07146,
+    "cotacao-venda": 1.07508,
+    "data": "2001-04-06",
+    "data-hora-fonte": "2001-04-06 18:31:00.0",
+    "paridade-compra": 0.49805,
+    "paridade-venda": 0.49955
+  },
+  {
+    "cotacao-compra": 1.06278,
+    "cotacao-venda": 1.0664,
+    "data": "2001-04-09",
+    "data-hora-fonte": "2001-04-09 18:13:00.0",
+    "paridade-compra": 0.49125,
+    "paridade-venda": 0.49275
+  },
+  {
+    "cotacao-compra": 1.06203,
+    "cotacao-venda": 1.06564,
+    "data": "2001-04-10",
+    "data-hora-fonte": "2001-04-10 18:13:00.0",
+    "paridade-compra": 0.49595,
+    "paridade-venda": 0.49745
+  },
+  {
+    "cotacao-compra": 1.07446,
+    "cotacao-venda": 1.07808,
+    "data": "2001-04-11",
+    "data-hora-fonte": "2001-04-11 18:23:00.0",
+    "paridade-compra": 0.50265,
+    "paridade-venda": 0.50415
+  },
+  {
+    "cotacao-compra": 1.0969,
+    "cotacao-venda": 1.10056,
+    "data": "2001-04-12",
+    "data-hora-fonte": "2001-04-12 18:22:00.0",
+    "paridade-compra": 0.50865,
+    "paridade-venda": 0.51016
+  },
+  {
+    "cotacao-compra": 1.11604,
+    "cotacao-venda": 1.11974,
+    "data": "2001-04-16",
+    "data-hora-fonte": "2001-04-16 21:33:00.0",
+    "paridade-compra": 0.51154,
+    "paridade-venda": 0.51306
+  },
+  {
+    "cotacao-compra": 1.1022,
+    "cotacao-venda": 1.1059,
+    "data": "2001-04-17",
+    "data-hora-fonte": "2001-04-17 18:50:00.0",
+    "paridade-compra": 0.50375,
+    "paridade-venda": 0.50525
+  },
+  {
+    "cotacao-compra": 1.09525,
+    "cotacao-venda": 1.09893,
+    "data": "2001-04-18",
+    "data-hora-fonte": "2001-04-18 18:20:00.0",
+    "paridade-compra": 0.50375,
+    "paridade-venda": 0.50525
+  },
+  {
+    "cotacao-compra": 1.12704,
+    "cotacao-venda": 1.13077,
+    "data": "2001-04-19",
+    "data-hora-fonte": "2001-04-19 18:38:00.0",
+    "paridade-compra": 0.51524,
+    "paridade-venda": 0.51676
+  },
+  {
+    "cotacao-compra": 1.1512,
+    "cotacao-venda": 1.15501,
+    "data": "2001-04-20",
+    "data-hora-fonte": "2001-04-20 18:24:00.0",
+    "paridade-compra": 0.51494,
+    "paridade-venda": 0.51646
+  },
+  {
+    "cotacao-compra": 1.1421,
+    "cotacao-venda": 1.14591,
+    "data": "2001-04-23",
+    "data-hora-fonte": "2001-04-23 18:23:00.0",
+    "paridade-compra": 0.50585,
+    "paridade-venda": 0.50735
+  },
+  {
+    "cotacao-compra": 1.14283,
+    "cotacao-venda": 1.14663,
+    "data": "2001-04-24",
+    "data-hora-fonte": "2001-04-24 18:51:00.0",
+    "paridade-compra": 0.50725,
+    "paridade-venda": 0.50875
+  },
+  {
+    "cotacao-compra": 1.16475,
+    "cotacao-venda": 1.16862,
+    "data": "2001-04-25",
+    "data-hora-fonte": "2001-04-25 18:49:00.0",
+    "paridade-compra": 0.50635,
+    "paridade-venda": 0.50785
+  },
+  {
+    "cotacao-compra": 1.14996,
+    "cotacao-venda": 1.15377,
+    "data": "2001-04-26",
+    "data-hora-fonte": "2001-04-26 18:46:00.0",
+    "paridade-compra": 0.51035,
+    "paridade-venda": 0.51186
+  },
+  {
+    "cotacao-compra": 1.1291,
+    "cotacao-venda": 1.13285,
+    "data": "2001-04-27",
+    "data-hora-fonte": "2001-04-27 18:18:00.0",
+    "paridade-compra": 0.50925,
+    "paridade-venda": 0.51076
+  },
+  {
+    "cotacao-compra": 1.11913,
+    "cotacao-venda": 1.12284,
+    "data": "2001-04-30",
+    "data-hora-fonte": "2001-04-30 18:50:00.0",
+    "paridade-compra": 0.51244,
+    "paridade-venda": 0.51396
+  },
+  {
+    "cotacao-compra": 1.15677,
+    "cotacao-venda": 1.16057,
+    "data": "2001-05-02",
+    "data-hora-fonte": "2001-05-02 18:24:00.0",
+    "paridade-compra": 0.52034,
+    "paridade-venda": 0.52186
+  },
+  {
+    "cotacao-compra": 1.1589,
+    "cotacao-venda": 1.16271,
+    "data": "2001-05-03",
+    "data-hora-fonte": "2001-05-03 18:28:00.0",
+    "paridade-compra": 0.51864,
+    "paridade-venda": 0.52016
+  },
+  {
+    "cotacao-compra": 1.1514,
+    "cotacao-venda": 1.15519,
+    "data": "2001-05-04",
+    "data-hora-fonte": "2001-05-04 18:12:00.0",
+    "paridade-compra": 0.51914,
+    "paridade-venda": 0.52066
+  },
+  {
+    "cotacao-compra": 1.13727,
+    "cotacao-venda": 1.14102,
+    "data": "2001-05-07",
+    "data-hora-fonte": "2001-05-07 18:19:00.0",
+    "paridade-compra": 0.51814,
+    "paridade-venda": 0.51966
+  },
+  {
+    "cotacao-compra": 1.15134,
+    "cotacao-venda": 1.15514,
+    "data": "2001-05-08",
+    "data-hora-fonte": "2001-05-08 18:23:00.0",
+    "paridade-compra": 0.51604,
+    "paridade-venda": 0.51756
+  },
+  {
+    "cotacao-compra": 1.1843,
+    "cotacao-venda": 1.18817,
+    "data": "2001-05-09",
+    "data-hora-fonte": "2001-05-09 18:21:00.0",
+    "paridade-compra": 0.52454,
+    "paridade-venda": 0.52606
+  },
+  {
+    "cotacao-compra": 1.18843,
+    "cotacao-venda": 1.19231,
+    "data": "2001-05-10",
+    "data-hora-fonte": "2001-05-10 18:22:00.0",
+    "paridade-compra": 0.52384,
+    "paridade-venda": 0.52536
+  },
+  {
+    "cotacao-compra": 1.19289,
+    "cotacao-venda": 1.19679,
+    "data": "2001-05-11",
+    "data-hora-fonte": "2001-05-11 18:23:00.0",
+    "paridade-compra": 0.52194,
+    "paridade-venda": 0.52346
+  },
+  {
+    "cotacao-compra": 1.19775,
+    "cotacao-venda": 1.20167,
+    "data": "2001-05-14",
+    "data-hora-fonte": "2001-05-14 18:14:00.0",
+    "paridade-compra": 0.51954,
+    "paridade-venda": 0.52106
+  },
+  {
+    "cotacao-compra": 1.21962,
+    "cotacao-venda": 1.2236,
+    "data": "2001-05-15",
+    "data-hora-fonte": "2001-05-15 19:38:00.0",
+    "paridade-compra": 0.52174,
+    "paridade-venda": 0.52326
+  },
+  {
+    "cotacao-compra": 1.21588,
+    "cotacao-venda": 1.21984,
+    "data": "2001-05-16",
+    "data-hora-fonte": "2001-05-16 18:10:00.0",
+    "paridade-compra": 0.52384,
+    "paridade-venda": 0.52536
+  },
+  {
+    "cotacao-compra": 1.21481,
+    "cotacao-venda": 1.21875,
+    "data": "2001-05-17",
+    "data-hora-fonte": "2001-05-17 18:14:00.0",
+    "paridade-compra": 0.52754,
+    "paridade-venda": 0.52906
+  },
+  {
+    "cotacao-compra": 1.21461,
+    "cotacao-venda": 1.21855,
+    "data": "2001-05-18",
+    "data-hora-fonte": "2001-05-18 18:18:00.0",
+    "paridade-compra": 0.52964,
+    "paridade-venda": 0.53117
+  },
+  {
+    "cotacao-compra": 1.22548,
+    "cotacao-venda": 1.22946,
+    "data": "2001-05-21",
+    "data-hora-fonte": "2001-05-21 20:12:00.0",
+    "paridade-compra": 0.52664,
+    "paridade-venda": 0.52816
+  },
+  {
+    "cotacao-compra": 1.20512,
+    "cotacao-venda": 1.20905,
+    "data": "2001-05-22",
+    "data-hora-fonte": "2001-05-22 18:17:00.0",
+    "paridade-compra": 0.52274,
+    "paridade-venda": 0.52426
+  },
+  {
+    "cotacao-compra": 1.2125,
+    "cotacao-venda": 1.21647,
+    "data": "2001-05-23",
+    "data-hora-fonte": "2001-05-23 18:10:00.0",
+    "paridade-compra": 0.51774,
+    "paridade-venda": 0.51926
+  },
+  {
+    "cotacao-compra": 1.22066,
+    "cotacao-venda": 1.22465,
+    "data": "2001-05-24",
+    "data-hora-fonte": "2001-05-24 18:20:00.0",
+    "paridade-compra": 0.51974,
+    "paridade-venda": 0.52126
+  },
+  {
+    "cotacao-compra": 1.21687,
+    "cotacao-venda": 1.22084,
+    "data": "2001-05-25",
+    "data-hora-fonte": "2001-05-25 18:19:00.0",
+    "paridade-compra": 0.52014,
+    "paridade-venda": 0.52166
+  },
+  {
+    "cotacao-compra": 1.21015,
+    "cotacao-venda": 1.21411,
+    "data": "2001-05-28",
+    "data-hora-fonte": "2001-05-28 18:34:00.0",
+    "paridade-compra": 0.52034,
+    "paridade-venda": 0.52186
+  },
+  {
+    "cotacao-compra": 1.21075,
+    "cotacao-venda": 1.21472,
+    "data": "2001-05-29",
+    "data-hora-fonte": "2001-05-29 18:27:00.0",
+    "paridade-compra": 0.51704,
+    "paridade-venda": 0.51856
+  },
+  {
+    "cotacao-compra": 1.20993,
+    "cotacao-venda": 1.21391,
+    "data": "2001-05-30",
+    "data-hora-fonte": "2001-05-30 18:17:00.0",
+    "paridade-compra": 0.51294,
+    "paridade-venda": 0.51446
+  },
+  {
+    "cotacao-compra": 1.19481,
+    "cotacao-venda": 1.19877,
+    "data": "2001-05-31",
+    "data-hora-fonte": "2001-05-31 18:17:00.0",
+    "paridade-compra": 0.50645,
+    "paridade-venda": 0.50795
+  },
+  {
+    "cotacao-compra": 1.21232,
+    "cotacao-venda": 1.21633,
+    "data": "2001-06-01",
+    "data-hora-fonte": "2001-06-01 18:20:00.0",
+    "paridade-compra": 0.50885,
+    "paridade-venda": 0.51036
+  },
+  {
+    "cotacao-compra": 1.19935,
+    "cotacao-venda": 1.20332,
+    "data": "2001-06-04",
+    "data-hora-fonte": "2001-06-04 17:23:00.0",
+    "paridade-compra": 0.50775,
+    "paridade-venda": 0.50926
+  },
+  {
+    "cotacao-compra": 1.2193,
+    "cotacao-venda": 1.22332,
+    "data": "2001-06-05",
+    "data-hora-fonte": "2001-06-05 17:42:00.0",
+    "paridade-compra": 0.51045,
+    "paridade-venda": 0.51196
+  },
+  {
+    "cotacao-compra": 1.22957,
+    "cotacao-venda": 1.23359,
+    "data": "2001-06-06",
+    "data-hora-fonte": "2001-06-06 17:40:00.0",
+    "paridade-compra": 0.51634,
+    "paridade-venda": 0.51786
+  },
+  {
+    "cotacao-compra": 1.23929,
+    "cotacao-venda": 1.24334,
+    "data": "2001-06-07",
+    "data-hora-fonte": "2001-06-07 17:27:00.0",
+    "paridade-compra": 0.51914,
+    "paridade-venda": 0.52066
+  },
+  {
+    "cotacao-compra": 1.24014,
+    "cotacao-venda": 1.24416,
+    "data": "2001-06-08",
+    "data-hora-fonte": "2001-06-08 17:26:00.0",
+    "paridade-compra": 0.52524,
+    "paridade-venda": 0.52676
+  },
+  {
+    "cotacao-compra": 1.24081,
+    "cotacao-venda": 1.24484,
+    "data": "2001-06-11",
+    "data-hora-fonte": "2001-06-11 17:28:00.0",
+    "paridade-compra": 0.52324,
+    "paridade-venda": 0.52476
+  },
+  {
+    "cotacao-compra": 1.25426,
+    "cotacao-venda": 1.25832,
+    "data": "2001-06-12",
+    "data-hora-fonte": "2001-06-12 17:39:00.0",
+    "paridade-compra": 0.52484,
+    "paridade-venda": 0.52636
+  },
+  {
+    "cotacao-compra": 1.27363,
+    "cotacao-venda": 1.27774,
+    "data": "2001-06-13",
+    "data-hora-fonte": "2001-06-13 17:31:00.0",
+    "paridade-compra": 0.52914,
+    "paridade-venda": 0.53067
+  },
+  {
+    "cotacao-compra": 1.26382,
+    "cotacao-venda": 1.26791,
+    "data": "2001-06-15",
+    "data-hora-fonte": "2001-06-15 17:29:00.0",
+    "paridade-compra": 0.52504,
+    "paridade-venda": 0.52656
+  },
+  {
+    "cotacao-compra": 1.28601,
+    "cotacao-venda": 1.29018,
+    "data": "2001-06-18",
+    "data-hora-fonte": "2001-06-18 17:42:00.0",
+    "paridade-compra": 0.52324,
+    "paridade-venda": 0.52476
+  },
+  {
+    "cotacao-compra": 1.28328,
+    "cotacao-venda": 1.28745,
+    "data": "2001-06-19",
+    "data-hora-fonte": "2001-06-19 17:31:00.0",
+    "paridade-compra": 0.52024,
+    "paridade-venda": 0.52176
+  },
+  {
+    "cotacao-compra": 1.28361,
+    "cotacao-venda": 1.28779,
+    "data": "2001-06-20",
+    "data-hora-fonte": "2001-06-20 17:41:00.0",
+    "paridade-compra": 0.51884,
+    "paridade-venda": 0.52036
+  },
+  {
+    "cotacao-compra": 1.2452,
+    "cotacao-venda": 1.24927,
+    "data": "2001-06-21",
+    "data-hora-fonte": "2001-06-21 17:30:00.0",
+    "paridade-compra": 0.51784,
+    "paridade-venda": 0.51936
+  },
+  {
+    "cotacao-compra": 1.20292,
+    "cotacao-venda": 1.20687,
+    "data": "2001-06-22",
+    "data-hora-fonte": "2001-06-22 17:33:00.0",
+    "paridade-compra": 0.51654,
+    "paridade-venda": 0.51806
+  },
+  {
+    "cotacao-compra": 1.18771,
+    "cotacao-venda": 1.19161,
+    "data": "2001-06-25",
+    "data-hora-fonte": "2001-06-25 17:12:00.0",
+    "paridade-compra": 0.51664,
+    "paridade-venda": 0.51816
+  },
+  {
+    "cotacao-compra": 1.20799,
+    "cotacao-venda": 1.21193,
+    "data": "2001-06-26",
+    "data-hora-fonte": "2001-06-26 17:11:00.0",
+    "paridade-compra": 0.52224,
+    "paridade-venda": 0.52376
+  },
+  {
+    "cotacao-compra": 1.20539,
+    "cotacao-venda": 1.20934,
+    "data": "2001-06-27",
+    "data-hora-fonte": "2001-06-27 17:44:00.0",
+    "paridade-compra": 0.51894,
+    "paridade-venda": 0.52046
+  },
+  {
+    "cotacao-compra": 1.15984,
+    "cotacao-venda": 1.1637,
+    "data": "2001-06-28",
+    "data-hora-fonte": "2001-06-28 17:30:00.0",
+    "paridade-compra": 0.50615,
+    "paridade-venda": 0.50765
+  },
+  {
+    "cotacao-compra": 1.17612,
+    "cotacao-venda": 1.18001,
+    "data": "2001-06-29",
+    "data-hora-fonte": "2001-06-29 17:31:00.0",
+    "paridade-compra": 0.51045,
+    "paridade-venda": 0.51196
+  },
+  {
+    "cotacao-compra": 1.18818,
+    "cotacao-venda": 1.19211,
+    "data": "2001-07-02",
+    "data-hora-fonte": "2001-07-02 17:21:00.0",
+    "paridade-compra": 0.51124,
+    "paridade-venda": 0.51276
+  },
+  {
+    "cotacao-compra": 1.21061,
+    "cotacao-venda": 1.21457,
+    "data": "2001-07-03",
+    "data-hora-fonte": "2001-07-03 17:39:00.0",
+    "paridade-compra": 0.51764,
+    "paridade-venda": 0.51916
+  },
+  {
+    "cotacao-compra": 1.23807,
+    "cotacao-venda": 1.24211,
+    "data": "2001-07-04",
+    "data-hora-fonte": "2001-07-04 17:14:00.0",
+    "paridade-compra": 0.51804,
+    "paridade-venda": 0.51956
+  },
+  {
+    "cotacao-compra": 1.24006,
+    "cotacao-venda": 1.24413,
+    "data": "2001-07-05",
+    "data-hora-fonte": "2001-07-05 17:21:00.0",
+    "paridade-compra": 0.51444,
+    "paridade-venda": 0.51596
+  },
+  {
+    "cotacao-compra": 1.26706,
+    "cotacao-venda": 1.27123,
+    "data": "2001-07-06",
+    "data-hora-fonte": "2001-07-06 17:31:00.0",
+    "paridade-compra": 0.50815,
+    "paridade-venda": 0.50966
+  },
+  {
+    "cotacao-compra": 1.25214,
+    "cotacao-venda": 1.25626,
+    "data": "2001-07-09",
+    "data-hora-fonte": "2001-07-09 17:21:00.0",
+    "paridade-compra": 0.51025,
+    "paridade-venda": 0.51176
+  },
+  {
+    "cotacao-compra": 1.26213,
+    "cotacao-venda": 1.26628,
+    "data": "2001-07-10",
+    "data-hora-fonte": "2001-07-10 17:19:00.0",
+    "paridade-compra": 0.50905,
+    "paridade-venda": 0.51056
+  },
+  {
+    "cotacao-compra": 1.27787,
+    "cotacao-venda": 1.28209,
+    "data": "2001-07-11",
+    "data-hora-fonte": "2001-07-11 17:16:00.0",
+    "paridade-compra": 0.50525,
+    "paridade-venda": 0.50675
+  },
+  {
+    "cotacao-compra": 1.28358,
+    "cotacao-venda": 1.28781,
+    "data": "2001-07-12",
+    "data-hora-fonte": "2001-07-12 17:22:00.0",
+    "paridade-compra": 0.50505,
+    "paridade-venda": 0.50655
+  },
+  {
+    "cotacao-compra": 1.29602,
+    "cotacao-venda": 1.30028,
+    "data": "2001-07-13",
+    "data-hora-fonte": "2001-07-13 17:20:00.0",
+    "paridade-compra": 0.50765,
+    "paridade-venda": 0.50915
+  },
+  {
+    "cotacao-compra": 1.31945,
+    "cotacao-venda": 1.32377,
+    "data": "2001-07-16",
+    "data-hora-fonte": "2001-07-16 17:25:00.0",
+    "paridade-compra": 0.50805,
+    "paridade-venda": 0.50956
+  },
+  {
+    "cotacao-compra": 1.2897,
+    "cotacao-venda": 1.29394,
+    "data": "2001-07-17",
+    "data-hora-fonte": "2001-07-17 17:28:00.0",
+    "paridade-compra": 0.50985,
+    "paridade-venda": 0.51136
+  },
+  {
+    "cotacao-compra": 1.27104,
+    "cotacao-venda": 1.2752,
+    "data": "2001-07-18",
+    "data-hora-fonte": "2001-07-18 17:23:00.0",
+    "paridade-compra": 0.51484,
+    "paridade-venda": 0.51636
+  },
+  {
+    "cotacao-compra": 1.28734,
+    "cotacao-venda": 1.29155,
+    "data": "2001-07-19",
+    "data-hora-fonte": "2001-07-19 17:26:00.0",
+    "paridade-compra": 0.51444,
+    "paridade-venda": 0.51596
+  },
+  {
+    "cotacao-compra": 1.24261,
+    "cotacao-venda": 1.24672,
+    "data": "2001-07-20",
+    "data-hora-fonte": "2001-07-20 18:18:00.0",
+    "paridade-compra": 0.50585,
+    "paridade-venda": 0.50735
+  },
+  {
+    "cotacao-compra": 1.22439,
+    "cotacao-venda": 1.22844,
+    "data": "2001-07-23",
+    "data-hora-fonte": "2001-07-23 17:22:00.0",
+    "paridade-compra": 0.50805,
+    "paridade-venda": 0.50956
+  },
+  {
+    "cotacao-compra": 1.23194,
+    "cotacao-venda": 1.236,
+    "data": "2001-07-24",
+    "data-hora-fonte": "2001-07-24 17:30:00.0",
+    "paridade-compra": 0.50825,
+    "paridade-venda": 0.50976
+  },
+  {
+    "cotacao-compra": 1.26335,
+    "cotacao-venda": 1.26751,
+    "data": "2001-07-25",
+    "data-hora-fonte": "2001-07-25 17:14:00.0",
+    "paridade-compra": 0.50725,
+    "paridade-venda": 0.50875
+  },
+  {
+    "cotacao-compra": 1.26435,
+    "cotacao-venda": 1.26851,
+    "data": "2001-07-26",
+    "data-hora-fonte": "2001-07-26 17:20:00.0",
+    "paridade-compra": 0.50925,
+    "paridade-venda": 0.51076
+  },
+  {
+    "cotacao-compra": 1.26873,
+    "cotacao-venda": 1.27291,
+    "data": "2001-07-27",
+    "data-hora-fonte": "2001-07-27 17:17:00.0",
+    "paridade-compra": 0.50825,
+    "paridade-venda": 0.50976
+  },
+  {
+    "cotacao-compra": 1.23004,
+    "cotacao-venda": 1.23411,
+    "data": "2001-07-30",
+    "data-hora-fonte": "2001-07-30 18:25:00.0",
+    "paridade-compra": 0.50565,
+    "paridade-venda": 0.50715
+  },
+  {
+    "cotacao-compra": 1.23772,
+    "cotacao-venda": 1.2418,
+    "data": "2001-07-31",
+    "data-hora-fonte": "2001-07-31 18:14:00.0",
+    "paridade-compra": 0.50925,
+    "paridade-venda": 0.51076
+  },
+  {
+    "cotacao-compra": 1.29182,
+    "cotacao-venda": 1.29602,
+    "data": "2001-08-01",
+    "data-hora-fonte": "2001-08-01 17:34:00.0",
+    "paridade-compra": 0.51824,
+    "paridade-venda": 0.51976
+  },
+  {
+    "cotacao-compra": 1.29229,
+    "cotacao-venda": 1.29649,
+    "data": "2001-08-02",
+    "data-hora-fonte": "2001-08-02 17:33:00.0",
+    "paridade-compra": 0.51964,
+    "paridade-venda": 0.52116
+  },
+  {
+    "cotacao-compra": 1.2847,
+    "cotacao-venda": 1.28889,
+    "data": "2001-08-03",
+    "data-hora-fonte": "2001-08-03 17:28:00.0",
+    "paridade-compra": 0.51644,
+    "paridade-venda": 0.51796
+  },
+  {
+    "cotacao-compra": 1.27715,
+    "cotacao-venda": 1.28131,
+    "data": "2001-08-06",
+    "data-hora-fonte": "2001-08-06 17:34:00.0",
+    "paridade-compra": 0.51744,
+    "paridade-venda": 0.51896
+  },
+  {
+    "cotacao-compra": 1.25954,
+    "cotacao-venda": 1.26366,
+    "data": "2001-08-07",
+    "data-hora-fonte": "2001-08-07 18:09:00.0",
+    "paridade-compra": 0.51504,
+    "paridade-venda": 0.51656
+  },
+  {
+    "cotacao-compra": 1.28256,
+    "cotacao-venda": 1.28673,
+    "data": "2001-08-08",
+    "data-hora-fonte": "2001-08-08 17:21:00.0",
+    "paridade-compra": 0.51934,
+    "paridade-venda": 0.52086
+  },
+  {
+    "cotacao-compra": 1.26023,
+    "cotacao-venda": 1.26437,
+    "data": "2001-08-09",
+    "data-hora-fonte": "2001-08-09 17:21:00.0",
+    "paridade-compra": 0.51104,
+    "paridade-venda": 0.51256
+  },
+  {
+    "cotacao-compra": 1.27757,
+    "cotacao-venda": 1.28174,
+    "data": "2001-08-10",
+    "data-hora-fonte": "2001-08-10 18:30:00.0",
+    "paridade-compra": 0.51444,
+    "paridade-venda": 0.51596
+  },
+  {
+    "cotacao-compra": 1.28878,
+    "cotacao-venda": 1.29298,
+    "data": "2001-08-13",
+    "data-hora-fonte": "2001-08-13 17:23:00.0",
+    "paridade-compra": 0.51754,
+    "paridade-venda": 0.51906
+  },
+  {
+    "cotacao-compra": 1.3135,
+    "cotacao-venda": 1.31774,
+    "data": "2001-08-14",
+    "data-hora-fonte": "2001-08-14 17:57:00.0",
+    "paridade-compra": 0.52264,
+    "paridade-venda": 0.52416
+  },
+  {
+    "cotacao-compra": 1.32168,
+    "cotacao-venda": 1.32593,
+    "data": "2001-08-15",
+    "data-hora-fonte": "2001-08-15 17:19:00.0",
+    "paridade-compra": 0.52874,
+    "paridade-venda": 0.53027
+  },
+  {
+    "cotacao-compra": 1.30323,
+    "cotacao-venda": 1.30744,
+    "data": "2001-08-16",
+    "data-hora-fonte": "2001-08-16 17:20:00.0",
+    "paridade-compra": 0.52404,
+    "paridade-venda": 0.52556
+  },
+  {
+    "cotacao-compra": 1.353,
+    "cotacao-venda": 1.35731,
+    "data": "2001-08-17",
+    "data-hora-fonte": "2001-08-17 17:26:00.0",
+    "paridade-compra": 0.53633,
+    "paridade-venda": 0.53787
+  },
+  {
+    "cotacao-compra": 1.34771,
+    "cotacao-venda": 1.35202,
+    "data": "2001-08-20",
+    "data-hora-fonte": "2001-08-20 17:20:00.0",
+    "paridade-compra": 0.53273,
+    "paridade-venda": 0.53427
+  },
+  {
+    "cotacao-compra": 1.35503,
+    "cotacao-venda": 1.35935,
+    "data": "2001-08-21",
+    "data-hora-fonte": "2001-08-21 17:21:00.0",
+    "paridade-compra": 0.53463,
+    "paridade-venda": 0.53617
+  },
+  {
+    "cotacao-compra": 1.34724,
+    "cotacao-venda": 1.35154,
+    "data": "2001-08-22",
+    "data-hora-fonte": "2001-08-22 17:24:00.0",
+    "paridade-compra": 0.53413,
+    "paridade-venda": 0.53567
+  },
+  {
+    "cotacao-compra": 1.34921,
+    "cotacao-venda": 1.35352,
+    "data": "2001-08-23",
+    "data-hora-fonte": "2001-08-23 17:35:00.0",
+    "paridade-compra": 0.53383,
+    "paridade-venda": 0.53537
+  },
+  {
+    "cotacao-compra": 1.36136,
+    "cotacao-venda": 1.3657,
+    "data": "2001-08-24",
+    "data-hora-fonte": "2001-08-24 17:32:00.0",
+    "paridade-compra": 0.53403,
+    "paridade-venda": 0.53557
+  },
+  {
+    "cotacao-compra": 1.35286,
+    "cotacao-venda": 1.35719,
+    "data": "2001-08-27",
+    "data-hora-fonte": "2001-08-27 18:03:00.0",
+    "paridade-compra": 0.52894,
+    "paridade-venda": 0.53047
+  },
+  {
+    "cotacao-compra": 1.35354,
+    "cotacao-venda": 1.35787,
+    "data": "2001-08-28",
+    "data-hora-fonte": "2001-08-28 17:17:00.0",
+    "paridade-compra": 0.52964,
+    "paridade-venda": 0.53117
+  },
+  {
+    "cotacao-compra": 1.34851,
+    "cotacao-venda": 1.35284,
+    "data": "2001-08-29",
+    "data-hora-fonte": "2001-08-29 17:17:00.0",
+    "paridade-compra": 0.52954,
+    "paridade-venda": 0.53107
+  },
+  {
+    "cotacao-compra": 1.34958,
+    "cotacao-venda": 1.35389,
+    "data": "2001-08-30",
+    "data-hora-fonte": "2001-08-30 17:18:00.0",
+    "paridade-compra": 0.53143,
+    "paridade-venda": 0.53297
+  },
+  {
+    "cotacao-compra": 1.35258,
+    "cotacao-venda": 1.35691,
+    "data": "2001-08-31",
+    "data-hora-fonte": "2001-08-31 17:16:00.0",
+    "paridade-compra": 0.53024,
+    "paridade-venda": 0.53177
+  },
+  {
+    "cotacao-compra": 1.34903,
+    "cotacao-venda": 1.35336,
+    "data": "2001-09-03",
+    "data-hora-fonte": "2001-09-03 17:24:00.0",
+    "paridade-compra": 0.52734,
+    "paridade-venda": 0.52886
+  },
+  {
+    "cotacao-compra": 1.3341,
+    "cotacao-venda": 1.33841,
+    "data": "2001-09-04",
+    "data-hora-fonte": "2001-09-04 17:36:00.0",
+    "paridade-compra": 0.52044,
+    "paridade-venda": 0.52196
+  },
+  {
+    "cotacao-compra": 1.33601,
+    "cotacao-venda": 1.34034,
+    "data": "2001-09-05",
+    "data-hora-fonte": "2001-09-05 17:39:00.0",
+    "paridade-compra": 0.52064,
+    "paridade-venda": 0.52216
+  },
+  {
+    "cotacao-compra": 1.35489,
+    "cotacao-venda": 1.35925,
+    "data": "2001-09-06",
+    "data-hora-fonte": "2001-09-06 17:47:00.0",
+    "paridade-compra": 0.52274,
+    "paridade-venda": 0.52426
+  },
+  {
+    "cotacao-compra": 1.33547,
+    "cotacao-venda": 1.33982,
+    "data": "2001-09-10",
+    "data-hora-fonte": "2001-09-10 17:21:00.0",
+    "paridade-compra": 0.51354,
+    "paridade-venda": 0.51506
+  },
+  {
+    "cotacao-compra": 1.37509,
+    "cotacao-venda": 1.37952,
+    "data": "2001-09-11",
+    "data-hora-fonte": "2001-09-11 17:11:00.0",
+    "paridade-compra": 0.52164,
+    "paridade-venda": 0.52316
+  },
+  {
+    "cotacao-compra": 1.3806,
+    "cotacao-venda": 1.38507,
+    "data": "2001-09-12",
+    "data-hora-fonte": "2001-09-12 17:29:00.0",
+    "paridade-compra": 0.51644,
+    "paridade-venda": 0.51796
+  },
+  {
+    "cotacao-compra": 1.39069,
+    "cotacao-venda": 1.39519,
+    "data": "2001-09-13",
+    "data-hora-fonte": "2001-09-13 17:37:00.0",
+    "paridade-compra": 0.51564,
+    "paridade-venda": 0.51716
+  },
+  {
+    "cotacao-compra": 1.38921,
+    "cotacao-venda": 1.39371,
+    "data": "2001-09-14",
+    "data-hora-fonte": "2001-09-14 17:37:00.0",
+    "paridade-compra": 0.51494,
+    "paridade-venda": 0.51646
+  },
+  {
+    "cotacao-compra": 1.34035,
+    "cotacao-venda": 1.34476,
+    "data": "2001-09-17",
+    "data-hora-fonte": "2001-09-17 17:20:00.0",
+    "paridade-compra": 0.50255,
+    "paridade-venda": 0.50405
+  },
+  {
+    "cotacao-compra": 1.33055,
+    "cotacao-venda": 1.33496,
+    "data": "2001-09-18",
+    "data-hora-fonte": "2001-09-18 17:28:00.0",
+    "paridade-compra": 0.49675,
+    "paridade-venda": 0.49825
+  },
+  {
+    "cotacao-compra": 1.33595,
+    "cotacao-venda": 1.34039,
+    "data": "2001-09-19",
+    "data-hora-fonte": "2001-09-19 17:31:00.0",
+    "paridade-compra": 0.49375,
+    "paridade-venda": 0.49525
+  },
+  {
+    "cotacao-compra": 1.34727,
+    "cotacao-venda": 1.35175,
+    "data": "2001-09-20",
+    "data-hora-fonte": "2001-09-20 17:15:00.0",
+    "paridade-compra": 0.49325,
+    "paridade-venda": 0.49475
+  },
+  {
+    "cotacao-compra": 1.35643,
+    "cotacao-venda": 1.36098,
+    "data": "2001-09-21",
+    "data-hora-fonte": "2001-09-21 17:20:00.0",
+    "paridade-compra": 0.48446,
+    "paridade-venda": 0.48594
+  },
+  {
+    "cotacao-compra": 1.35971,
+    "cotacao-venda": 1.36423,
+    "data": "2001-09-24",
+    "data-hora-fonte": "2001-09-24 17:25:00.0",
+    "paridade-compra": 0.49145,
+    "paridade-venda": 0.49295
+  },
+  {
+    "cotacao-compra": 1.33795,
+    "cotacao-venda": 1.3424,
+    "data": "2001-09-25",
+    "data-hora-fonte": "2001-09-25 17:21:00.0",
+    "paridade-compra": 0.49325,
+    "paridade-venda": 0.49475
+  },
+  {
+    "cotacao-compra": 1.33597,
+    "cotacao-venda": 1.34042,
+    "data": "2001-09-26",
+    "data-hora-fonte": "2001-09-26 17:21:00.0",
+    "paridade-compra": 0.49016,
+    "paridade-venda": 0.49165
+  },
+  {
+    "cotacao-compra": 1.31926,
+    "cotacao-venda": 1.32368,
+    "data": "2001-09-27",
+    "data-hora-fonte": "2001-09-27 17:22:00.0",
+    "paridade-compra": 0.48786,
+    "paridade-venda": 0.48935
+  },
+  {
+    "cotacao-compra": 1.31483,
+    "cotacao-venda": 1.31921,
+    "data": "2001-09-28",
+    "data-hora-fonte": "2001-09-28 17:31:00.0",
+    "paridade-compra": 0.49235,
+    "paridade-venda": 0.49385
+  },
+  {
+    "cotacao-compra": 1.33015,
+    "cotacao-venda": 1.33456,
+    "data": "2001-10-01",
+    "data-hora-fonte": "2001-10-01 17:14:00.0",
+    "paridade-compra": 0.49525,
+    "paridade-venda": 0.49675
+  },
+  {
+    "cotacao-compra": 1.34002,
+    "cotacao-venda": 1.34446,
+    "data": "2001-10-02",
+    "data-hora-fonte": "2001-10-02 17:16:00.0",
+    "paridade-compra": 0.49575,
+    "paridade-venda": 0.49725
+  },
+  {
+    "cotacao-compra": 1.35591,
+    "cotacao-venda": 1.36039,
+    "data": "2001-10-03",
+    "data-hora-fonte": "2001-10-03 17:27:00.0",
+    "paridade-compra": 0.49705,
+    "paridade-venda": 0.49855
+  },
+  {
+    "cotacao-compra": 1.35976,
+    "cotacao-venda": 1.36425,
+    "data": "2001-10-04",
+    "data-hora-fonte": "2001-10-04 17:30:00.0",
+    "paridade-compra": 0.49775,
+    "paridade-venda": 0.49925
+  },
+  {
+    "cotacao-compra": 1.396,
+    "cotacao-venda": 1.40056,
+    "data": "2001-10-05",
+    "data-hora-fonte": "2001-10-05 17:19:00.0",
+    "paridade-compra": 0.50705,
+    "paridade-venda": 0.50855
+  },
+  {
+    "cotacao-compra": 1.41283,
+    "cotacao-venda": 1.41743,
+    "data": "2001-10-08",
+    "data-hora-fonte": "2001-10-08 17:46:00.0",
+    "paridade-compra": 0.50785,
+    "paridade-venda": 0.50936
+  },
+  {
+    "cotacao-compra": 1.39237,
+    "cotacao-venda": 1.39694,
+    "data": "2001-10-09",
+    "data-hora-fonte": "2001-10-09 17:10:00.0",
+    "paridade-compra": 0.50105,
+    "paridade-venda": 0.50255
+  },
+  {
+    "cotacao-compra": 1.39366,
+    "cotacao-venda": 1.39824,
+    "data": "2001-10-10",
+    "data-hora-fonte": "2001-10-10 17:53:00.0",
+    "paridade-compra": 0.50175,
+    "paridade-venda": 0.50325
+  },
+  {
+    "cotacao-compra": 1.39358,
+    "cotacao-venda": 1.39815,
+    "data": "2001-10-11",
+    "data-hora-fonte": "2001-10-11 17:36:00.0",
+    "paridade-compra": 0.50145,
+    "paridade-venda": 0.50295
+  },
+  {
+    "cotacao-compra": 1.43339,
+    "cotacao-venda": 1.43802,
+    "data": "2001-10-15",
+    "data-hora-fonte": "2001-10-15 17:49:00.0",
+    "paridade-compra": 0.51594,
+    "paridade-venda": 0.51746
+  },
+  {
+    "cotacao-compra": 1.40904,
+    "cotacao-venda": 1.41362,
+    "data": "2001-10-16",
+    "data-hora-fonte": "2001-10-16 17:36:00.0",
+    "paridade-compra": 0.51204,
+    "paridade-venda": 0.51356
+  },
+  {
+    "cotacao-compra": 1.39455,
+    "cotacao-venda": 1.39907,
+    "data": "2001-10-17",
+    "data-hora-fonte": "2001-10-17 17:45:00.0",
+    "paridade-compra": 0.51264,
+    "paridade-venda": 0.51416
+  },
+  {
+    "cotacao-compra": 1.38853,
+    "cotacao-venda": 1.39306,
+    "data": "2001-10-18",
+    "data-hora-fonte": "2001-10-18 17:55:00.0",
+    "paridade-compra": 0.50645,
+    "paridade-venda": 0.50795
+  },
+  {
+    "cotacao-compra": 1.40208,
+    "cotacao-venda": 1.40665,
+    "data": "2001-10-19",
+    "data-hora-fonte": "2001-10-19 17:40:00.0",
+    "paridade-compra": 0.50865,
+    "paridade-venda": 0.51016
+  },
+  {
+    "cotacao-compra": 1.38488,
+    "cotacao-venda": 1.38939,
+    "data": "2001-10-22",
+    "data-hora-fonte": "2001-10-22 17:39:00.0",
+    "paridade-compra": 0.50975,
+    "paridade-venda": 0.51126
+  },
+  {
+    "cotacao-compra": 1.37822,
+    "cotacao-venda": 1.38273,
+    "data": "2001-10-23",
+    "data-hora-fonte": "2001-10-23 17:23:00.0",
+    "paridade-compra": 0.50745,
+    "paridade-venda": 0.50895
+  },
+  {
+    "cotacao-compra": 1.39384,
+    "cotacao-venda": 1.39839,
+    "data": "2001-10-24",
+    "data-hora-fonte": "2001-10-24 17:50:00.0",
+    "paridade-compra": 0.50815,
+    "paridade-venda": 0.50966
+  },
+  {
+    "cotacao-compra": 1.38183,
+    "cotacao-venda": 1.38636,
+    "data": "2001-10-25",
+    "data-hora-fonte": "2001-10-25 17:53:00.0",
+    "paridade-compra": 0.50395,
+    "paridade-venda": 0.50545
+  },
+  {
+    "cotacao-compra": 1.36969,
+    "cotacao-venda": 1.37419,
+    "data": "2001-10-26",
+    "data-hora-fonte": "2001-10-26 17:49:00.0",
+    "paridade-compra": 0.50205,
+    "paridade-venda": 0.50355
+  },
+  {
+    "cotacao-compra": 1.37402,
+    "cotacao-venda": 1.37852,
+    "data": "2001-10-29",
+    "data-hora-fonte": "2001-10-29 17:45:00.0",
+    "paridade-compra": 0.50445,
+    "paridade-venda": 0.50595
+  },
+  {
+    "cotacao-compra": 1.37244,
+    "cotacao-venda": 1.37694,
+    "data": "2001-10-30",
+    "data-hora-fonte": "2001-10-30 17:36:00.0",
+    "paridade-compra": 0.50415,
+    "paridade-venda": 0.50565
+  },
+  {
+    "cotacao-compra": 1.36329,
+    "cotacao-venda": 1.36777,
+    "data": "2001-10-31",
+    "data-hora-fonte": "2001-10-31 17:47:00.0",
+    "paridade-compra": 0.50375,
+    "paridade-venda": 0.50525
+  },
+  {
+    "cotacao-compra": 1.367,
+    "cotacao-venda": 1.37146,
+    "data": "2001-11-01",
+    "data-hora-fonte": "2001-11-01 17:13:00.0",
+    "paridade-compra": 0.50985,
+    "paridade-venda": 0.51136
+  },
+  {
+    "cotacao-compra": 1.33056,
+    "cotacao-venda": 1.33492,
+    "data": "2001-11-05",
+    "data-hora-fonte": "2001-11-05 17:52:00.0",
+    "paridade-compra": 0.50785,
+    "paridade-venda": 0.50936
+  },
+  {
+    "cotacao-compra": 1.33807,
+    "cotacao-venda": 1.34243,
+    "data": "2001-11-06",
+    "data-hora-fonte": "2001-11-06 17:26:00.0",
+    "paridade-compra": 0.51474,
+    "paridade-venda": 0.51626
+  },
+  {
+    "cotacao-compra": 1.34179,
+    "cotacao-venda": 1.34615,
+    "data": "2001-11-07",
+    "data-hora-fonte": "2001-11-07 17:23:00.0",
+    "paridade-compra": 0.51514,
+    "paridade-venda": 0.51666
+  },
+  {
+    "cotacao-compra": 1.31762,
+    "cotacao-venda": 1.32191,
+    "data": "2001-11-08",
+    "data-hora-fonte": "2001-11-08 17:47:00.0",
+    "paridade-compra": 0.51544,
+    "paridade-venda": 0.51696
+  },
+  {
+    "cotacao-compra": 1.30101,
+    "cotacao-venda": 1.30526,
+    "data": "2001-11-09",
+    "data-hora-fonte": "2001-11-09 17:24:00.0",
+    "paridade-compra": 0.51344,
+    "paridade-venda": 0.51496
+  },
+  {
+    "cotacao-compra": 1.32452,
+    "cotacao-venda": 1.32881,
+    "data": "2001-11-12",
+    "data-hora-fonte": "2001-11-12 17:27:00.0",
+    "paridade-compra": 0.51954,
+    "paridade-venda": 0.52106
+  },
+  {
+    "cotacao-compra": 1.31574,
+    "cotacao-venda": 1.32001,
+    "data": "2001-11-13",
+    "data-hora-fonte": "2001-11-13 17:23:00.0",
+    "paridade-compra": 0.52084,
+    "paridade-venda": 0.52236
+  },
+  {
+    "cotacao-compra": 1.31372,
+    "cotacao-venda": 1.31798,
+    "data": "2001-11-14",
+    "data-hora-fonte": "2001-11-14 18:05:00.0",
+    "paridade-compra": 0.51944,
+    "paridade-venda": 0.52096
+  },
+  {
+    "cotacao-compra": 1.32413,
+    "cotacao-venda": 1.32841,
+    "data": "2001-11-16",
+    "data-hora-fonte": "2001-11-16 17:17:00.0",
+    "paridade-compra": 0.52164,
+    "paridade-venda": 0.52316
+  },
+  {
+    "cotacao-compra": 1.31423,
+    "cotacao-venda": 1.31848,
+    "data": "2001-11-19",
+    "data-hora-fonte": "2001-11-19 17:38:00.0",
+    "paridade-compra": 0.52264,
+    "paridade-venda": 0.52416
+  },
+  {
+    "cotacao-compra": 1.31839,
+    "cotacao-venda": 1.32266,
+    "data": "2001-11-20",
+    "data-hora-fonte": "2001-11-20 17:21:00.0",
+    "paridade-compra": 0.52024,
+    "paridade-venda": 0.52176
+  },
+  {
+    "cotacao-compra": 1.31217,
+    "cotacao-venda": 1.31644,
+    "data": "2001-11-21",
+    "data-hora-fonte": "2001-11-21 17:18:00.0",
+    "paridade-compra": 0.51654,
+    "paridade-venda": 0.51806
+  },
+  {
+    "cotacao-compra": 1.31225,
+    "cotacao-venda": 1.31651,
+    "data": "2001-11-22",
+    "data-hora-fonte": "2001-11-22 17:31:00.0",
+    "paridade-compra": 0.51714,
+    "paridade-venda": 0.51866
+  },
+  {
+    "cotacao-compra": 1.29962,
+    "cotacao-venda": 1.30385,
+    "data": "2001-11-23",
+    "data-hora-fonte": "2001-11-23 17:12:00.0",
+    "paridade-compra": 0.51724,
+    "paridade-venda": 0.51876
+  },
+  {
+    "cotacao-compra": 1.29069,
+    "cotacao-venda": 1.29489,
+    "data": "2001-11-26",
+    "data-hora-fonte": "2001-11-26 17:18:00.0",
+    "paridade-compra": 0.51864,
+    "paridade-venda": 0.52016
+  },
+  {
+    "cotacao-compra": 1.28597,
+    "cotacao-venda": 1.29014,
+    "data": "2001-11-27",
+    "data-hora-fonte": "2001-11-27 17:34:00.0",
+    "paridade-compra": 0.52284,
+    "paridade-venda": 0.52436
+  },
+  {
+    "cotacao-compra": 1.29597,
+    "cotacao-venda": 1.30017,
+    "data": "2001-11-28",
+    "data-hora-fonte": "2001-11-28 17:46:00.0",
+    "paridade-compra": 0.52154,
+    "paridade-venda": 0.52306
+  },
+  {
+    "cotacao-compra": 1.29767,
+    "cotacao-venda": 1.30189,
+    "data": "2001-11-29",
+    "data-hora-fonte": "2001-11-29 17:28:00.0",
+    "paridade-compra": 0.51774,
+    "paridade-venda": 0.51926
+  },
+  {
+    "cotacao-compra": 1.31663,
+    "cotacao-venda": 1.32089,
+    "data": "2001-11-30",
+    "data-hora-fonte": "2001-11-30 17:34:00.0",
+    "paridade-compra": 0.52084,
+    "paridade-venda": 0.52236
+  },
+  {
+    "cotacao-compra": 1.27696,
+    "cotacao-venda": 1.28112,
+    "data": "2001-12-03",
+    "data-hora-fonte": "2001-12-03 18:11:00.0",
+    "paridade-compra": 0.51774,
+    "paridade-venda": 0.51926
+  },
+  {
+    "cotacao-compra": 1.253,
+    "cotacao-venda": 1.2571,
+    "data": "2001-12-04",
+    "data-hora-fonte": "2001-12-04 17:34:00.0",
+    "paridade-compra": 0.51604,
+    "paridade-venda": 0.51756
+  },
+  {
+    "cotacao-compra": 1.25776,
+    "cotacao-venda": 1.26187,
+    "data": "2001-12-05",
+    "data-hora-fonte": "2001-12-05 17:23:00.0",
+    "paridade-compra": 0.51764,
+    "paridade-venda": 0.51916
+  },
+  {
+    "cotacao-compra": 1.2681,
+    "cotacao-venda": 1.27223,
+    "data": "2001-12-06",
+    "data-hora-fonte": "2001-12-06 17:45:00.0",
+    "paridade-compra": 0.51914,
+    "paridade-venda": 0.52066
+  },
+  {
+    "cotacao-compra": 1.23547,
+    "cotacao-venda": 1.23952,
+    "data": "2001-12-07",
+    "data-hora-fonte": "2001-12-07 17:44:00.0",
+    "paridade-compra": 0.51484,
+    "paridade-venda": 0.51636
+  },
+  {
+    "cotacao-compra": 1.21495,
+    "cotacao-venda": 1.21894,
+    "data": "2001-12-10",
+    "data-hora-fonte": "2001-12-10 17:42:00.0",
+    "paridade-compra": 0.51544,
+    "paridade-venda": 0.51696
+  },
+  {
+    "cotacao-compra": 1.20566,
+    "cotacao-venda": 1.20962,
+    "data": "2001-12-11",
+    "data-hora-fonte": "2001-12-11 17:27:00.0",
+    "paridade-compra": 0.51504,
+    "paridade-venda": 0.51656
+  },
+  {
+    "cotacao-compra": 1.22645,
+    "cotacao-venda": 1.23045,
+    "data": "2001-12-12",
+    "data-hora-fonte": "2001-12-12 17:42:00.0",
+    "paridade-compra": 0.52094,
+    "paridade-venda": 0.52246
+  },
+  {
+    "cotacao-compra": 1.23686,
+    "cotacao-venda": 1.2409,
+    "data": "2001-12-13",
+    "data-hora-fonte": "2001-12-13 19:05:00.0",
+    "paridade-compra": 0.51884,
+    "paridade-venda": 0.52036
+  },
+  {
+    "cotacao-compra": 1.23864,
+    "cotacao-venda": 1.24269,
+    "data": "2001-12-14",
+    "data-hora-fonte": "2001-12-14 17:16:00.0",
+    "paridade-compra": 0.51974,
+    "paridade-venda": 0.52126
+  },
+  {
+    "cotacao-compra": 1.22018,
+    "cotacao-venda": 1.22418,
+    "data": "2001-12-17",
+    "data-hora-fonte": "2001-12-17 17:49:00.0",
+    "paridade-compra": 0.51764,
+    "paridade-venda": 0.51916
+  },
+  {
+    "cotacao-compra": 1.20727,
+    "cotacao-venda": 1.21123,
+    "data": "2001-12-18",
+    "data-hora-fonte": "2001-12-18 17:51:00.0",
+    "paridade-compra": 0.51544,
+    "paridade-venda": 0.51696
+  },
+  {
+    "cotacao-compra": 1.17142,
+    "cotacao-venda": 1.17529,
+    "data": "2001-12-19",
+    "data-hora-fonte": "2001-12-19 18:14:00.0",
+    "paridade-compra": 0.51104,
+    "paridade-venda": 0.51256
+  },
+  {
+    "cotacao-compra": 1.17349,
+    "cotacao-venda": 1.17739,
+    "data": "2001-12-20",
+    "data-hora-fonte": "2001-12-20 17:24:00.0",
+    "paridade-compra": 0.50595,
+    "paridade-venda": 0.50745
+  },
+  {
+    "cotacao-compra": 1.18599,
+    "cotacao-venda": 1.18992,
+    "data": "2001-12-21",
+    "data-hora-fonte": "2001-12-21 23:55:00.0",
+    "paridade-compra": 0.50895,
+    "paridade-venda": 0.51046
+  },
+  {
+    "cotacao-compra": 1.18543,
+    "cotacao-venda": 1.18937,
+    "data": "2001-12-24",
+    "data-hora-fonte": "2001-12-24 11:47:00.0",
+    "paridade-compra": 0.50725,
+    "paridade-venda": 0.50875
+  },
+  {
+    "cotacao-compra": 1.1757,
+    "cotacao-venda": 1.1796,
+    "data": "2001-12-26",
+    "data-hora-fonte": "2001-12-26 17:30:00.0",
+    "paridade-compra": 0.50815,
+    "paridade-venda": 0.50966
+  },
+  {
+    "cotacao-compra": 1.17786,
+    "cotacao-venda": 1.18177,
+    "data": "2001-12-27",
+    "data-hora-fonte": "2001-12-27 17:53:00.0",
+    "paridade-compra": 0.50755,
+    "paridade-venda": 0.50905
+  },
+  {
+    "cotacao-compra": 1.1838,
+    "cotacao-venda": 1.18771,
+    "data": "2001-12-28",
+    "data-hora-fonte": "2001-12-28 17:49:00.0",
+    "paridade-compra": 0.51035,
+    "paridade-venda": 0.51186
+  },
+  {
+    "cotacao-compra": 1.18565,
+    "cotacao-venda": 1.18957,
+    "data": "2001-12-31",
+    "data-hora-fonte": "2001-12-31 12:28:00.0",
+    "paridade-compra": 0.51114,
+    "paridade-venda": 0.51266
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "categoria": "taxas-de-cambio",
+  "codigo-sgs": null,
+  "descricao": "Cotação oficial de fechamento PTAX do Coroa norueguesa em reais (BRL), divulgada pelo Banco Central do Brasil.",
+  "frequencia": "diaria",
+  "identificador": "nok",
+  "instituicao-responsavel": null,
+  "moeda": "NOK",
+  "nome": "Coroa norueguesa",
+  "nota-data-hora-fonte": "data-hora-fonte reproduz o campo dataHoraCotacao tal como publicado pela fonte (PTAX/Olinda). A API não anota explicitamente o fuso horário; conforme prática oficial do BCB, os horários referem-se ao horário local de Brasília.",
+  "paridade-contra-usd": false,
+  "primeira-observacao": "1985-01-02",
+  "provedor": "BACEN",
+  "referencia-oficial": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)",
+  "status": "ativa",
+  "tipo-serie": "cambio",
+  "ultima-alteracao-dados": "2026-08-13",
+  "ultima-observacao": "2026-08-13",
+  "unidade": "BRL",
+  "versao-schema": "v1",
+  "versao-sneffelz": "2.0.0"
+}
