@@ -1,0 +1,31 @@
+{
+  "categorias": {
+    "taxas-de-juros": {
+      "identificador": "taxas-de-juros",
+      "series": [
+        "selic-meta-anual"
+      ]
+    }
+  },
+  "descricao": "Catálogo completo do dataset de dados econômicos oficiais do Brasil. Cada série é publicada pelo Banco Central do Brasil (BACEN) e mantida neste repositório como fallback estático.",
+  "series": [
+    {
+      "caminho": "dados/v1/taxas-de-juros/selic-meta-anual",
+      "categoria": "taxas-de-juros",
+      "descricao": "Meta para a taxa Selic definida pelo Comitê de Política Monetária (Copom), em % ao ano. Série diária: o valor vigente é repetido a cada dia até a próxima decisão.",
+      "frequencia": "diaria",
+      "identificador": "selic-meta-anual",
+      "metadados": "dados/v1/taxas-de-juros/selic-meta-anual/metadados.json",
+      "moeda": "BRL",
+      "nome": "Taxa de juros - Meta Selic definida pelo Copom",
+      "primeira-observacao": "1999-03-05",
+      "provedor": "BACEN",
+      "somas-verificacao": "dados/v1/taxas-de-juros/selic-meta-anual/somas-verificacao.json",
+      "status": "ativa",
+      "ultima-alteracao-dados": "2026-08-13",
+      "ultima-observacao": "2026-08-13",
+      "unidade": "% a.a."
+    }
+  ],
+  "versao-schema": "v1"
+}
