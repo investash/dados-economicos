@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/investash/dados-economicos/esquemas/v1/somas-verificacao.schema.json",
+  "title": "Somas de verificação — schema v1",
+  "description": "somas-verificacao.json de uma série: hashes SHA-256 dos arquivos da série, sem autorreferência.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["algoritmo", "arquivos"],
+  "properties": {
+    "algoritmo": {
+      "type": "string",
+      "const": "sha256"
+    },
+    "arquivos": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "pattern": "^[a-f0-9]{64}$"
+      },
+      "description": "Mapeamento caminho-relativo → hash SHA-256. Não inclui somas-verificacao.json."
+    }
+  }
+}

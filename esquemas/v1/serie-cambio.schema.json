@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/investash/dados-economicos/esquemas/v1/serie-cambio.schema.json",
+  "title": "Série de câmbio (PTAX) — schema v1",
+  "description": "Arquivo valores.json de uma série de câmbio: cotação oficial de fechamento PTAX (boletim 'Fechamento') de uma moeda em reais. Registros em ordem cronológica crescente, sem datas duplicadas.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "data",
+      "cotacao-compra",
+      "cotacao-venda",
+      "paridade-compra",
+      "paridade-venda",
+      "data-hora-fonte"
+    ],
+    "properties": {
+      "data": {
+        "type": "string",
+        "description": "Data da cotação em ISO-8601 (YYYY-MM-DD), extraída do campo dataHoraCotacao da fonte.",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+      },
+      "cotacao-compra": {
+        "type": "number",
+        "description": "Cotação de compra em reais (BRL) por unidade da moeda, no boletim de fechamento PTAX."
+      },
+      "cotacao-venda": {
+        "type": "number",
+        "description": "Cotação de venda em reais (BRL) por unidade da moeda, no boletim de fechamento PTAX."
+      },
+      "paridade-compra": {
+        "type": "number",
+        "description": "Paridade de compra contra o dólar americano (USD)."
+      },
+      "paridade-venda": {
+        "type": "number",
+        "description": "Paridade de venda contra o dólar americano (USD)."
+      },
+      "data-hora-fonte": {
+        "type": "string",
+        "description": "Campo dataHoraCotacao tal como publicado pela fonte (PTAX/Olinda). A API não anota timezone; conforme prática oficial do BCB, refere-se ao horário local de Brasília."
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+name: validar-dataset
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validar:
+    name: validar-dataset
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - uses: actions/setup-python@8d9ed9ac5c53483de85588cdf95a46a4c9ec651c # v5.5.0
+        with:
+          python-version: "3.12"
+      - name: Validar dataset (barreira independente do Sneffelz)
+        run: python3 scripts/validate_dataset.py .
+      - name: Validar JSON Schemas formais
+        run: |
+          python3 -c "
+          import json, glob, sys
+          for f in sorted(glob.glob('esquemas/v1/*.json')):
+              json.load(open(f))
+          print('schemas v1: JSON válido')
+          "
+      - name: Rejeitar dados legados na raiz
+        run: |
+          python3 -c "
+          import sys
+          from pathlib import Path
+          legados = [p for p in Path('.').iterdir()
+                     if p.name in ('ipca','ipca-15','igp-m','igp-di','inpc',
+                                   'ipc-br','ipc-m','ipc-sp','metas-de-inflacao.json')]
+          if legados:
+              print('dados legados na raiz:', [p.name for p in legados], file=sys.stderr)
+              sys.exit(1)
+          "

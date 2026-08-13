@@ -1,0 +1,104 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/investash/dados-economicos/esquemas/v1/metadados-serie.schema.json",
+  "title": "Metadados de série — schema v1",
+  "description": "metadados.json de uma série. Autoexplicativo para humanos, aplicações e LLMs.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "identificador",
+    "nome",
+    "descricao",
+    "categoria",
+    "provedor",
+    "moeda",
+    "frequencia",
+    "unidade",
+    "primeira-observacao",
+    "ultima-observacao",
+    "status",
+    "versao-schema",
+    "referencia-oficial",
+    "ultima-alteracao-dados",
+    "versao-sneffelz"
+  ],
+  "properties": {
+    "identificador": {
+      "type": "string",
+      "description": "Identificador público da série (lowercase, hífen, sem acentos).",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "nome": { "type": "string", "description": "Nome oficial da série em PT-BR." },
+    "descricao": { "type": "string", "description": "Descrição semântica da série." },
+    "categoria": {
+      "type": "string",
+      "enum": ["inflacao", "taxas-de-juros", "taxas-de-cambio"]
+    },
+    "provedor": {
+      "type": "string",
+      "enum": ["BACEN"],
+      "description": "Provedor da API que divulga a série (fonte da verdade)."
+    },
+    "instituicao-responsavel": {
+      "type": ["string", "null"],
+      "description": "Instituição que calcula/publica a série (ex.: IBGE, FGV, FIPE), quando aplicável."
+    },
+    "codigo-sgs": {
+      "type": ["integer", "null"],
+      "description": "Código da série no SGS do BACEN, quando aplicável."
+    },
+    "moeda": {
+      "type": "string",
+      "description": "Código monetário ISO 4217 quando aplicável (ex.: BRL, USD)."
+    },
+    "frequencia": {
+      "type": "string",
+      "enum": ["diaria", "mensal", "anual"]
+    },
+    "unidade": { "type": "string", "description": "Unidade de medida (ex.: % a.m., BRL)." },
+    "primeira-observacao": {
+      "type": ["string", "null"],
+      "description": "Data ISO-8601 da primeira observação disponível.",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "ultima-observacao": {
+      "type": ["string", "null"],
+      "description": "Data ISO-8601 da última observação disponível.",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["ativa", "inativa"],
+      "description": "ativa = sincronizada; inativa = a fonte deixou de publicar (histórico preservado)."
+    },
+    "versao-schema": {
+      "type": "string",
+      "const": "v1"
+    },
+    "referencia-oficial": {
+      "type": "string",
+      "description": "URL da documentação/endpoint oficial da fonte."
+    },
+    "ultima-alteracao-dados": {
+      "type": ["string", "null"],
+      "description": "Data da última alteração EFETIVA dos dados (não é timestamp de execução).",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "versao-sneffelz": {
+      "type": "string",
+      "description": "Versão do Sneffelz que produziu a última alteração de conteúdo."
+    },
+    "tipo-serie": {
+      "type": "string",
+      "enum": ["escalar", "cambio"]
+    },
+    "paridade-contra-usd": {
+      "type": "boolean",
+      "description": "Presente em séries de câmbio: True quando a paridade é contra o dólar americano."
+    },
+    "nota-data-hora-fonte": {
+      "type": "string",
+      "description": "Nota sobre a semântica de data-hora-fonte (câmbio)."
+    }
+  }
+}

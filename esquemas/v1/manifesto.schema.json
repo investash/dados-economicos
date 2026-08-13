@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/investash/dados-economicos/esquemas/v1/manifesto.schema.json",
+  "title": "Manifesto do dataset — schema v1",
+  "description": "manifesto.json: catálogo completo e auto-descritivo do dataset, permitindo a descoberta por humanos, programas e LLMs sem depender do README.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["versao-schema", "descricao", "categorias", "series"],
+  "properties": {
+    "versao-schema": {
+      "type": "string",
+      "const": "v1"
+    },
+    "descricao": { "type": "string" },
+    "categorias": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["identificador", "series"],
+        "properties": {
+          "identificador": { "type": "string" },
+          "series": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        }
+      }
+    },
+    "series": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "identificador",
+          "nome",
+          "categoria",
+          "caminho",
+          "descricao",
+          "frequencia",
+          "unidade",
+          "moeda",
+          "provedor",
+          "status",
+          "primeira-observacao",
+          "ultima-observacao",
+          "ultima-alteracao-dados",
+          "metadados",
+          "somas-verificacao"
+        ],
+        "properties": {
+          "identificador": { "type": "string" },
+          "nome": { "type": "string" },
+          "categoria": { "type": "string" },
+          "caminho": {
+            "type": "string",
+            "description": "Caminho relativo do diretório da série (dados/v1/...)."
+          },
+          "descricao": { "type": "string" },
+          "frequencia": { "type": "string" },
+          "unidade": { "type": "string" },
+          "moeda": { "type": "string" },
+          "provedor": { "type": "string" },
+          "status": {
+            "type": "string",
+            "enum": ["ativa", "inativa"]
+          },
+          "primeira-observacao": { "type": ["string", "null"] },
+          "ultima-observacao": { "type": ["string", "null"] },
+          "ultima-alteracao-dados": { "type": ["string", "null"] },
+          "metadados": { "type": "string" },
+          "somas-verificacao": { "type": "string" }
+        }
+      }
+    }
+  }
+}

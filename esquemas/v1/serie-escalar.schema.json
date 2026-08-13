@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/investash/dados-economicos/esquemas/v1/serie-escalar.schema.json",
+  "title": "Série escalar — schema v1",
+  "description": "Arquivo valores.json de uma série econômica escalar (ex.: IPCA mensal, SELIC diária). Registros em ordem cronológica crescente, sem datas duplicadas.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["data", "valor"],
+    "properties": {
+      "data": {
+        "type": "string",
+        "description": "Data da observação em ISO-8601 (YYYY-MM-DD).",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+      },
+      "valor": {
+        "type": "number",
+        "description": "Valor oficial divulgado pela fonte, sem arredondamento arbitrário."
+      }
+    }
+  },
+  "uniqueItems": false
+}
