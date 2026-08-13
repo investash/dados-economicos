@@ -1,0 +1,2002 @@
+[
+  {
+    "cotacao-compra": 3.935,
+    "cotacao-venda": 3.937,
+    "data": "2018-01-02",
+    "data-hora-fonte": "2018-01-02 13:12:55.196",
+    "paridade-compra": 1.2037,
+    "paridade-venda": 1.2041
+  },
+  {
+    "cotacao-compra": 3.9077,
+    "cotacao-venda": 3.9097,
+    "data": "2018-01-03",
+    "data-hora-fonte": "2018-01-03 13:04:12.517",
+    "paridade-compra": 1.2013,
+    "paridade-venda": 1.2017
+  },
+  {
+    "cotacao-compra": 3.9039,
+    "cotacao-venda": 3.9053,
+    "data": "2018-01-04",
+    "data-hora-fonte": "2018-01-04 13:11:55.76",
+    "paridade-compra": 1.2082,
+    "paridade-venda": 1.2084
+  },
+  {
+    "cotacao-compra": 3.8984,
+    "cotacao-venda": 3.9001,
+    "data": "2018-01-05",
+    "data-hora-fonte": "2018-01-05 13:09:00.243",
+    "paridade-compra": 1.2031,
+    "paridade-venda": 1.2034
+  },
+  {
+    "cotacao-compra": 3.8708,
+    "cotacao-venda": 3.8728,
+    "data": "2018-01-08",
+    "data-hora-fonte": "2018-01-08 13:10:47.767",
+    "paridade-compra": 1.1965,
+    "paridade-venda": 1.1969
+  },
+  {
+    "cotacao-compra": 3.86,
+    "cotacao-venda": 3.8617,
+    "data": "2018-01-09",
+    "data-hora-fonte": "2018-01-09 13:06:14.647",
+    "paridade-compra": 1.1917,
+    "paridade-venda": 1.192
+  },
+  {
+    "cotacao-compra": 3.8905,
+    "cotacao-venda": 3.8915,
+    "data": "2018-01-10",
+    "data-hora-fonte": "2018-01-10 13:06:20.141",
+    "paridade-compra": 1.1985,
+    "paridade-venda": 1.1986
+  },
+  {
+    "cotacao-compra": 3.8899,
+    "cotacao-venda": 3.8916,
+    "data": "2018-01-11",
+    "data-hora-fonte": "2018-01-11 13:07:39.24",
+    "paridade-compra": 1.2045,
+    "paridade-venda": 1.2048
+  },
+  {
+    "cotacao-compra": 3.9075,
+    "cotacao-venda": 3.9094,
+    "data": "2018-01-12",
+    "data-hora-fonte": "2018-01-12 13:11:51.469",
+    "paridade-compra": 1.2138,
+    "paridade-venda": 1.2142
+  },
+  {
+    "cotacao-compra": 3.9186,
+    "cotacao-venda": 3.9196,
+    "data": "2018-01-15",
+    "data-hora-fonte": "2018-01-15 13:03:51.89",
+    "paridade-compra": 1.2262,
+    "paridade-venda": 1.2263
+  },
+  {
+    "cotacao-compra": 3.9326,
+    "cotacao-venda": 3.9339,
+    "data": "2018-01-16",
+    "data-hora-fonte": "2018-01-16 13:10:53.99",
+    "paridade-compra": 1.2208,
+    "paridade-venda": 1.221
+  },
+  {
+    "cotacao-compra": 3.9499,
+    "cotacao-venda": 3.951,
+    "data": "2018-01-17",
+    "data-hora-fonte": "2018-01-17 13:07:57.458",
+    "paridade-compra": 1.2222,
+    "paridade-venda": 1.2223
+  },
+  {
+    "cotacao-compra": 3.9376,
+    "cotacao-venda": 3.9393,
+    "data": "2018-01-18",
+    "data-hora-fonte": "2018-01-18 13:03:33.47",
+    "paridade-compra": 1.2258,
+    "paridade-venda": 1.2261
+  },
+  {
+    "cotacao-compra": 3.9309,
+    "cotacao-venda": 3.9323,
+    "data": "2018-01-19",
+    "data-hora-fonte": "2018-01-19 13:10:53.197",
+    "paridade-compra": 1.2253,
+    "paridade-venda": 1.2255
+  },
+  {
+    "cotacao-compra": 3.9077,
+    "cotacao-venda": 3.9094,
+    "data": "2018-01-22",
+    "data-hora-fonte": "2018-01-22 13:03:42.347",
+    "paridade-compra": 1.2239,
+    "paridade-venda": 1.2242
+  },
+  {
+    "cotacao-compra": 3.9588,
+    "cotacao-venda": 3.9602,
+    "data": "2018-01-23",
+    "data-hora-fonte": "2018-01-23 13:04:48.112",
+    "paridade-compra": 1.2278,
+    "paridade-venda": 1.228
+  },
+  {
+    "cotacao-compra": 3.9607,
+    "cotacao-venda": 3.9624,
+    "data": "2018-01-24",
+    "data-hora-fonte": "2018-01-24 13:10:27.352",
+    "paridade-compra": 1.2391,
+    "paridade-venda": 1.2394
+  },
+  {
+    "cotacao-compra": 3.9187,
+    "cotacao-venda": 3.9214,
+    "data": "2018-01-25",
+    "data-hora-fonte": "2018-01-25 13:03:52.095",
+    "paridade-compra": 1.2488,
+    "paridade-venda": 1.2492
+  },
+  {
+    "cotacao-compra": 3.9116,
+    "cotacao-venda": 3.9133,
+    "data": "2018-01-26",
+    "data-hora-fonte": "2018-01-26 13:08:49.461",
+    "paridade-compra": 1.244,
+    "paridade-venda": 1.2443
+  },
+  {
+    "cotacao-compra": 3.9088,
+    "cotacao-venda": 3.9103,
+    "data": "2018-01-29",
+    "data-hora-fonte": "2018-01-29 13:06:08.553",
+    "paridade-compra": 1.2351,
+    "paridade-venda": 1.2353
+  },
+  {
+    "cotacao-compra": 3.9379,
+    "cotacao-venda": 3.9396,
+    "data": "2018-01-30",
+    "data-hora-fonte": "2018-01-30 13:03:46.59",
+    "paridade-compra": 1.244,
+    "paridade-venda": 1.2443
+  },
+  {
+    "cotacao-compra": 3.9383,
+    "cotacao-venda": 3.9404,
+    "data": "2018-01-31",
+    "data-hora-fonte": "2018-01-31 13:16:53.521",
+    "paridade-compra": 1.2456,
+    "paridade-venda": 1.246
+  },
+  {
+    "cotacao-compra": 3.9471,
+    "cotacao-venda": 3.9482,
+    "data": "2018-02-01",
+    "data-hora-fonte": "2018-02-01 13:09:59.863",
+    "paridade-compra": 1.2442,
+    "paridade-venda": 1.2443
+  },
+  {
+    "cotacao-compra": 3.9834,
+    "cotacao-venda": 3.9857,
+    "data": "2018-02-02",
+    "data-hora-fonte": "2018-02-02 13:06:35.781",
+    "paridade-compra": 1.2427,
+    "paridade-venda": 1.2432
+  },
+  {
+    "cotacao-compra": 4.0113,
+    "cotacao-venda": 4.0133,
+    "data": "2018-02-05",
+    "data-hora-fonte": "2018-02-05 13:06:11.649",
+    "paridade-compra": 1.24,
+    "paridade-venda": 1.2404
+  },
+  {
+    "cotacao-compra": 4.0224,
+    "cotacao-venda": 4.0235,
+    "data": "2018-02-06",
+    "data-hora-fonte": "2018-02-06 13:09:27.952",
+    "paridade-compra": 1.2336,
+    "paridade-venda": 1.2337
+  },
+  {
+    "cotacao-compra": 4.006,
+    "cotacao-venda": 4.0071,
+    "data": "2018-02-07",
+    "data-hora-fonte": "2018-02-07 13:11:42.108",
+    "paridade-compra": 1.2341,
+    "paridade-venda": 1.2342
+  },
+  {
+    "cotacao-compra": 4.0129,
+    "cotacao-venda": 4.0146,
+    "data": "2018-02-08",
+    "data-hora-fonte": "2018-02-08 13:10:49.731",
+    "paridade-compra": 1.2277,
+    "paridade-venda": 1.228
+  },
+  {
+    "cotacao-compra": 4.0225,
+    "cotacao-venda": 4.0235,
+    "data": "2018-02-09",
+    "data-hora-fonte": "2018-02-09 13:07:05.319",
+    "paridade-compra": 1.2258,
+    "paridade-venda": 1.2259
+  },
+  {
+    "cotacao-compra": 4.0345,
+    "cotacao-venda": 4.0364,
+    "data": "2018-02-14",
+    "data-hora-fonte": "2018-02-14 15:38:08.622",
+    "paridade-compra": 1.2402,
+    "paridade-venda": 1.2406
+  },
+  {
+    "cotacao-compra": 4.0243,
+    "cotacao-venda": 4.026,
+    "data": "2018-02-15",
+    "data-hora-fonte": "2018-02-15 13:09:36.912",
+    "paridade-compra": 1.2497,
+    "paridade-venda": 1.25
+  },
+  {
+    "cotacao-compra": 4.0281,
+    "cotacao-venda": 4.0295,
+    "data": "2018-02-16",
+    "data-hora-fonte": "2018-02-16 13:04:08.586",
+    "paridade-compra": 1.2442,
+    "paridade-venda": 1.2444
+  },
+  {
+    "cotacao-compra": 4.008,
+    "cotacao-venda": 4.0101,
+    "data": "2018-02-19",
+    "data-hora-fonte": "2018-02-19 13:02:49.018",
+    "paridade-compra": 1.2393,
+    "paridade-venda": 1.2397
+  },
+  {
+    "cotacao-compra": 4.0106,
+    "cotacao-venda": 4.012,
+    "data": "2018-02-20",
+    "data-hora-fonte": "2018-02-20 13:05:22.267",
+    "paridade-compra": 1.234,
+    "paridade-venda": 1.2342
+  },
+  {
+    "cotacao-compra": 4.0094,
+    "cotacao-venda": 4.0111,
+    "data": "2018-02-21",
+    "data-hora-fonte": "2018-02-21 13:05:52.088",
+    "paridade-compra": 1.2318,
+    "paridade-venda": 1.2321
+  },
+  {
+    "cotacao-compra": 4.0157,
+    "cotacao-venda": 4.0167,
+    "data": "2018-02-22",
+    "data-hora-fonte": "2018-02-22 13:11:24.12",
+    "paridade-compra": 1.2321,
+    "paridade-venda": 1.2322
+  },
+  {
+    "cotacao-compra": 3.9859,
+    "cotacao-venda": 3.987,
+    "data": "2018-02-23",
+    "data-hora-fonte": "2018-02-23 13:08:49.928",
+    "paridade-compra": 1.2298,
+    "paridade-venda": 1.2299
+  },
+  {
+    "cotacao-compra": 3.9739,
+    "cotacao-venda": 3.9756,
+    "data": "2018-02-26",
+    "data-hora-fonte": "2018-02-26 13:10:57.912",
+    "paridade-compra": 1.2286,
+    "paridade-venda": 1.2289
+  },
+  {
+    "cotacao-compra": 3.962,
+    "cotacao-venda": 3.9637,
+    "data": "2018-02-27",
+    "data-hora-fonte": "2018-02-27 13:11:48.675",
+    "paridade-compra": 1.2237,
+    "paridade-venda": 1.224
+  },
+  {
+    "cotacao-compra": 3.9564,
+    "cotacao-venda": 3.9585,
+    "data": "2018-02-28",
+    "data-hora-fonte": "2018-02-28 13:03:18.868",
+    "paridade-compra": 1.2195,
+    "paridade-venda": 1.2199
+  },
+  {
+    "cotacao-compra": 3.9714,
+    "cotacao-venda": 3.9728,
+    "data": "2018-03-01",
+    "data-hora-fonte": "2018-03-01 13:08:46.872",
+    "paridade-compra": 1.2177,
+    "paridade-venda": 1.2179
+  },
+  {
+    "cotacao-compra": 4.0134,
+    "cotacao-venda": 4.0154,
+    "data": "2018-03-02",
+    "data-hora-fonte": "2018-03-02 13:11:44.793",
+    "paridade-compra": 1.2308,
+    "paridade-venda": 1.2312
+  },
+  {
+    "cotacao-compra": 4.0156,
+    "cotacao-venda": 4.0174,
+    "data": "2018-03-05",
+    "data-hora-fonte": "2018-03-05 13:05:07.476",
+    "paridade-compra": 1.2327,
+    "paridade-venda": 1.233
+  },
+  {
+    "cotacao-compra": 3.9961,
+    "cotacao-venda": 3.9985,
+    "data": "2018-03-06",
+    "data-hora-fonte": "2018-03-06 13:11:55.605",
+    "paridade-compra": 1.2395,
+    "paridade-venda": 1.24
+  },
+  {
+    "cotacao-compra": 4.007,
+    "cotacao-venda": 4.009,
+    "data": "2018-03-07",
+    "data-hora-fonte": "2018-03-07 13:04:49.215",
+    "paridade-compra": 1.2401,
+    "paridade-venda": 1.2405
+  },
+  {
+    "cotacao-compra": 4.0071,
+    "cotacao-venda": 4.0085,
+    "data": "2018-03-08",
+    "data-hora-fonte": "2018-03-08 13:11:32.961",
+    "paridade-compra": 1.2325,
+    "paridade-venda": 1.2327
+  },
+  {
+    "cotacao-compra": 4.0021,
+    "cotacao-venda": 4.0038,
+    "data": "2018-03-09",
+    "data-hora-fonte": "2018-03-09 13:03:23.451",
+    "paridade-compra": 1.2318,
+    "paridade-venda": 1.2321
+  },
+  {
+    "cotacao-compra": 4.0153,
+    "cotacao-venda": 4.0164,
+    "data": "2018-03-12",
+    "data-hora-fonte": "2018-03-12 13:07:43.882",
+    "paridade-compra": 1.2317,
+    "paridade-venda": 1.2318
+  },
+  {
+    "cotacao-compra": 4.027,
+    "cotacao-venda": 4.029,
+    "data": "2018-03-13",
+    "data-hora-fonte": "2018-03-13 13:11:46.012",
+    "paridade-compra": 1.2396,
+    "paridade-venda": 1.24
+  },
+  {
+    "cotacao-compra": 4.0266,
+    "cotacao-venda": 4.0284,
+    "data": "2018-03-14",
+    "data-hora-fonte": "2018-03-14 13:11:37.391",
+    "paridade-compra": 1.236,
+    "paridade-venda": 1.2363
+  },
+  {
+    "cotacao-compra": 4.0475,
+    "cotacao-venda": 4.0486,
+    "data": "2018-03-15",
+    "data-hora-fonte": "2018-03-15 13:08:48.179",
+    "paridade-compra": 1.232,
+    "paridade-venda": 1.2321
+  },
+  {
+    "cotacao-compra": 4.0397,
+    "cotacao-venda": 4.0414,
+    "data": "2018-03-16",
+    "data-hora-fonte": "2018-03-16 13:14:28.123",
+    "paridade-compra": 1.2279,
+    "paridade-venda": 1.2282
+  },
+  {
+    "cotacao-compra": 4.0562,
+    "cotacao-venda": 4.0583,
+    "data": "2018-03-19",
+    "data-hora-fonte": "2018-03-19 13:05:15.219",
+    "paridade-compra": 1.2327,
+    "paridade-venda": 1.2331
+  },
+  {
+    "cotacao-compra": 4.046,
+    "cotacao-venda": 4.0471,
+    "data": "2018-03-20",
+    "data-hora-fonte": "2018-03-20 13:06:10.733",
+    "paridade-compra": 1.227,
+    "paridade-venda": 1.2271
+  },
+  {
+    "cotacao-compra": 4.0374,
+    "cotacao-venda": 4.0394,
+    "data": "2018-03-21",
+    "data-hora-fonte": "2018-03-21 13:08:26.719",
+    "paridade-compra": 1.2266,
+    "paridade-venda": 1.227
+  },
+  {
+    "cotacao-compra": 4.065,
+    "cotacao-venda": 4.067,
+    "data": "2018-03-22",
+    "data-hora-fonte": "2018-03-22 13:11:09.36",
+    "paridade-compra": 1.2308,
+    "paridade-venda": 1.2312
+  },
+  {
+    "cotacao-compra": 4.0821,
+    "cotacao-venda": 4.0842,
+    "data": "2018-03-23",
+    "data-hora-fonte": "2018-03-23 13:06:01.35",
+    "paridade-compra": 1.2357,
+    "paridade-venda": 1.2361
+  },
+  {
+    "cotacao-compra": 4.108,
+    "cotacao-venda": 4.1098,
+    "data": "2018-03-26",
+    "data-hora-fonte": "2018-03-26 13:09:11.34",
+    "paridade-compra": 1.2438,
+    "paridade-venda": 1.2441
+  },
+  {
+    "cotacao-compra": 4.1257,
+    "cotacao-venda": 4.1274,
+    "data": "2018-03-27",
+    "data-hora-fonte": "2018-03-27 13:04:04.87",
+    "paridade-compra": 1.2408,
+    "paridade-venda": 1.2411
+  },
+  {
+    "cotacao-compra": 4.1217,
+    "cotacao-venda": 4.1231,
+    "data": "2018-03-28",
+    "data-hora-fonte": "2018-03-28 13:07:49.314",
+    "paridade-compra": 1.235,
+    "paridade-venda": 1.2352
+  },
+  {
+    "cotacao-compra": 4.0829,
+    "cotacao-venda": 4.085,
+    "data": "2018-03-29",
+    "data-hora-fonte": "2018-03-29 13:08:53.155",
+    "paridade-compra": 1.2286,
+    "paridade-venda": 1.229
+  },
+  {
+    "cotacao-compra": 4.0664,
+    "cotacao-venda": 4.0685,
+    "data": "2018-04-02",
+    "data-hora-fonte": "2018-04-02 13:05:44.664",
+    "paridade-compra": 1.2286,
+    "paridade-venda": 1.229
+  },
+  {
+    "cotacao-compra": 4.0618,
+    "cotacao-venda": 4.0638,
+    "data": "2018-04-03",
+    "data-hora-fonte": "2018-04-03 13:06:18.961",
+    "paridade-compra": 1.2259,
+    "paridade-venda": 1.2263
+  },
+  {
+    "cotacao-compra": 4.1211,
+    "cotacao-venda": 4.1228,
+    "data": "2018-04-04",
+    "data-hora-fonte": "2018-04-04 13:11:00.623",
+    "paridade-compra": 1.229,
+    "paridade-venda": 1.2293
+  },
+  {
+    "cotacao-compra": 4.0585,
+    "cotacao-venda": 4.0595,
+    "data": "2018-04-05",
+    "data-hora-fonte": "2018-04-05 13:04:54.276",
+    "paridade-compra": 1.2228,
+    "paridade-venda": 1.2229
+  },
+  {
+    "cotacao-compra": 4.1311,
+    "cotacao-venda": 4.1325,
+    "data": "2018-04-06",
+    "data-hora-fonte": "2018-04-06 13:03:40.998",
+    "paridade-compra": 1.2273,
+    "paridade-venda": 1.2275
+  },
+  {
+    "cotacao-compra": 4.1758,
+    "cotacao-venda": 4.1772,
+    "data": "2018-04-09",
+    "data-hora-fonte": "2018-04-09 13:07:34.706",
+    "paridade-compra": 1.2319,
+    "paridade-venda": 1.2321
+  },
+  {
+    "cotacao-compra": 4.2172,
+    "cotacao-venda": 4.2193,
+    "data": "2018-04-10",
+    "data-hora-fonte": "2018-04-10 13:06:41.132",
+    "paridade-compra": 1.2335,
+    "paridade-venda": 1.2339
+  },
+  {
+    "cotacao-compra": 4.2152,
+    "cotacao-venda": 4.2177,
+    "data": "2018-04-11",
+    "data-hora-fonte": "2018-04-11 13:09:34.926",
+    "paridade-compra": 1.2381,
+    "paridade-venda": 1.2386
+  },
+  {
+    "cotacao-compra": 4.1699,
+    "cotacao-venda": 4.1716,
+    "data": "2018-04-12",
+    "data-hora-fonte": "2018-04-12 13:08:38.272",
+    "paridade-compra": 1.2318,
+    "paridade-venda": 1.2321
+  },
+  {
+    "cotacao-compra": 4.2013,
+    "cotacao-venda": 4.2024,
+    "data": "2018-04-13",
+    "data-hora-fonte": "2018-04-13 13:10:52.009",
+    "paridade-compra": 1.2321,
+    "paridade-venda": 1.2322
+  },
+  {
+    "cotacao-compra": 4.2383,
+    "cotacao-venda": 4.2394,
+    "data": "2018-04-16",
+    "data-hora-fonte": "2018-04-16 13:11:36.418",
+    "paridade-compra": 1.2372,
+    "paridade-venda": 1.2373
+  },
+  {
+    "cotacao-compra": 4.2013,
+    "cotacao-venda": 4.2027,
+    "data": "2018-04-17",
+    "data-hora-fonte": "2018-04-17 13:08:50.53",
+    "paridade-compra": 1.2344,
+    "paridade-venda": 1.2346
+  },
+  {
+    "cotacao-compra": 4.1885,
+    "cotacao-venda": 4.1902,
+    "data": "2018-04-18",
+    "data-hora-fonte": "2018-04-18 13:08:17.142",
+    "paridade-compra": 1.2378,
+    "paridade-venda": 1.2381
+  },
+  {
+    "cotacao-compra": 4.19,
+    "cotacao-venda": 4.1921,
+    "data": "2018-04-19",
+    "data-hora-fonte": "2018-04-19 13:10:38.112",
+    "paridade-compra": 1.2334,
+    "paridade-venda": 1.2338
+  },
+  {
+    "cotacao-compra": 4.187,
+    "cotacao-venda": 4.189,
+    "data": "2018-04-20",
+    "data-hora-fonte": "2018-04-20 13:11:24.499",
+    "paridade-compra": 1.228,
+    "paridade-venda": 1.2284
+  },
+  {
+    "cotacao-compra": 4.2034,
+    "cotacao-venda": 4.2052,
+    "data": "2018-04-23",
+    "data-hora-fonte": "2018-04-23 13:08:37.681",
+    "paridade-compra": 1.2214,
+    "paridade-venda": 1.2217
+  },
+  {
+    "cotacao-compra": 4.238,
+    "cotacao-venda": 4.2391,
+    "data": "2018-04-24",
+    "data-hora-fonte": "2018-04-24 13:02:44.008",
+    "paridade-compra": 1.2227,
+    "paridade-venda": 1.2228
+  },
+  {
+    "cotacao-compra": 4.2657,
+    "cotacao-venda": 4.2675,
+    "data": "2018-04-25",
+    "data-hora-fonte": "2018-04-25 13:10:43.392",
+    "paridade-compra": 1.2176,
+    "paridade-venda": 1.2179
+  },
+  {
+    "cotacao-compra": 4.236,
+    "cotacao-venda": 4.2371,
+    "data": "2018-04-26",
+    "data-hora-fonte": "2018-04-26 13:05:59.455",
+    "paridade-compra": 1.2113,
+    "paridade-venda": 1.2114
+  },
+  {
+    "cotacao-compra": 4.1972,
+    "cotacao-venda": 4.1993,
+    "data": "2018-04-27",
+    "data-hora-fonte": "2018-04-27 13:04:44.825",
+    "paridade-compra": 1.2106,
+    "paridade-venda": 1.211
+  },
+  {
+    "cotacao-compra": 4.202,
+    "cotacao-venda": 4.2031,
+    "data": "2018-04-30",
+    "data-hora-fonte": "2018-04-30 13:17:27.325",
+    "paridade-compra": 1.2073,
+    "paridade-venda": 1.2074
+  },
+  {
+    "cotacao-compra": 4.2371,
+    "cotacao-venda": 4.2395,
+    "data": "2018-05-02",
+    "data-hora-fonte": "2018-05-02 13:08:57.731",
+    "paridade-compra": 1.1963,
+    "paridade-venda": 1.1968
+  },
+  {
+    "cotacao-compra": 4.2464,
+    "cotacao-venda": 4.2478,
+    "data": "2018-05-03",
+    "data-hora-fonte": "2018-05-03 13:07:47.221",
+    "paridade-compra": 1.1969,
+    "paridade-venda": 1.1971
+  },
+  {
+    "cotacao-compra": 4.2165,
+    "cotacao-venda": 4.2186,
+    "data": "2018-05-04",
+    "data-hora-fonte": "2018-05-04 13:05:37.947",
+    "paridade-compra": 1.1944,
+    "paridade-venda": 1.1948
+  },
+  {
+    "cotacao-compra": 4.228,
+    "cotacao-venda": 4.2291,
+    "data": "2018-05-07",
+    "data-hora-fonte": "2018-05-07 13:05:39.629",
+    "paridade-compra": 1.1926,
+    "paridade-venda": 1.1927
+  },
+  {
+    "cotacao-compra": 4.2441,
+    "cotacao-venda": 4.2462,
+    "data": "2018-05-08",
+    "data-hora-fonte": "2018-05-08 13:06:03.36",
+    "paridade-compra": 1.1861,
+    "paridade-venda": 1.1865
+  },
+  {
+    "cotacao-compra": 4.2585,
+    "cotacao-venda": 4.2603,
+    "data": "2018-05-09",
+    "data-hora-fonte": "2018-05-09 13:07:43.791",
+    "paridade-compra": 1.185,
+    "paridade-venda": 1.1853
+  },
+  {
+    "cotacao-compra": 4.2296,
+    "cotacao-venda": 4.232,
+    "data": "2018-05-10",
+    "data-hora-fonte": "2018-05-10 13:04:45.487",
+    "paridade-compra": 1.1894,
+    "paridade-venda": 1.1899
+  },
+  {
+    "cotacao-compra": 4.267,
+    "cotacao-venda": 4.2695,
+    "data": "2018-05-11",
+    "data-hora-fonte": "2018-05-11 13:03:05.347",
+    "paridade-compra": 1.1949,
+    "paridade-venda": 1.1954
+  },
+  {
+    "cotacao-compra": 4.3215,
+    "cotacao-venda": 4.3237,
+    "data": "2018-05-14",
+    "data-hora-fonte": "2018-05-14 13:07:48.251",
+    "paridade-compra": 1.1974,
+    "paridade-venda": 1.1978
+  },
+  {
+    "cotacao-compra": 4.3589,
+    "cotacao-venda": 4.3604,
+    "data": "2018-05-15",
+    "data-hora-fonte": "2018-05-15 13:10:41.111",
+    "paridade-compra": 1.1862,
+    "paridade-venda": 1.1864
+  },
+  {
+    "cotacao-compra": 4.3365,
+    "cotacao-venda": 4.3387,
+    "data": "2018-05-16",
+    "data-hora-fonte": "2018-05-16 13:07:02.298",
+    "paridade-compra": 1.1785,
+    "paridade-venda": 1.1789
+  },
+  {
+    "cotacao-compra": 4.3478,
+    "cotacao-venda": 4.3504,
+    "data": "2018-05-17",
+    "data-hora-fonte": "2018-05-17 13:09:31.425",
+    "paridade-compra": 1.1793,
+    "paridade-venda": 1.1798
+  },
+  {
+    "cotacao-compra": 4.4145,
+    "cotacao-venda": 4.4167,
+    "data": "2018-05-18",
+    "data-hora-fonte": "2018-05-18 13:12:15.643",
+    "paridade-compra": 1.1773,
+    "paridade-venda": 1.1777
+  },
+  {
+    "cotacao-compra": 4.3619,
+    "cotacao-venda": 4.363,
+    "data": "2018-05-21",
+    "data-hora-fonte": "2018-05-21 13:09:07.719",
+    "paridade-compra": 1.1768,
+    "paridade-venda": 1.1769
+  },
+  {
+    "cotacao-compra": 4.3,
+    "cotacao-venda": 4.3018,
+    "data": "2018-05-22",
+    "data-hora-fonte": "2018-05-22 13:06:52.938",
+    "paridade-compra": 1.1782,
+    "paridade-venda": 1.1785
+  },
+  {
+    "cotacao-compra": 4.2677,
+    "cotacao-venda": 4.2688,
+    "data": "2018-05-23",
+    "data-hora-fonte": "2018-05-23 13:04:41.926",
+    "paridade-compra": 1.1692,
+    "paridade-venda": 1.1693
+  },
+  {
+    "cotacao-compra": 4.2718,
+    "cotacao-venda": 4.2739,
+    "data": "2018-05-24",
+    "data-hora-fonte": "2018-05-24 13:09:05.218",
+    "paridade-compra": 1.1726,
+    "paridade-venda": 1.173
+  },
+  {
+    "cotacao-compra": 4.2668,
+    "cotacao-venda": 4.2693,
+    "data": "2018-05-25",
+    "data-hora-fonte": "2018-05-25 13:03:28.127",
+    "paridade-compra": 1.1664,
+    "paridade-venda": 1.1669
+  },
+  {
+    "cotacao-compra": 4.312,
+    "cotacao-venda": 4.3145,
+    "data": "2018-05-28",
+    "data-hora-fonte": "2018-05-28 13:05:32.428",
+    "paridade-compra": 1.1627,
+    "paridade-venda": 1.1632
+  },
+  {
+    "cotacao-compra": 4.3066,
+    "cotacao-venda": 4.3076,
+    "data": "2018-05-29",
+    "data-hora-fonte": "2018-05-29 13:11:25.051",
+    "paridade-compra": 1.1551,
+    "paridade-venda": 1.1552
+  },
+  {
+    "cotacao-compra": 4.3585,
+    "cotacao-venda": 4.3611,
+    "data": "2018-05-30",
+    "data-hora-fonte": "2018-05-30 13:07:14.135",
+    "paridade-compra": 1.1665,
+    "paridade-venda": 1.167
+  },
+  {
+    "cotacao-compra": 4.368,
+    "cotacao-venda": 4.3702,
+    "data": "2018-06-01",
+    "data-hora-fonte": "2018-06-01 13:11:09.438",
+    "paridade-compra": 1.1677,
+    "paridade-venda": 1.1681
+  },
+  {
+    "cotacao-compra": 4.376,
+    "cotacao-venda": 4.3771,
+    "data": "2018-06-04",
+    "data-hora-fonte": "2018-06-04 13:06:45.241",
+    "paridade-compra": 1.1695,
+    "paridade-venda": 1.1696
+  },
+  {
+    "cotacao-compra": 4.4053,
+    "cotacao-venda": 4.4072,
+    "data": "2018-06-05",
+    "data-hora-fonte": "2018-06-05 13:05:48.233",
+    "paridade-compra": 1.1671,
+    "paridade-venda": 1.1674
+  },
+  {
+    "cotacao-compra": 4.4969,
+    "cotacao-venda": 4.4984,
+    "data": "2018-06-06",
+    "data-hora-fonte": "2018-06-06 13:11:04.605",
+    "paridade-compra": 1.1776,
+    "paridade-venda": 1.1778
+  },
+  {
+    "cotacao-compra": 4.606,
+    "cotacao-venda": 4.6086,
+    "data": "2018-06-07",
+    "data-hora-fonte": "2018-06-07 13:06:42.832",
+    "paridade-compra": 1.1812,
+    "paridade-venda": 1.1817
+  },
+  {
+    "cotacao-compra": 4.4553,
+    "cotacao-venda": 4.4579,
+    "data": "2018-06-08",
+    "data-hora-fonte": "2018-06-08 13:03:33.751",
+    "paridade-compra": 1.177,
+    "paridade-venda": 1.1775
+  },
+  {
+    "cotacao-compra": 4.355,
+    "cotacao-venda": 4.3572,
+    "data": "2018-06-11",
+    "data-hora-fonte": "2018-06-11 13:10:07.939",
+    "paridade-compra": 1.18,
+    "paridade-venda": 1.1804
+  },
+  {
+    "cotacao-compra": 4.3668,
+    "cotacao-venda": 4.3679,
+    "data": "2018-06-12",
+    "data-hora-fonte": "2018-06-12 13:05:43.258",
+    "paridade-compra": 1.179,
+    "paridade-venda": 1.1791
+  },
+  {
+    "cotacao-compra": 4.365,
+    "cotacao-venda": 4.3668,
+    "data": "2018-06-13",
+    "data-hora-fonte": "2018-06-13 13:09:50.387",
+    "paridade-compra": 1.1782,
+    "paridade-venda": 1.1785
+  },
+  {
+    "cotacao-compra": 4.3094,
+    "cotacao-venda": 4.312,
+    "data": "2018-06-14",
+    "data-hora-fonte": "2018-06-14 13:07:40.823",
+    "paridade-compra": 1.1631,
+    "paridade-venda": 1.1636
+  },
+  {
+    "cotacao-compra": 4.3822,
+    "cotacao-venda": 4.3844,
+    "data": "2018-06-15",
+    "data-hora-fonte": "2018-06-15 13:10:44.243",
+    "paridade-compra": 1.1614,
+    "paridade-venda": 1.1618
+  },
+  {
+    "cotacao-compra": 4.3562,
+    "cotacao-venda": 4.3576,
+    "data": "2018-06-18",
+    "data-hora-fonte": "2018-06-18 13:16:56.041",
+    "paridade-compra": 1.1605,
+    "paridade-venda": 1.1607
+  },
+  {
+    "cotacao-compra": 4.3479,
+    "cotacao-venda": 4.3501,
+    "data": "2018-06-19",
+    "data-hora-fonte": "2018-06-19 13:08:33.87",
+    "paridade-compra": 1.1576,
+    "paridade-venda": 1.158
+  },
+  {
+    "cotacao-compra": 4.3264,
+    "cotacao-venda": 4.3286,
+    "data": "2018-06-20",
+    "data-hora-fonte": "2018-06-20 13:02:39.858",
+    "paridade-compra": 1.159,
+    "paridade-venda": 1.1594
+  },
+  {
+    "cotacao-compra": 4.3943,
+    "cotacao-venda": 4.3968,
+    "data": "2018-06-21",
+    "data-hora-fonte": "2018-06-21 13:12:39.986",
+    "paridade-compra": 1.1598,
+    "paridade-venda": 1.1603
+  },
+  {
+    "cotacao-compra": 4.3788,
+    "cotacao-venda": 4.381,
+    "data": "2018-06-22",
+    "data-hora-fonte": "2018-06-22 13:05:00.161",
+    "paridade-compra": 1.1628,
+    "paridade-venda": 1.1632
+  },
+  {
+    "cotacao-compra": 4.4142,
+    "cotacao-venda": 4.4164,
+    "data": "2018-06-25",
+    "data-hora-fonte": "2018-06-25 13:11:51.714",
+    "paridade-compra": 1.1692,
+    "paridade-venda": 1.1696
+  },
+  {
+    "cotacao-compra": 4.4025,
+    "cotacao-venda": 4.4043,
+    "data": "2018-06-26",
+    "data-hora-fonte": "2018-06-26 13:08:44.171",
+    "paridade-compra": 1.1673,
+    "paridade-venda": 1.1676
+  },
+  {
+    "cotacao-compra": 4.4431,
+    "cotacao-venda": 4.4453,
+    "data": "2018-06-27",
+    "data-hora-fonte": "2018-06-27 13:11:08.676",
+    "paridade-compra": 1.1585,
+    "paridade-venda": 1.1589
+  },
+  {
+    "cotacao-compra": 4.4604,
+    "cotacao-venda": 4.4627,
+    "data": "2018-06-28",
+    "data-hora-fonte": "2018-06-28 13:09:41.491",
+    "paridade-compra": 1.1581,
+    "paridade-venda": 1.1585
+  },
+  {
+    "cotacao-compra": 4.5009,
+    "cotacao-venda": 4.5032,
+    "data": "2018-06-29",
+    "data-hora-fonte": "2018-06-29 13:06:05.757",
+    "paridade-compra": 1.1675,
+    "paridade-venda": 1.1679
+  },
+  {
+    "cotacao-compra": 4.5309,
+    "cotacao-venda": 4.5327,
+    "data": "2018-07-02",
+    "data-hora-fonte": "2018-07-02 13:07:52.332",
+    "paridade-compra": 1.1603,
+    "paridade-venda": 1.1606
+  },
+  {
+    "cotacao-compra": 4.5335,
+    "cotacao-venda": 4.535,
+    "data": "2018-07-03",
+    "data-hora-fonte": "2018-07-03 13:05:39.222",
+    "paridade-compra": 1.165,
+    "paridade-venda": 1.1652
+  },
+  {
+    "cotacao-compra": 4.546,
+    "cotacao-venda": 4.5471,
+    "data": "2018-07-04",
+    "data-hora-fonte": "2018-07-04 13:06:42.67",
+    "paridade-compra": 1.1641,
+    "paridade-venda": 1.1642
+  },
+  {
+    "cotacao-compra": 4.5832,
+    "cotacao-venda": 4.5847,
+    "data": "2018-07-05",
+    "data-hora-fonte": "2018-07-05 13:06:52.401",
+    "paridade-compra": 1.1696,
+    "paridade-venda": 1.1698
+  },
+  {
+    "cotacao-compra": 4.6073,
+    "cotacao-venda": 4.6088,
+    "data": "2018-07-06",
+    "data-hora-fonte": "2018-07-06 13:09:44.887",
+    "paridade-compra": 1.1736,
+    "paridade-venda": 1.1738
+  },
+  {
+    "cotacao-compra": 4.5418,
+    "cotacao-venda": 4.5444,
+    "data": "2018-07-09",
+    "data-hora-fonte": "2018-07-09 13:09:10.952",
+    "paridade-compra": 1.1742,
+    "paridade-venda": 1.1745
+  },
+  {
+    "cotacao-compra": 4.5082,
+    "cotacao-venda": 4.5108,
+    "data": "2018-07-10",
+    "data-hora-fonte": "2018-07-10 13:04:31.064",
+    "paridade-compra": 1.1726,
+    "paridade-venda": 1.1731
+  },
+  {
+    "cotacao-compra": 4.5018,
+    "cotacao-venda": 4.504,
+    "data": "2018-07-11",
+    "data-hora-fonte": "2018-07-11 13:11:53.869",
+    "paridade-compra": 1.172,
+    "paridade-venda": 1.1724
+  },
+  {
+    "cotacao-compra": 4.507,
+    "cotacao-venda": 4.5093,
+    "data": "2018-07-12",
+    "data-hora-fonte": "2018-07-12 13:10:41.474",
+    "paridade-compra": 1.1689,
+    "paridade-venda": 1.1693
+  },
+  {
+    "cotacao-compra": 4.5189,
+    "cotacao-venda": 4.5212,
+    "data": "2018-07-13",
+    "data-hora-fonte": "2018-07-13 13:05:33.15",
+    "paridade-compra": 1.1665,
+    "paridade-venda": 1.1669
+  },
+  {
+    "cotacao-compra": 4.5165,
+    "cotacao-venda": 4.5191,
+    "data": "2018-07-16",
+    "data-hora-fonte": "2018-07-16 13:03:24.854",
+    "paridade-compra": 1.1709,
+    "paridade-venda": 1.1714
+  },
+  {
+    "cotacao-compra": 4.5095,
+    "cotacao-venda": 4.511,
+    "data": "2018-07-17",
+    "data-hora-fonte": "2018-07-17 13:06:37.54",
+    "paridade-compra": 1.1663,
+    "paridade-venda": 1.1665
+  },
+  {
+    "cotacao-compra": 4.4792,
+    "cotacao-venda": 4.4803,
+    "data": "2018-07-18",
+    "data-hora-fonte": "2018-07-18 13:11:44.921",
+    "paridade-compra": 1.1644,
+    "paridade-venda": 1.1645
+  },
+  {
+    "cotacao-compra": 4.5067,
+    "cotacao-venda": 4.5078,
+    "data": "2018-07-19",
+    "data-hora-fonte": "2018-07-19 13:02:59.77",
+    "paridade-compra": 1.1603,
+    "paridade-venda": 1.1604
+  },
+  {
+    "cotacao-compra": 4.4237,
+    "cotacao-venda": 4.4256,
+    "data": "2018-07-20",
+    "data-hora-fonte": "2018-07-20 13:09:32.135",
+    "paridade-compra": 1.1707,
+    "paridade-venda": 1.171
+  },
+  {
+    "cotacao-compra": 4.4354,
+    "cotacao-venda": 4.4368,
+    "data": "2018-07-23",
+    "data-hora-fonte": "2018-07-23 13:02:38.842",
+    "paridade-compra": 1.17,
+    "paridade-venda": 1.1702
+  },
+  {
+    "cotacao-compra": 4.3756,
+    "cotacao-venda": 4.3767,
+    "data": "2018-07-24",
+    "data-hora-fonte": "2018-07-24 13:09:40.168",
+    "paridade-compra": 1.1683,
+    "paridade-venda": 1.1684
+  },
+  {
+    "cotacao-compra": 4.3334,
+    "cotacao-venda": 4.3345,
+    "data": "2018-07-25",
+    "data-hora-fonte": "2018-07-25 13:02:39.967",
+    "paridade-compra": 1.1676,
+    "paridade-venda": 1.1677
+  },
+  {
+    "cotacao-compra": 4.3396,
+    "cotacao-venda": 4.3407,
+    "data": "2018-07-26",
+    "data-hora-fonte": "2018-07-26 13:09:45.897",
+    "paridade-compra": 1.1654,
+    "paridade-venda": 1.1655
+  },
+  {
+    "cotacao-compra": 4.3319,
+    "cotacao-venda": 4.333,
+    "data": "2018-07-27",
+    "data-hora-fonte": "2018-07-27 13:04:40.24",
+    "paridade-compra": 1.1658,
+    "paridade-venda": 1.1659
+  },
+  {
+    "cotacao-compra": 4.352,
+    "cotacao-venda": 4.3538,
+    "data": "2018-07-30",
+    "data-hora-fonte": "2018-07-30 13:04:31.425",
+    "paridade-compra": 1.1715,
+    "paridade-venda": 1.1718
+  },
+  {
+    "cotacao-compra": 4.3944,
+    "cotacao-venda": 4.3959,
+    "data": "2018-07-31",
+    "data-hora-fonte": "2018-07-31 13:02:50.812",
+    "paridade-compra": 1.1705,
+    "paridade-venda": 1.1707
+  },
+  {
+    "cotacao-compra": 4.3723,
+    "cotacao-venda": 4.3741,
+    "data": "2018-08-01",
+    "data-hora-fonte": "2018-08-01 13:06:46.973",
+    "paridade-compra": 1.1664,
+    "paridade-venda": 1.1667
+  },
+  {
+    "cotacao-compra": 4.3703,
+    "cotacao-venda": 4.3725,
+    "data": "2018-08-02",
+    "data-hora-fonte": "2018-08-02 13:03:31.391",
+    "paridade-compra": 1.1611,
+    "paridade-venda": 1.1615
+  },
+  {
+    "cotacao-compra": 4.3131,
+    "cotacao-venda": 4.3146,
+    "data": "2018-08-03",
+    "data-hora-fonte": "2018-08-03 13:03:16.446",
+    "paridade-compra": 1.1596,
+    "paridade-venda": 1.1598
+  },
+  {
+    "cotacao-compra": 4.302,
+    "cotacao-venda": 4.3042,
+    "data": "2018-08-06",
+    "data-hora-fonte": "2018-08-06 13:08:35.35",
+    "paridade-compra": 1.1562,
+    "paridade-venda": 1.1566
+  },
+  {
+    "cotacao-compra": 4.3031,
+    "cotacao-venda": 4.3053,
+    "data": "2018-08-07",
+    "data-hora-fonte": "2018-08-07 13:09:41.503",
+    "paridade-compra": 1.1595,
+    "paridade-venda": 1.1599
+  },
+  {
+    "cotacao-compra": 4.3504,
+    "cotacao-venda": 4.3518,
+    "data": "2018-08-08",
+    "data-hora-fonte": "2018-08-08 13:07:39.715",
+    "paridade-compra": 1.1597,
+    "paridade-venda": 1.1599
+  },
+  {
+    "cotacao-compra": 4.3971,
+    "cotacao-venda": 4.3985,
+    "data": "2018-08-09",
+    "data-hora-fonte": "2018-08-09 13:06:55.349",
+    "paridade-compra": 1.1564,
+    "paridade-venda": 1.1566
+  },
+  {
+    "cotacao-compra": 4.3832,
+    "cotacao-venda": 4.3862,
+    "data": "2018-08-10",
+    "data-hora-fonte": "2018-08-10 13:10:35.458",
+    "paridade-compra": 1.1395,
+    "paridade-venda": 1.1401
+  },
+  {
+    "cotacao-compra": 4.442,
+    "cotacao-venda": 4.4435,
+    "data": "2018-08-13",
+    "data-hora-fonte": "2018-08-13 13:07:54.063",
+    "paridade-compra": 1.1395,
+    "paridade-venda": 1.1397
+  },
+  {
+    "cotacao-compra": 4.4041,
+    "cotacao-venda": 4.4056,
+    "data": "2018-08-14",
+    "data-hora-fonte": "2018-08-14 13:05:41.66",
+    "paridade-compra": 1.1349,
+    "paridade-venda": 1.1351
+  },
+  {
+    "cotacao-compra": 4.4324,
+    "cotacao-venda": 4.4351,
+    "data": "2018-08-15",
+    "data-hora-fonte": "2018-08-15 13:09:36.449",
+    "paridade-compra": 1.1328,
+    "paridade-venda": 1.1333
+  },
+  {
+    "cotacao-compra": 4.4178,
+    "cotacao-venda": 4.4205,
+    "data": "2018-08-16",
+    "data-hora-fonte": "2018-08-16 13:08:05.268",
+    "paridade-compra": 1.1385,
+    "paridade-venda": 1.139
+  },
+  {
+    "cotacao-compra": 4.4928,
+    "cotacao-venda": 4.4943,
+    "data": "2018-08-17",
+    "data-hora-fonte": "2018-08-17 13:10:45.204",
+    "paridade-compra": 1.1408,
+    "paridade-venda": 1.141
+  },
+  {
+    "cotacao-compra": 4.5085,
+    "cotacao-venda": 4.5112,
+    "data": "2018-08-20",
+    "data-hora-fonte": "2018-08-20 13:02:32.461",
+    "paridade-compra": 1.1436,
+    "paridade-venda": 1.1441
+  },
+  {
+    "cotacao-compra": 4.5975,
+    "cotacao-venda": 4.5997,
+    "data": "2018-08-21",
+    "data-hora-fonte": "2018-08-21 13:10:49.318",
+    "paridade-compra": 1.1532,
+    "paridade-venda": 1.1536
+  },
+  {
+    "cotacao-compra": 4.7227,
+    "cotacao-venda": 4.7242,
+    "data": "2018-08-22",
+    "data-hora-fonte": "2018-08-22 13:08:55.232",
+    "paridade-compra": 1.1594,
+    "paridade-venda": 1.1596
+  },
+  {
+    "cotacao-compra": 4.7098,
+    "cotacao-venda": 4.7121,
+    "data": "2018-08-23",
+    "data-hora-fonte": "2018-08-23 13:03:04.364",
+    "paridade-compra": 1.1566,
+    "paridade-venda": 1.157
+  },
+  {
+    "cotacao-compra": 4.7482,
+    "cotacao-venda": 4.7493,
+    "data": "2018-08-24",
+    "data-hora-fonte": "2018-08-24 13:05:29.537",
+    "paridade-compra": 1.1624,
+    "paridade-venda": 1.1625
+  },
+  {
+    "cotacao-compra": 4.7491,
+    "cotacao-venda": 4.751,
+    "data": "2018-08-27",
+    "data-hora-fonte": "2018-08-27 13:11:29.584",
+    "paridade-compra": 1.1674,
+    "paridade-venda": 1.1677
+  },
+  {
+    "cotacao-compra": 4.8254,
+    "cotacao-venda": 4.8277,
+    "data": "2018-08-28",
+    "data-hora-fonte": "2018-08-28 13:09:34.1",
+    "paridade-compra": 1.1716,
+    "paridade-venda": 1.172
+  },
+  {
+    "cotacao-compra": 4.8359,
+    "cotacao-venda": 4.8383,
+    "data": "2018-08-29",
+    "data-hora-fonte": "2018-08-29 13:11:37.447",
+    "paridade-compra": 1.1696,
+    "paridade-venda": 1.17
+  },
+  {
+    "cotacao-compra": 4.8687,
+    "cotacao-venda": 4.8698,
+    "data": "2018-08-30",
+    "data-hora-fonte": "2018-08-30 13:05:45.618",
+    "paridade-compra": 1.1646,
+    "paridade-venda": 1.1647
+  },
+  {
+    "cotacao-compra": 4.7942,
+    "cotacao-venda": 4.7961,
+    "data": "2018-08-31",
+    "data-hora-fonte": "2018-08-31 13:06:41.825",
+    "paridade-compra": 1.1595,
+    "paridade-venda": 1.1598
+  },
+  {
+    "cotacao-compra": 4.7951,
+    "cotacao-venda": 4.797,
+    "data": "2018-09-03",
+    "data-hora-fonte": "2018-09-03 13:06:59.164",
+    "paridade-compra": 1.1618,
+    "paridade-venda": 1.1621
+  },
+  {
+    "cotacao-compra": 4.8159,
+    "cotacao-venda": 4.8175,
+    "data": "2018-09-04",
+    "data-hora-fonte": "2018-09-04 13:06:48.156",
+    "paridade-compra": 1.1564,
+    "paridade-venda": 1.1566
+  },
+  {
+    "cotacao-compra": 4.8334,
+    "cotacao-venda": 4.835,
+    "data": "2018-09-05",
+    "data-hora-fonte": "2018-09-05 13:11:36.532",
+    "paridade-compra": 1.1618,
+    "paridade-venda": 1.162
+  },
+  {
+    "cotacao-compra": 4.8178,
+    "cotacao-venda": 4.8197,
+    "data": "2018-09-06",
+    "data-hora-fonte": "2018-09-06 13:06:29.827",
+    "paridade-compra": 1.1622,
+    "paridade-venda": 1.1625
+  },
+  {
+    "cotacao-compra": 4.7569,
+    "cotacao-venda": 4.7589,
+    "data": "2018-09-10",
+    "data-hora-fonte": "2018-09-10 13:05:36.914",
+    "paridade-compra": 1.1602,
+    "paridade-venda": 1.1605
+  },
+  {
+    "cotacao-compra": 4.8251,
+    "cotacao-venda": 4.8274,
+    "data": "2018-09-11",
+    "data-hora-fonte": "2018-09-11 13:06:44.643",
+    "paridade-compra": 1.1589,
+    "paridade-venda": 1.1593
+  },
+  {
+    "cotacao-compra": 4.7957,
+    "cotacao-venda": 4.7968,
+    "data": "2018-09-12",
+    "data-hora-fonte": "2018-09-12 13:07:02.929",
+    "paridade-compra": 1.1625,
+    "paridade-venda": 1.1626
+  },
+  {
+    "cotacao-compra": 4.8583,
+    "cotacao-venda": 4.8611,
+    "data": "2018-09-13",
+    "data-hora-fonte": "2018-09-13 13:11:59.661",
+    "paridade-compra": 1.167,
+    "paridade-venda": 1.1675
+  },
+  {
+    "cotacao-compra": 4.8803,
+    "cotacao-venda": 4.8814,
+    "data": "2018-09-14",
+    "data-hora-fonte": "2018-09-14 13:04:41.353",
+    "paridade-compra": 1.1655,
+    "paridade-venda": 1.1656
+  },
+  {
+    "cotacao-compra": 4.8709,
+    "cotacao-venda": 4.8733,
+    "data": "2018-09-17",
+    "data-hora-fonte": "2018-09-17 13:05:53.383",
+    "paridade-compra": 1.1684,
+    "paridade-venda": 1.1688
+  },
+  {
+    "cotacao-compra": 4.8353,
+    "cotacao-venda": 4.8373,
+    "data": "2018-09-18",
+    "data-hora-fonte": "2018-09-18 13:07:41.609",
+    "paridade-compra": 1.169,
+    "paridade-venda": 1.1693
+  },
+  {
+    "cotacao-compra": 4.8307,
+    "cotacao-venda": 4.8319,
+    "data": "2018-09-19",
+    "data-hora-fonte": "2018-09-19 13:04:39.576",
+    "paridade-compra": 1.1684,
+    "paridade-venda": 1.1685
+  },
+  {
+    "cotacao-compra": 4.8132,
+    "cotacao-venda": 4.8151,
+    "data": "2018-09-20",
+    "data-hora-fonte": "2018-09-20 13:08:02.922",
+    "paridade-compra": 1.1742,
+    "paridade-venda": 1.1745
+  },
+  {
+    "cotacao-compra": 4.7795,
+    "cotacao-venda": 4.7819,
+    "data": "2018-09-21",
+    "data-hora-fonte": "2018-09-21 13:11:48.093",
+    "paridade-compra": 1.1737,
+    "paridade-venda": 1.1741
+  },
+  {
+    "cotacao-compra": 4.7776,
+    "cotacao-venda": 4.7803,
+    "data": "2018-09-24",
+    "data-hora-fonte": "2018-09-24 13:08:22.123",
+    "paridade-compra": 1.1771,
+    "paridade-venda": 1.1776
+  },
+  {
+    "cotacao-compra": 4.8587,
+    "cotacao-venda": 4.8598,
+    "data": "2018-09-25",
+    "data-hora-fonte": "2018-09-25 13:08:42.299",
+    "paridade-compra": 1.177,
+    "paridade-venda": 1.1771
+  },
+  {
+    "cotacao-compra": 4.7683,
+    "cotacao-venda": 4.7706,
+    "data": "2018-09-26",
+    "data-hora-fonte": "2018-09-26 13:11:54.282",
+    "paridade-compra": 1.1755,
+    "paridade-venda": 1.1759
+  },
+  {
+    "cotacao-compra": 4.6772,
+    "cotacao-venda": 4.6795,
+    "data": "2018-09-27",
+    "data-hora-fonte": "2018-09-27 13:04:58.956",
+    "paridade-compra": 1.1668,
+    "paridade-venda": 1.1672
+  },
+  {
+    "cotacao-compra": 4.6518,
+    "cotacao-venda": 4.6545,
+    "data": "2018-09-28",
+    "data-hora-fonte": "2018-09-28 13:07:34.405",
+    "paridade-compra": 1.162,
+    "paridade-venda": 1.1625
+  },
+  {
+    "cotacao-compra": 4.6569,
+    "cotacao-venda": 4.6592,
+    "data": "2018-10-01",
+    "data-hora-fonte": "2018-10-01 13:07:35.553",
+    "paridade-compra": 1.1565,
+    "paridade-venda": 1.1569
+  },
+  {
+    "cotacao-compra": 4.5649,
+    "cotacao-venda": 4.5672,
+    "data": "2018-10-02",
+    "data-hora-fonte": "2018-10-02 13:07:29.213",
+    "paridade-compra": 1.1557,
+    "paridade-venda": 1.1561
+  },
+  {
+    "cotacao-compra": 4.4401,
+    "cotacao-venda": 4.4424,
+    "data": "2018-10-03",
+    "data-hora-fonte": "2018-10-03 13:08:47.363",
+    "paridade-compra": 1.1522,
+    "paridade-venda": 1.1526
+  },
+  {
+    "cotacao-compra": 4.4921,
+    "cotacao-venda": 4.4931,
+    "data": "2018-10-04",
+    "data-hora-fonte": "2018-10-04 13:11:46.908",
+    "paridade-compra": 1.1506,
+    "paridade-venda": 1.1507
+  },
+  {
+    "cotacao-compra": 4.4493,
+    "cotacao-venda": 4.4515,
+    "data": "2018-10-05",
+    "data-hora-fonte": "2018-10-05 13:07:46.523",
+    "paridade-compra": 1.1499,
+    "paridade-venda": 1.1503
+  },
+  {
+    "cotacao-compra": 4.3133,
+    "cotacao-venda": 4.3144,
+    "data": "2018-10-08",
+    "data-hora-fonte": "2018-10-08 13:06:51.493",
+    "paridade-compra": 1.1477,
+    "paridade-venda": 1.1478
+  },
+  {
+    "cotacao-compra": 4.2918,
+    "cotacao-venda": 4.2936,
+    "data": "2018-10-09",
+    "data-hora-fonte": "2018-10-09 13:09:38.942",
+    "paridade-compra": 1.148,
+    "paridade-venda": 1.1483
+  },
+  {
+    "cotacao-compra": 4.3276,
+    "cotacao-venda": 4.3294,
+    "data": "2018-10-10",
+    "data-hora-fonte": "2018-10-10 13:10:39.324",
+    "paridade-compra": 1.1539,
+    "paridade-venda": 1.1542
+  },
+  {
+    "cotacao-compra": 4.3308,
+    "cotacao-venda": 4.333,
+    "data": "2018-10-11",
+    "data-hora-fonte": "2018-10-11 13:11:47.128",
+    "paridade-compra": 1.1563,
+    "paridade-venda": 1.1567
+  },
+  {
+    "cotacao-compra": 4.3276,
+    "cotacao-venda": 4.3286,
+    "data": "2018-10-15",
+    "data-hora-fonte": "2018-10-15 13:06:02.256",
+    "paridade-compra": 1.1594,
+    "paridade-venda": 1.1595
+  },
+  {
+    "cotacao-compra": 4.2975,
+    "cotacao-venda": 4.2993,
+    "data": "2018-10-16",
+    "data-hora-fonte": "2018-10-16 13:03:44.349",
+    "paridade-compra": 1.1592,
+    "paridade-venda": 1.1595
+  },
+  {
+    "cotacao-compra": 4.2697,
+    "cotacao-venda": 4.2711,
+    "data": "2018-10-17",
+    "data-hora-fonte": "2018-10-17 13:04:38.631",
+    "paridade-compra": 1.1539,
+    "paridade-venda": 1.1541
+  },
+  {
+    "cotacao-compra": 4.2471,
+    "cotacao-venda": 4.2485,
+    "data": "2018-10-18",
+    "data-hora-fonte": "2018-10-18 13:10:50.726",
+    "paridade-compra": 1.1492,
+    "paridade-venda": 1.1494
+  },
+  {
+    "cotacao-compra": 4.2675,
+    "cotacao-venda": 4.2693,
+    "data": "2018-10-19",
+    "data-hora-fonte": "2018-10-19 13:03:52.099",
+    "paridade-compra": 1.1511,
+    "paridade-venda": 1.1514
+  },
+  {
+    "cotacao-compra": 4.2306,
+    "cotacao-venda": 4.232,
+    "data": "2018-10-22",
+    "data-hora-fonte": "2018-10-22 13:04:36.909",
+    "paridade-compra": 1.1466,
+    "paridade-venda": 1.1468
+  },
+  {
+    "cotacao-compra": 4.2554,
+    "cotacao-venda": 4.2575,
+    "data": "2018-10-23",
+    "data-hora-fonte": "2018-10-23 13:04:41.439",
+    "paridade-compra": 1.1478,
+    "paridade-venda": 1.1482
+  },
+  {
+    "cotacao-compra": 4.2186,
+    "cotacao-venda": 4.2211,
+    "data": "2018-10-24",
+    "data-hora-fonte": "2018-10-24 13:02:32.642",
+    "paridade-compra": 1.1385,
+    "paridade-venda": 1.139
+  },
+  {
+    "cotacao-compra": 4.2093,
+    "cotacao-venda": 4.2103,
+    "data": "2018-10-25",
+    "data-hora-fonte": "2018-10-25 13:04:49.424",
+    "paridade-compra": 1.1374,
+    "paridade-venda": 1.1375
+  },
+  {
+    "cotacao-compra": 4.1835,
+    "cotacao-venda": 4.1862,
+    "data": "2018-10-26",
+    "data-hora-fonte": "2018-10-26 13:06:35.358",
+    "paridade-compra": 1.1385,
+    "paridade-venda": 1.139
+  },
+  {
+    "cotacao-compra": 4.1405,
+    "cotacao-venda": 4.1423,
+    "data": "2018-10-29",
+    "data-hora-fonte": "2018-10-29 13:05:31.48",
+    "paridade-compra": 1.1387,
+    "paridade-venda": 1.139
+  },
+  {
+    "cotacao-compra": 4.2058,
+    "cotacao-venda": 4.2068,
+    "data": "2018-10-30",
+    "data-hora-fonte": "2018-10-30 13:11:49.725",
+    "paridade-compra": 1.1363,
+    "paridade-venda": 1.1364
+  },
+  {
+    "cotacao-compra": 4.2122,
+    "cotacao-venda": 4.2136,
+    "data": "2018-10-31",
+    "data-hora-fonte": "2018-10-31 13:05:55.406",
+    "paridade-compra": 1.1332,
+    "paridade-venda": 1.1334
+  },
+  {
+    "cotacao-compra": 4.2125,
+    "cotacao-venda": 4.2142,
+    "data": "2018-11-01",
+    "data-hora-fonte": "2018-11-01 13:12:13.654",
+    "paridade-compra": 1.1395,
+    "paridade-venda": 1.1398
+  },
+  {
+    "cotacao-compra": 4.2209,
+    "cotacao-venda": 4.2235,
+    "data": "2018-11-05",
+    "data-hora-fonte": "2018-11-05 13:12:48.801",
+    "paridade-compra": 1.1395,
+    "paridade-venda": 1.14
+  },
+  {
+    "cotacao-compra": 4.279,
+    "cotacao-venda": 4.2812,
+    "data": "2018-11-06",
+    "data-hora-fonte": "2018-11-06 13:13:20.28",
+    "paridade-compra": 1.1415,
+    "paridade-venda": 1.1419
+  },
+  {
+    "cotacao-compra": 4.3134,
+    "cotacao-venda": 4.3156,
+    "data": "2018-11-07",
+    "data-hora-fonte": "2018-11-07 13:11:33.562",
+    "paridade-compra": 1.1476,
+    "paridade-venda": 1.148
+  },
+  {
+    "cotacao-compra": 4.2742,
+    "cotacao-venda": 4.2757,
+    "data": "2018-11-08",
+    "data-hora-fonte": "2018-11-08 13:10:58.479",
+    "paridade-compra": 1.1433,
+    "paridade-venda": 1.1435
+  },
+  {
+    "cotacao-compra": 4.2533,
+    "cotacao-venda": 4.2547,
+    "data": "2018-11-09",
+    "data-hora-fonte": "2018-11-09 13:02:40.624",
+    "paridade-compra": 1.1342,
+    "paridade-venda": 1.1344
+  },
+  {
+    "cotacao-compra": 4.2205,
+    "cotacao-venda": 4.2223,
+    "data": "2018-11-12",
+    "data-hora-fonte": "2018-11-12 13:02:35.562",
+    "paridade-compra": 1.1263,
+    "paridade-venda": 1.1266
+  },
+  {
+    "cotacao-compra": 4.2558,
+    "cotacao-venda": 4.2569,
+    "data": "2018-11-13",
+    "data-hora-fonte": "2018-11-13 13:05:09.663",
+    "paridade-compra": 1.1263,
+    "paridade-venda": 1.1264
+  },
+  {
+    "cotacao-compra": 4.2972,
+    "cotacao-venda": 4.2987,
+    "data": "2018-11-14",
+    "data-hora-fonte": "2018-11-14 13:02:50.623",
+    "paridade-compra": 1.1333,
+    "paridade-venda": 1.1335
+  },
+  {
+    "cotacao-compra": 4.2779,
+    "cotacao-venda": 4.2805,
+    "data": "2018-11-16",
+    "data-hora-fonte": "2018-11-16 13:11:36.848",
+    "paridade-compra": 1.1402,
+    "paridade-venda": 1.1407
+  },
+  {
+    "cotacao-compra": 4.292,
+    "cotacao-venda": 4.2946,
+    "data": "2018-11-19",
+    "data-hora-fonte": "2018-11-19 13:06:48.431",
+    "paridade-compra": 1.1431,
+    "paridade-venda": 1.1436
+  },
+  {
+    "cotacao-compra": 4.2823,
+    "cotacao-venda": 4.2857,
+    "data": "2018-11-20",
+    "data-hora-fonte": "2018-11-20 13:08:52.909",
+    "paridade-compra": 1.1397,
+    "paridade-venda": 1.1401
+  },
+  {
+    "cotacao-compra": 4.3141,
+    "cotacao-venda": 4.3151,
+    "data": "2018-11-21",
+    "data-hora-fonte": "2018-11-21 13:02:51.548",
+    "paridade-compra": 1.1393,
+    "paridade-venda": 1.1394
+  },
+  {
+    "cotacao-compra": 4.3446,
+    "cotacao-venda": 4.3456,
+    "data": "2018-11-22",
+    "data-hora-fonte": "2018-11-22 13:03:42.264",
+    "paridade-compra": 1.1404,
+    "paridade-venda": 1.1405
+  },
+  {
+    "cotacao-compra": 4.3208,
+    "cotacao-venda": 4.3222,
+    "data": "2018-11-23",
+    "data-hora-fonte": "2018-11-23 13:03:14.597",
+    "paridade-compra": 1.1348,
+    "paridade-venda": 1.135
+  },
+  {
+    "cotacao-compra": 4.387,
+    "cotacao-venda": 4.3893,
+    "data": "2018-11-26",
+    "data-hora-fonte": "2018-11-26 13:11:48.575",
+    "paridade-compra": 1.1351,
+    "paridade-venda": 1.1355
+  },
+  {
+    "cotacao-compra": 4.3967,
+    "cotacao-venda": 4.3985,
+    "data": "2018-11-27",
+    "data-hora-fonte": "2018-11-27 13:09:42.909",
+    "paridade-compra": 1.1297,
+    "paridade-venda": 1.13
+  },
+  {
+    "cotacao-compra": 4.3546,
+    "cotacao-venda": 4.3568,
+    "data": "2018-11-28",
+    "data-hora-fonte": "2018-11-28 13:03:49.897",
+    "paridade-compra": 1.1274,
+    "paridade-venda": 1.1278
+  },
+  {
+    "cotacao-compra": 4.3891,
+    "cotacao-venda": 4.3914,
+    "data": "2018-11-29",
+    "data-hora-fonte": "2018-11-29 13:07:17.073",
+    "paridade-compra": 1.1382,
+    "paridade-venda": 1.1386
+  },
+  {
+    "cotacao-compra": 4.3788,
+    "cotacao-venda": 4.3806,
+    "data": "2018-11-30",
+    "data-hora-fonte": "2018-11-30 13:09:33.031",
+    "paridade-compra": 1.1336,
+    "paridade-venda": 1.1339
+  },
+  {
+    "cotacao-compra": 4.3408,
+    "cotacao-venda": 4.3423,
+    "data": "2018-12-03",
+    "data-hora-fonte": "2018-12-03 13:12:23.744",
+    "paridade-compra": 1.134,
+    "paridade-venda": 1.1342
+  },
+  {
+    "cotacao-compra": 4.3624,
+    "cotacao-venda": 4.365,
+    "data": "2018-12-04",
+    "data-hora-fonte": "2018-12-04 13:07:53.025",
+    "paridade-compra": 1.1388,
+    "paridade-venda": 1.1393
+  },
+  {
+    "cotacao-compra": 4.3652,
+    "cotacao-venda": 4.3666,
+    "data": "2018-12-05",
+    "data-hora-fonte": "2018-12-05 13:12:37.559",
+    "paridade-compra": 1.1322,
+    "paridade-venda": 1.1324
+  },
+  {
+    "cotacao-compra": 4.4625,
+    "cotacao-venda": 4.4639,
+    "data": "2018-12-06",
+    "data-hora-fonte": "2018-12-06 13:09:35.517",
+    "paridade-compra": 1.1392,
+    "paridade-venda": 1.1394
+  },
+  {
+    "cotacao-compra": 4.4354,
+    "cotacao-venda": 4.4376,
+    "data": "2018-12-07",
+    "data-hora-fonte": "2018-12-07 13:10:35.035",
+    "paridade-compra": 1.1385,
+    "paridade-venda": 1.1389
+  },
+  {
+    "cotacao-compra": 4.4598,
+    "cotacao-venda": 4.4613,
+    "data": "2018-12-10",
+    "data-hora-fonte": "2018-12-10 13:09:51.141",
+    "paridade-compra": 1.1405,
+    "paridade-venda": 1.1407
+  },
+  {
+    "cotacao-compra": 4.4222,
+    "cotacao-venda": 4.4233,
+    "data": "2018-12-11",
+    "data-hora-fonte": "2018-12-11 13:09:47.641",
+    "paridade-compra": 1.1337,
+    "paridade-venda": 1.1338
+  },
+  {
+    "cotacao-compra": 4.3883,
+    "cotacao-venda": 4.3906,
+    "data": "2018-12-12",
+    "data-hora-fonte": "2018-12-12 13:04:48.141",
+    "paridade-compra": 1.1362,
+    "paridade-venda": 1.1366
+  },
+  {
+    "cotacao-compra": 4.3993,
+    "cotacao-venda": 4.4011,
+    "data": "2018-12-13",
+    "data-hora-fonte": "2018-12-13 13:05:17.189",
+    "paridade-compra": 1.1343,
+    "paridade-venda": 1.1346
+  },
+  {
+    "cotacao-compra": 4.4098,
+    "cotacao-venda": 4.4109,
+    "data": "2018-12-14",
+    "data-hora-fonte": "2018-12-14 13:06:56.641",
+    "paridade-compra": 1.1283,
+    "paridade-venda": 1.1284
+  },
+  {
+    "cotacao-compra": 4.436,
+    "cotacao-venda": 4.4383,
+    "data": "2018-12-17",
+    "data-hora-fonte": "2018-12-17 13:08:43.268",
+    "paridade-compra": 1.1341,
+    "paridade-venda": 1.1345
+  },
+  {
+    "cotacao-compra": 4.4305,
+    "cotacao-venda": 4.4328,
+    "data": "2018-12-18",
+    "data-hora-fonte": "2018-12-18 13:11:50.052",
+    "paridade-compra": 1.1363,
+    "paridade-venda": 1.1367
+  },
+  {
+    "cotacao-compra": 4.446,
+    "cotacao-venda": 4.4471,
+    "data": "2018-12-19",
+    "data-hora-fonte": "2018-12-19 13:04:57.292",
+    "paridade-compra": 1.1429,
+    "paridade-venda": 1.143
+  },
+  {
+    "cotacao-compra": 4.3999,
+    "cotacao-venda": 4.4021,
+    "data": "2018-12-20",
+    "data-hora-fonte": "2018-12-20 13:03:35.898",
+    "paridade-compra": 1.1447,
+    "paridade-venda": 1.1451
+  },
+  {
+    "cotacao-compra": 4.4082,
+    "cotacao-venda": 4.4104,
+    "data": "2018-12-21",
+    "data-hora-fonte": "2018-12-21 13:07:13.892",
+    "paridade-compra": 1.1401,
+    "paridade-venda": 1.1405
+  },
+  {
+    "cotacao-compra": 4.4288,
+    "cotacao-venda": 4.431,
+    "data": "2018-12-24",
+    "data-hora-fonte": "2018-12-24 11:05:11.875",
+    "paridade-compra": 1.1403,
+    "paridade-venda": 1.1404
+  },
+  {
+    "cotacao-compra": 4.4688,
+    "cotacao-venda": 4.4699,
+    "data": "2018-12-26",
+    "data-hora-fonte": "2018-12-26 13:05:34.012",
+    "paridade-compra": 1.1385,
+    "paridade-venda": 1.1386
+  },
+  {
+    "cotacao-compra": 4.4955,
+    "cotacao-venda": 4.4974,
+    "data": "2018-12-27",
+    "data-hora-fonte": "2018-12-27 13:07:19.149",
+    "paridade-compra": 1.1432,
+    "paridade-venda": 1.1435
+  },
+  {
+    "cotacao-compra": 4.4371,
+    "cotacao-venda": 4.439,
+    "data": "2018-12-28",
+    "data-hora-fonte": "2018-12-28 13:03:50.793",
+    "paridade-compra": 1.1453,
+    "paridade-venda": 1.1456
+  },
+  {
+    "cotacao-compra": 4.4375,
+    "cotacao-venda": 4.439,
+    "data": "2018-12-31",
+    "data-hora-fonte": "2018-12-31 11:04:06.627",
+    "paridade-compra": 1.1454,
+    "paridade-venda": 1.1456
+  }
+]

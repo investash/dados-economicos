@@ -1,0 +1,20 @@
+{
+  "categoria": "taxas-de-juros",
+  "codigo-sgs": 4391,
+  "descricao": "Taxa de juros CDI acumulada no mês, divulgada pelo Banco Central do Brasil.",
+  "frequencia": "mensal",
+  "identificador": "cdi-acumulada-no-mes",
+  "instituicao-responsavel": "BACEN",
+  "moeda": "BRL",
+  "nome": "Taxa de juros - CDI acumulada no mês",
+  "primeira-observacao": "1986-08-01",
+  "provedor": "BACEN",
+  "referencia-oficial": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4391/dados?formato=json",
+  "status": "ativa",
+  "tipo-serie": "escalar",
+  "ultima-alteracao-dados": "2026-08-13",
+  "ultima-observacao": "2026-08-01",
+  "unidade": "% a.m.",
+  "versao-schema": "v1",
+  "versao-sneffelz": "2.0.0"
+}
