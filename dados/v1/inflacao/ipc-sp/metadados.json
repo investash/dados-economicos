@@ -1,0 +1,20 @@
+{
+  "categoria": "inflacao",
+  "codigo-sgs": 193,
+  "descricao": "Variação mensal do IPC-Fipe, índice de preços ao consumidor do município de São Paulo calculado pela FIPE.",
+  "frequencia": "mensal",
+  "identificador": "ipc-sp",
+  "instituicao-responsavel": "FIPE",
+  "moeda": "BRL",
+  "nome": "Índice de preços ao consumidor - São Paulo (IPC-Fipe)",
+  "primeira-observacao": "1939-02-01",
+  "provedor": "BACEN",
+  "referencia-oficial": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.193/dados?formato=json",
+  "status": "ativa",
+  "tipo-serie": "escalar",
+  "ultima-alteracao-dados": "2026-08-13",
+  "ultima-observacao": "2026-07-01",
+  "unidade": "% a.m.",
+  "versao-schema": "v1",
+  "versao-sneffelz": "2.0.0"
+}

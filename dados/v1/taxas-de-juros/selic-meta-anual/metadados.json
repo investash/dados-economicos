@@ -1,0 +1,20 @@
+{
+  "categoria": "taxas-de-juros",
+  "codigo-sgs": 432,
+  "descricao": "Meta para a taxa Selic definida pelo Comitê de Política Monetária (Copom), em % ao ano. Série diária: o valor vigente é repetido a cada dia até a próxima decisão.",
+  "frequencia": "diaria",
+  "identificador": "selic-meta-anual",
+  "instituicao-responsavel": "COPOM",
+  "moeda": "BRL",
+  "nome": "Taxa de juros - Meta Selic definida pelo Copom",
+  "primeira-observacao": "1999-03-05",
+  "provedor": "BACEN",
+  "referencia-oficial": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json",
+  "status": "ativa",
+  "tipo-serie": "escalar",
+  "ultima-alteracao-dados": "2026-08-13",
+  "ultima-observacao": "2026-08-13",
+  "unidade": "% a.a.",
+  "versao-schema": "v1",
+  "versao-sneffelz": "2.0.0"
+}
