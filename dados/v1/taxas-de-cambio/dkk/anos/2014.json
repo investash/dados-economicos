@@ -1,0 +1,2026 @@
+[
+  {
+    "cotacao-compra": 0.4385,
+    "cotacao-venda": 0.4386,
+    "data": "2014-01-02",
+    "data-hora-fonte": "2014-01-02 13:04:36.708",
+    "paridade-compra": 5.4657,
+    "paridade-venda": 5.4667
+  },
+  {
+    "cotacao-compra": 0.433,
+    "cotacao-venda": 0.4332,
+    "data": "2014-01-03",
+    "data-hora-fonte": "2014-01-03 13:03:27.555",
+    "paridade-compra": 5.4798,
+    "paridade-venda": 5.4808
+  },
+  {
+    "cotacao-compra": 0.4342,
+    "cotacao-venda": 0.4344,
+    "data": "2014-01-06",
+    "data-hora-fonte": "2014-01-06 13:09:49.431",
+    "paridade-compra": 5.4762,
+    "paridade-venda": 5.477
+  },
+  {
+    "cotacao-compra": 0.4314,
+    "cotacao-venda": 0.4316,
+    "data": "2014-01-07",
+    "data-hora-fonte": "2014-01-07 13:17:29.96",
+    "paridade-compra": 5.4764,
+    "paridade-venda": 5.4774
+  },
+  {
+    "cotacao-compra": 0.4334,
+    "cotacao-venda": 0.4335,
+    "data": "2014-01-08",
+    "data-hora-fonte": "2014-01-08 13:11:11.604",
+    "paridade-compra": 5.4848,
+    "paridade-venda": 5.4858
+  },
+  {
+    "cotacao-compra": 0.4357,
+    "cotacao-venda": 0.4358,
+    "data": "2014-01-09",
+    "data-hora-fonte": "2014-01-09 13:02:45.933",
+    "paridade-compra": 5.4975,
+    "paridade-venda": 5.4979
+  },
+  {
+    "cotacao-compra": 0.4364,
+    "cotacao-venda": 0.4367,
+    "data": "2014-01-10",
+    "data-hora-fonte": "2014-01-10 13:09:45.784",
+    "paridade-compra": 5.4548,
+    "paridade-venda": 5.4573
+  },
+  {
+    "cotacao-compra": 0.4296,
+    "cotacao-venda": 0.43,
+    "data": "2014-01-13",
+    "data-hora-fonte": "2014-01-13 13:04:39.67",
+    "paridade-compra": 5.4629,
+    "paridade-venda": 5.4669
+  },
+  {
+    "cotacao-compra": 0.4325,
+    "cotacao-venda": 0.4328,
+    "data": "2014-01-14",
+    "data-hora-fonte": "2014-01-14 13:08:46.792",
+    "paridade-compra": 5.457,
+    "paridade-venda": 5.4593
+  },
+  {
+    "cotacao-compra": 0.4273,
+    "cotacao-venda": 0.4274,
+    "data": "2014-01-15",
+    "data-hora-fonte": "2014-01-15 13:02:33.618",
+    "paridade-compra": 5.4913,
+    "paridade-venda": 5.4914
+  },
+  {
+    "cotacao-compra": 0.4323,
+    "cotacao-venda": 0.4324,
+    "data": "2014-01-16",
+    "data-hora-fonte": "2014-01-16 13:13:32.79",
+    "paridade-compra": 5.4766,
+    "paridade-venda": 5.4771
+  },
+  {
+    "cotacao-compra": 0.4294,
+    "cotacao-venda": 0.4295,
+    "data": "2014-01-17",
+    "data-hora-fonte": "2014-01-17 13:09:41.933",
+    "paridade-compra": 5.495,
+    "paridade-venda": 5.4955
+  },
+  {
+    "cotacao-compra": 0.4239,
+    "cotacao-venda": 0.4241,
+    "data": "2014-01-20",
+    "data-hora-fonte": "2014-01-20 13:03:55.439",
+    "paridade-compra": 5.5024,
+    "paridade-venda": 5.5034
+  },
+  {
+    "cotacao-compra": 0.4281,
+    "cotacao-venda": 0.4283,
+    "data": "2014-01-21",
+    "data-hora-fonte": "2014-01-21 13:11:28.685",
+    "paridade-compra": 5.5126,
+    "paridade-venda": 5.5137
+  },
+  {
+    "cotacao-compra": 0.4287,
+    "cotacao-venda": 0.4289,
+    "data": "2014-01-22",
+    "data-hora-fonte": "2014-01-22 13:09:58.309",
+    "paridade-compra": 5.5023,
+    "paridade-venda": 5.5033
+  },
+  {
+    "cotacao-compra": 0.435,
+    "cotacao-venda": 0.4351,
+    "data": "2014-01-23",
+    "data-hora-fonte": "2014-01-23 13:18:51.237",
+    "paridade-compra": 5.4605,
+    "paridade-venda": 5.4613
+  },
+  {
+    "cotacao-compra": 0.4423,
+    "cotacao-venda": 0.4425,
+    "data": "2014-01-24",
+    "data-hora-fonte": "2014-01-24 13:08:47.532",
+    "paridade-compra": 5.4531,
+    "paridade-venda": 5.4538
+  },
+  {
+    "cotacao-compra": 0.4402,
+    "cotacao-venda": 0.4404,
+    "data": "2014-01-27",
+    "data-hora-fonte": "2014-01-27 13:06:42.498",
+    "paridade-compra": 5.4591,
+    "paridade-venda": 5.4601
+  },
+  {
+    "cotacao-compra": 0.4426,
+    "cotacao-venda": 0.4429,
+    "data": "2014-01-28",
+    "data-hora-fonte": "2014-01-28 13:03:46.335",
+    "paridade-compra": 5.4567,
+    "paridade-venda": 5.459
+  },
+  {
+    "cotacao-compra": 0.4465,
+    "cotacao-venda": 0.4468,
+    "data": "2014-01-29",
+    "data-hora-fonte": "2014-01-29 13:12:17.122",
+    "paridade-compra": 5.4609,
+    "paridade-venda": 5.4619
+  },
+  {
+    "cotacao-compra": 0.4406,
+    "cotacao-venda": 0.4412,
+    "data": "2014-01-30",
+    "data-hora-fonte": "2014-01-30 13:08:40.702",
+    "paridade-compra": 5.4911,
+    "paridade-venda": 5.4971
+  },
+  {
+    "cotacao-compra": 0.4384,
+    "cotacao-venda": 0.4386,
+    "data": "2014-01-31",
+    "data-hora-fonte": "2014-01-31 13:05:55.471",
+    "paridade-compra": 5.5321,
+    "paridade-venda": 5.533
+  },
+  {
+    "cotacao-compra": 0.4356,
+    "cotacao-venda": 0.4361,
+    "data": "2014-02-03",
+    "data-hora-fonte": "2014-02-03 13:09:29.876",
+    "paridade-compra": 5.5235,
+    "paridade-venda": 5.5295
+  },
+  {
+    "cotacao-compra": 0.4374,
+    "cotacao-venda": 0.4379,
+    "data": "2014-02-04",
+    "data-hora-fonte": "2014-02-04 13:17:10.946",
+    "paridade-compra": 5.5215,
+    "paridade-venda": 5.5255
+  },
+  {
+    "cotacao-compra": 0.4361,
+    "cotacao-venda": 0.4367,
+    "data": "2014-02-05",
+    "data-hora-fonte": "2014-02-05 13:12:31.7",
+    "paridade-compra": 5.5203,
+    "paridade-venda": 5.5263
+  },
+  {
+    "cotacao-compra": 0.4382,
+    "cotacao-venda": 0.4384,
+    "data": "2014-02-06",
+    "data-hora-fonte": "2014-02-06 13:11:22.836",
+    "paridade-compra": 5.4835,
+    "paridade-venda": 5.4845
+  },
+  {
+    "cotacao-compra": 0.4335,
+    "cotacao-venda": 0.4337,
+    "data": "2014-02-07",
+    "data-hora-fonte": "2014-02-07 13:02:43.449",
+    "paridade-compra": 5.4919,
+    "paridade-venda": 5.4927
+  },
+  {
+    "cotacao-compra": 0.437,
+    "cotacao-venda": 0.4374,
+    "data": "2014-02-10",
+    "data-hora-fonte": "2014-02-10 13:03:47.13",
+    "paridade-compra": 5.4722,
+    "paridade-venda": 5.4762
+  },
+  {
+    "cotacao-compra": 0.4402,
+    "cotacao-venda": 0.4404,
+    "data": "2014-02-11",
+    "data-hora-fonte": "2014-02-11 13:10:51.842",
+    "paridade-compra": 5.4673,
+    "paridade-venda": 5.4678
+  },
+  {
+    "cotacao-compra": 0.438,
+    "cotacao-venda": 0.4382,
+    "data": "2014-02-12",
+    "data-hora-fonte": "2014-02-12 13:08:31.42",
+    "paridade-compra": 5.4968,
+    "paridade-venda": 5.4976
+  },
+  {
+    "cotacao-compra": 0.4438,
+    "cotacao-venda": 0.444,
+    "data": "2014-02-13",
+    "data-hora-fonte": "2014-02-13 13:04:36.405",
+    "paridade-compra": 5.459,
+    "paridade-venda": 5.46
+  },
+  {
+    "cotacao-compra": 0.4386,
+    "cotacao-venda": 0.4388,
+    "data": "2014-02-14",
+    "data-hora-fonte": "2014-02-14 13:06:35.861",
+    "paridade-compra": 5.452,
+    "paridade-venda": 5.453
+  },
+  {
+    "cotacao-compra": 0.438,
+    "cotacao-venda": 0.4384,
+    "data": "2014-02-17",
+    "data-hora-fonte": "2014-02-17 13:04:58.544",
+    "paridade-compra": 5.4442,
+    "paridade-venda": 5.4482
+  },
+  {
+    "cotacao-compra": 0.4417,
+    "cotacao-venda": 0.4421,
+    "data": "2014-02-18",
+    "data-hora-fonte": "2014-02-18 13:04:34.221",
+    "paridade-compra": 5.4242,
+    "paridade-venda": 5.4282
+  },
+  {
+    "cotacao-compra": 0.4418,
+    "cotacao-venda": 0.4422,
+    "data": "2014-02-19",
+    "data-hora-fonte": "2014-02-19 13:09:48.226",
+    "paridade-compra": 5.4239,
+    "paridade-venda": 5.4279
+  },
+  {
+    "cotacao-compra": 0.437,
+    "cotacao-venda": 0.4374,
+    "data": "2014-02-20",
+    "data-hora-fonte": "2014-02-20 13:15:13.325",
+    "paridade-compra": 5.4405,
+    "paridade-venda": 5.4445
+  },
+  {
+    "cotacao-compra": 0.435,
+    "cotacao-venda": 0.4352,
+    "data": "2014-02-21",
+    "data-hora-fonte": "2014-02-21 13:07:44.359",
+    "paridade-compra": 5.429,
+    "paridade-venda": 5.4295
+  },
+  {
+    "cotacao-compra": 0.43,
+    "cotacao-venda": 0.4304,
+    "data": "2014-02-24",
+    "data-hora-fonte": "2014-02-24 13:03:31.565",
+    "paridade-compra": 5.4345,
+    "paridade-venda": 5.4385
+  },
+  {
+    "cotacao-compra": 0.4298,
+    "cotacao-venda": 0.4302,
+    "data": "2014-02-25",
+    "data-hora-fonte": "2014-02-25 13:13:15.245",
+    "paridade-compra": 5.4319,
+    "paridade-venda": 5.4359
+  },
+  {
+    "cotacao-compra": 0.4295,
+    "cotacao-venda": 0.4296,
+    "data": "2014-02-26",
+    "data-hora-fonte": "2014-02-26 13:04:51.608",
+    "paridade-compra": 5.4596,
+    "paridade-venda": 5.4599
+  },
+  {
+    "cotacao-compra": 0.4295,
+    "cotacao-venda": 0.4297,
+    "data": "2014-02-27",
+    "data-hora-fonte": "2014-02-27 13:13:34.734",
+    "paridade-compra": 5.4543,
+    "paridade-venda": 5.4548
+  },
+  {
+    "cotacao-compra": 0.4316,
+    "cotacao-venda": 0.4318,
+    "data": "2014-02-28",
+    "data-hora-fonte": "2014-02-28 13:13:28.552",
+    "paridade-compra": 5.4034,
+    "paridade-venda": 5.4042
+  },
+  {
+    "cotacao-compra": 0.4276,
+    "cotacao-venda": 0.4278,
+    "data": "2014-03-05",
+    "data-hora-fonte": "2014-03-05 15:04:49.127",
+    "paridade-compra": 5.4326,
+    "paridade-venda": 5.4336
+  },
+  {
+    "cotacao-compra": 0.428,
+    "cotacao-venda": 0.4285,
+    "data": "2014-03-06",
+    "data-hora-fonte": "2014-03-06 13:07:39.84",
+    "paridade-compra": 5.39,
+    "paridade-venda": 5.394
+  },
+  {
+    "cotacao-compra": 0.4342,
+    "cotacao-venda": 0.4344,
+    "data": "2014-03-07",
+    "data-hora-fonte": "2014-03-07 13:09:43.095",
+    "paridade-compra": 5.3829,
+    "paridade-venda": 5.3836
+  },
+  {
+    "cotacao-compra": 0.4352,
+    "cotacao-venda": 0.4354,
+    "data": "2014-03-10",
+    "data-hora-fonte": "2014-03-10 13:03:43.522",
+    "paridade-compra": 5.3764,
+    "paridade-venda": 5.3774
+  },
+  {
+    "cotacao-compra": 0.4358,
+    "cotacao-venda": 0.436,
+    "data": "2014-03-11",
+    "data-hora-fonte": "2014-03-11 13:03:41.99",
+    "paridade-compra": 5.3814,
+    "paridade-venda": 5.3819
+  },
+  {
+    "cotacao-compra": 0.4404,
+    "cotacao-venda": 0.4406,
+    "data": "2014-03-12",
+    "data-hora-fonte": "2014-03-12 13:06:32.18",
+    "paridade-compra": 5.3677,
+    "paridade-venda": 5.3687
+  },
+  {
+    "cotacao-compra": 0.4381,
+    "cotacao-venda": 0.4383,
+    "data": "2014-03-13",
+    "data-hora-fonte": "2014-03-13 13:09:26.159",
+    "paridade-compra": 5.3588,
+    "paridade-venda": 5.3598
+  },
+  {
+    "cotacao-compra": 0.4409,
+    "cotacao-venda": 0.441,
+    "data": "2014-03-14",
+    "data-hora-fonte": "2014-03-14 13:10:41.871",
+    "paridade-compra": 5.3597,
+    "paridade-venda": 5.36
+  },
+  {
+    "cotacao-compra": 0.4387,
+    "cotacao-venda": 0.4389,
+    "data": "2014-03-17",
+    "data-hora-fonte": "2014-03-17 13:09:47.463",
+    "paridade-compra": 5.359,
+    "paridade-venda": 5.3594
+  },
+  {
+    "cotacao-compra": 0.4383,
+    "cotacao-venda": 0.4385,
+    "data": "2014-03-18",
+    "data-hora-fonte": "2014-03-18 13:09:29.089",
+    "paridade-compra": 5.3645,
+    "paridade-venda": 5.3655
+  },
+  {
+    "cotacao-compra": 0.4348,
+    "cotacao-venda": 0.4349,
+    "data": "2014-03-19",
+    "data-hora-fonte": "2014-03-19 13:13:14.378",
+    "paridade-compra": 5.366,
+    "paridade-venda": 5.3664
+  },
+  {
+    "cotacao-compra": 0.4323,
+    "cotacao-venda": 0.4325,
+    "data": "2014-03-20",
+    "data-hora-fonte": "2014-03-20 13:09:32.167",
+    "paridade-compra": 5.4155,
+    "paridade-venda": 5.4163
+  },
+  {
+    "cotacao-compra": 0.4291,
+    "cotacao-venda": 0.4292,
+    "data": "2014-03-21",
+    "data-hora-fonte": "2014-03-21 13:02:54.65",
+    "paridade-compra": 5.4157,
+    "paridade-venda": 5.4161
+  },
+  {
+    "cotacao-compra": 0.429,
+    "cotacao-venda": 0.4293,
+    "data": "2014-03-24",
+    "data-hora-fonte": "2014-03-24 13:05:01.762",
+    "paridade-compra": 5.4156,
+    "paridade-venda": 5.4171
+  },
+  {
+    "cotacao-compra": 0.4266,
+    "cotacao-venda": 0.4268,
+    "data": "2014-03-25",
+    "data-hora-fonte": "2014-03-25 13:02:43.426",
+    "paridade-compra": 5.4176,
+    "paridade-venda": 5.4186
+  },
+  {
+    "cotacao-compra": 0.4268,
+    "cotacao-venda": 0.427,
+    "data": "2014-03-26",
+    "data-hora-fonte": "2014-03-26 13:08:32.27",
+    "paridade-compra": 5.4146,
+    "paridade-venda": 5.4159
+  },
+  {
+    "cotacao-compra": 0.42,
+    "cotacao-venda": 0.4202,
+    "data": "2014-03-27",
+    "data-hora-fonte": "2014-03-27 13:11:37.693",
+    "paridade-compra": 5.4336,
+    "paridade-venda": 5.4346
+  },
+  {
+    "cotacao-compra": 0.4162,
+    "cotacao-venda": 0.4164,
+    "data": "2014-03-28",
+    "data-hora-fonte": "2014-03-28 13:10:27.749",
+    "paridade-compra": 5.4282,
+    "paridade-venda": 5.4292
+  },
+  {
+    "cotacao-compra": 0.4174,
+    "cotacao-venda": 0.4176,
+    "data": "2014-03-31",
+    "data-hora-fonte": "2014-03-31 13:06:28.603",
+    "paridade-compra": 5.4194,
+    "paridade-venda": 5.4204
+  },
+  {
+    "cotacao-compra": 0.4181,
+    "cotacao-venda": 0.4183,
+    "data": "2014-04-01",
+    "data-hora-fonte": "2014-04-01 13:06:33.73",
+    "paridade-compra": 5.4076,
+    "paridade-venda": 5.4082
+  },
+  {
+    "cotacao-compra": 0.4185,
+    "cotacao-venda": 0.4187,
+    "data": "2014-04-02",
+    "data-hora-fonte": "2014-04-02 13:06:42.001",
+    "paridade-compra": 5.4247,
+    "paridade-venda": 5.4257
+  },
+  {
+    "cotacao-compra": 0.4187,
+    "cotacao-venda": 0.4189,
+    "data": "2014-04-03",
+    "data-hora-fonte": "2014-04-03 13:13:35.103",
+    "paridade-compra": 5.4453,
+    "paridade-venda": 5.4463
+  },
+  {
+    "cotacao-compra": 0.4113,
+    "cotacao-venda": 0.4117,
+    "data": "2014-04-04",
+    "data-hora-fonte": "2014-04-04 13:08:32.592",
+    "paridade-compra": 5.4459,
+    "paridade-venda": 5.4499
+  },
+  {
+    "cotacao-compra": 0.4109,
+    "cotacao-venda": 0.4111,
+    "data": "2014-04-07",
+    "data-hora-fonte": "2014-04-07 13:11:44.528",
+    "paridade-compra": 5.4313,
+    "paridade-venda": 5.4318
+  },
+  {
+    "cotacao-compra": 0.4061,
+    "cotacao-venda": 0.4063,
+    "data": "2014-04-08",
+    "data-hora-fonte": "2014-04-08 13:11:12.079",
+    "paridade-compra": 5.4088,
+    "paridade-venda": 5.4098
+  },
+  {
+    "cotacao-compra": 0.4089,
+    "cotacao-venda": 0.4093,
+    "data": "2014-04-09",
+    "data-hora-fonte": "2014-04-09 13:07:31.791",
+    "paridade-compra": 5.4019,
+    "paridade-venda": 5.4059
+  },
+  {
+    "cotacao-compra": 0.409,
+    "cotacao-venda": 0.4091,
+    "data": "2014-04-10",
+    "data-hora-fonte": "2014-04-10 13:03:33.545",
+    "paridade-compra": 5.3741,
+    "paridade-venda": 5.3751
+  },
+  {
+    "cotacao-compra": 0.4104,
+    "cotacao-venda": 0.4106,
+    "data": "2014-04-11",
+    "data-hora-fonte": "2014-04-11 13:08:32.718",
+    "paridade-compra": 5.3721,
+    "paridade-venda": 5.3731
+  },
+  {
+    "cotacao-compra": 0.4088,
+    "cotacao-venda": 0.4092,
+    "data": "2014-04-14",
+    "data-hora-fonte": "2014-04-14 13:09:23.444",
+    "paridade-compra": 5.3993,
+    "paridade-venda": 5.4033
+  },
+  {
+    "cotacao-compra": 0.4114,
+    "cotacao-venda": 0.4116,
+    "data": "2014-04-15",
+    "data-hora-fonte": "2014-04-15 13:07:45.682",
+    "paridade-compra": 5.4074,
+    "paridade-venda": 5.4084
+  },
+  {
+    "cotacao-compra": 0.4135,
+    "cotacao-venda": 0.4136,
+    "data": "2014-04-16",
+    "data-hora-fonte": "2014-04-16 13:02:41.079",
+    "paridade-compra": 5.4018,
+    "paridade-venda": 5.402
+  },
+  {
+    "cotacao-compra": 0.4162,
+    "cotacao-venda": 0.4166,
+    "data": "2014-04-17",
+    "data-hora-fonte": "2014-04-17 13:10:40.265",
+    "paridade-compra": 5.3962,
+    "paridade-venda": 5.4002
+  },
+  {
+    "cotacao-compra": 0.4148,
+    "cotacao-venda": 0.4151,
+    "data": "2014-04-22",
+    "data-hora-fonte": "2014-04-22 13:11:46.284",
+    "paridade-compra": 5.408,
+    "paridade-venda": 5.4108
+  },
+  {
+    "cotacao-compra": 0.4148,
+    "cotacao-venda": 0.415,
+    "data": "2014-04-23",
+    "data-hora-fonte": "2014-04-23 13:06:46.738",
+    "paridade-compra": 5.4034,
+    "paridade-venda": 5.4049
+  },
+  {
+    "cotacao-compra": 0.4117,
+    "cotacao-venda": 0.4119,
+    "data": "2014-04-24",
+    "data-hora-fonte": "2014-04-24 13:05:33.387",
+    "paridade-compra": 5.3964,
+    "paridade-venda": 5.3974
+  },
+  {
+    "cotacao-compra": 0.4137,
+    "cotacao-venda": 0.4139,
+    "data": "2014-04-25",
+    "data-hora-fonte": "2014-04-25 13:09:32.442",
+    "paridade-compra": 5.3941,
+    "paridade-venda": 5.3946
+  },
+  {
+    "cotacao-compra": 0.4147,
+    "cotacao-venda": 0.4149,
+    "data": "2014-04-28",
+    "data-hora-fonte": "2014-04-28 13:16:25.151",
+    "paridade-compra": 5.3914,
+    "paridade-venda": 5.3924
+  },
+  {
+    "cotacao-compra": 0.4104,
+    "cotacao-venda": 0.4108,
+    "data": "2014-04-29",
+    "data-hora-fonte": "2014-04-29 13:12:27.032",
+    "paridade-compra": 5.4042,
+    "paridade-venda": 5.407
+  },
+  {
+    "cotacao-compra": 0.4153,
+    "cotacao-venda": 0.4155,
+    "data": "2014-04-30",
+    "data-hora-fonte": "2014-04-30 13:05:05.542",
+    "paridade-compra": 5.3817,
+    "paridade-venda": 5.3823
+  },
+  {
+    "cotacao-compra": 0.4126,
+    "cotacao-venda": 0.4128,
+    "data": "2014-05-02",
+    "data-hora-fonte": "2014-05-02 13:03:37.96",
+    "paridade-compra": 5.3836,
+    "paridade-venda": 5.3839
+  },
+  {
+    "cotacao-compra": 0.4144,
+    "cotacao-venda": 0.4145,
+    "data": "2014-05-05",
+    "data-hora-fonte": "2014-05-05 13:07:34.692",
+    "paridade-compra": 5.3763,
+    "paridade-venda": 5.3768
+  },
+  {
+    "cotacao-compra": 0.4162,
+    "cotacao-venda": 0.4164,
+    "data": "2014-05-06",
+    "data-hora-fonte": "2014-05-06 13:10:36.998",
+    "paridade-compra": 5.3603,
+    "paridade-venda": 5.3613
+  },
+  {
+    "cotacao-compra": 0.4153,
+    "cotacao-venda": 0.4155,
+    "data": "2014-05-07",
+    "data-hora-fonte": "2014-05-07 13:14:12.884",
+    "paridade-compra": 5.3632,
+    "paridade-venda": 5.3642
+  },
+  {
+    "cotacao-compra": 0.4105,
+    "cotacao-venda": 0.4107,
+    "data": "2014-05-08",
+    "data-hora-fonte": "2014-05-08 13:11:06.256",
+    "paridade-compra": 5.3833,
+    "paridade-venda": 5.3843
+  },
+  {
+    "cotacao-compra": 0.409,
+    "cotacao-venda": 0.4092,
+    "data": "2014-05-09",
+    "data-hora-fonte": "2014-05-09 13:09:49.932",
+    "paridade-compra": 5.4232,
+    "paridade-venda": 5.4242
+  },
+  {
+    "cotacao-compra": 0.4084,
+    "cotacao-venda": 0.4086,
+    "data": "2014-05-12",
+    "data-hora-fonte": "2014-05-12 13:05:50.094",
+    "paridade-compra": 5.4243,
+    "paridade-venda": 5.4253
+  },
+  {
+    "cotacao-compra": 0.4058,
+    "cotacao-venda": 0.4059,
+    "data": "2014-05-13",
+    "data-hora-fonte": "2014-05-13 13:07:35.024",
+    "paridade-compra": 5.4444,
+    "paridade-venda": 5.4449
+  },
+  {
+    "cotacao-compra": 0.4066,
+    "cotacao-venda": 0.4067,
+    "data": "2014-05-14",
+    "data-hora-fonte": "2014-05-14 13:09:49.681",
+    "paridade-compra": 5.4412,
+    "paridade-venda": 5.4416
+  },
+  {
+    "cotacao-compra": 0.4069,
+    "cotacao-venda": 0.4073,
+    "data": "2014-05-15",
+    "data-hora-fonte": "2014-05-15 13:10:39.677",
+    "paridade-compra": 5.4422,
+    "paridade-venda": 5.4462
+  },
+  {
+    "cotacao-compra": 0.4058,
+    "cotacao-venda": 0.406,
+    "data": "2014-05-16",
+    "data-hora-fonte": "2014-05-16 13:08:07.88",
+    "paridade-compra": 5.4456,
+    "paridade-venda": 5.4466
+  },
+  {
+    "cotacao-compra": 0.4062,
+    "cotacao-venda": 0.4063,
+    "data": "2014-05-19",
+    "data-hora-fonte": "2014-05-19 13:05:10.696",
+    "paridade-compra": 5.442,
+    "paridade-venda": 5.4425
+  },
+  {
+    "cotacao-compra": 0.4065,
+    "cotacao-venda": 0.4067,
+    "data": "2014-05-20",
+    "data-hora-fonte": "2014-05-20 13:05:34.283",
+    "paridade-compra": 5.4477,
+    "paridade-venda": 5.449
+  },
+  {
+    "cotacao-compra": 0.4045,
+    "cotacao-venda": 0.4047,
+    "data": "2014-05-21",
+    "data-hora-fonte": "2014-05-21 13:13:39.12",
+    "paridade-compra": 5.4638,
+    "paridade-venda": 5.4643
+  },
+  {
+    "cotacao-compra": 0.4047,
+    "cotacao-venda": 0.4048,
+    "data": "2014-05-22",
+    "data-hora-fonte": "2014-05-22 13:07:46.127",
+    "paridade-compra": 5.467,
+    "paridade-venda": 5.4673
+  },
+  {
+    "cotacao-compra": 0.4049,
+    "cotacao-venda": 0.4051,
+    "data": "2014-05-23",
+    "data-hora-fonte": "2014-05-23 13:13:50.234",
+    "paridade-compra": 5.4769,
+    "paridade-venda": 5.4779
+  },
+  {
+    "cotacao-compra": 0.406,
+    "cotacao-venda": 0.4061,
+    "data": "2014-05-26",
+    "data-hora-fonte": "2014-05-26 13:07:29.336",
+    "paridade-compra": 5.469,
+    "paridade-venda": 5.4692
+  },
+  {
+    "cotacao-compra": 0.4077,
+    "cotacao-venda": 0.4079,
+    "data": "2014-05-27",
+    "data-hora-fonte": "2014-05-27 13:11:55.066",
+    "paridade-compra": 5.4801,
+    "paridade-venda": 5.4814
+  },
+  {
+    "cotacao-compra": 0.4079,
+    "cotacao-venda": 0.4081,
+    "data": "2014-05-28",
+    "data-hora-fonte": "2014-05-28 13:10:31.786",
+    "paridade-compra": 5.4898,
+    "paridade-venda": 5.4913
+  },
+  {
+    "cotacao-compra": 0.4055,
+    "cotacao-venda": 0.4057,
+    "data": "2014-05-29",
+    "data-hora-fonte": "2014-05-29 13:08:37.636",
+    "paridade-compra": 5.4848,
+    "paridade-venda": 5.4858
+  },
+  {
+    "cotacao-compra": 0.409,
+    "cotacao-venda": 0.4092,
+    "data": "2014-05-30",
+    "data-hora-fonte": "2014-05-30 13:05:41.094",
+    "paridade-compra": 5.4717,
+    "paridade-venda": 5.4722
+  },
+  {
+    "cotacao-compra": 0.4126,
+    "cotacao-venda": 0.4127,
+    "data": "2014-06-02",
+    "data-hora-fonte": "2014-06-02 13:10:08.194",
+    "paridade-compra": 5.4852,
+    "paridade-venda": 5.4862
+  },
+  {
+    "cotacao-compra": 0.4134,
+    "cotacao-venda": 0.4135,
+    "data": "2014-06-03",
+    "data-hora-fonte": "2014-06-03 13:14:20.454",
+    "paridade-compra": 5.4785,
+    "paridade-venda": 5.4788
+  },
+  {
+    "cotacao-compra": 0.4159,
+    "cotacao-venda": 0.4161,
+    "data": "2014-06-04",
+    "data-hora-fonte": "2014-06-04 13:11:13.283",
+    "paridade-compra": 5.4794,
+    "paridade-venda": 5.4809
+  },
+  {
+    "cotacao-compra": 0.414,
+    "cotacao-venda": 0.4142,
+    "data": "2014-06-05",
+    "data-hora-fonte": "2014-06-05 13:11:46.429",
+    "paridade-compra": 5.4788,
+    "paridade-venda": 5.4801
+  },
+  {
+    "cotacao-compra": 0.4101,
+    "cotacao-venda": 0.4103,
+    "data": "2014-06-06",
+    "data-hora-fonte": "2014-06-06 13:11:54.669",
+    "paridade-compra": 5.4702,
+    "paridade-venda": 5.4715
+  },
+  {
+    "cotacao-compra": 0.4066,
+    "cotacao-venda": 0.4068,
+    "data": "2014-06-09",
+    "data-hora-fonte": "2014-06-09 13:14:19.297",
+    "paridade-compra": 5.4904,
+    "paridade-venda": 5.4919
+  },
+  {
+    "cotacao-compra": 0.4045,
+    "cotacao-venda": 0.4047,
+    "data": "2014-06-10",
+    "data-hora-fonte": "2014-06-10 13:11:07.623",
+    "paridade-compra": 5.5093,
+    "paridade-venda": 5.5099
+  },
+  {
+    "cotacao-compra": 0.4044,
+    "cotacao-venda": 0.4046,
+    "data": "2014-06-11",
+    "data-hora-fonte": "2014-06-11 13:16:57.878",
+    "paridade-compra": 5.5129,
+    "paridade-venda": 5.5142
+  },
+  {
+    "cotacao-compra": 0.405,
+    "cotacao-venda": 0.4052,
+    "data": "2014-06-12",
+    "data-hora-fonte": "2014-06-12 12:06:42.039",
+    "paridade-compra": 5.5047,
+    "paridade-venda": 5.5057
+  },
+  {
+    "cotacao-compra": 0.405,
+    "cotacao-venda": 0.4052,
+    "data": "2014-06-13",
+    "data-hora-fonte": "2014-06-13 13:11:30.371",
+    "paridade-compra": 5.5152,
+    "paridade-venda": 5.5165
+  },
+  {
+    "cotacao-compra": 0.4062,
+    "cotacao-venda": 0.4063,
+    "data": "2014-06-16",
+    "data-hora-fonte": "2014-06-16 13:06:29.719",
+    "paridade-compra": 5.4915,
+    "paridade-venda": 5.4922
+  },
+  {
+    "cotacao-compra": 0.4083,
+    "cotacao-venda": 0.4085,
+    "data": "2014-06-17",
+    "data-hora-fonte": "2014-06-17 12:06:40.622",
+    "paridade-compra": 5.505,
+    "paridade-venda": 5.5054
+  },
+  {
+    "cotacao-compra": 0.4099,
+    "cotacao-venda": 0.41,
+    "data": "2014-06-18",
+    "data-hora-fonte": "2014-06-18 13:03:45.933",
+    "paridade-compra": 5.4963,
+    "paridade-venda": 5.4966
+  },
+  {
+    "cotacao-compra": 0.4076,
+    "cotacao-venda": 0.4078,
+    "data": "2014-06-20",
+    "data-hora-fonte": "2014-06-20 13:09:17.147",
+    "paridade-compra": 5.4875,
+    "paridade-venda": 5.4888
+  },
+  {
+    "cotacao-compra": 0.4046,
+    "cotacao-venda": 0.4047,
+    "data": "2014-06-23",
+    "data-hora-fonte": "2014-06-23 12:11:37.367",
+    "paridade-compra": 5.4838,
+    "paridade-venda": 5.4848
+  },
+  {
+    "cotacao-compra": 0.4048,
+    "cotacao-venda": 0.405,
+    "data": "2014-06-24",
+    "data-hora-fonte": "2014-06-24 13:06:31.521",
+    "paridade-compra": 5.4858,
+    "paridade-venda": 5.4871
+  },
+  {
+    "cotacao-compra": 0.4032,
+    "cotacao-venda": 0.4034,
+    "data": "2014-06-25",
+    "data-hora-fonte": "2014-06-25 13:05:49.408",
+    "paridade-compra": 5.4665,
+    "paridade-venda": 5.4675
+  },
+  {
+    "cotacao-compra": 0.403,
+    "cotacao-venda": 0.4032,
+    "data": "2014-06-26",
+    "data-hora-fonte": "2014-06-26 13:11:36.91",
+    "paridade-compra": 5.4789,
+    "paridade-venda": 5.4799
+  },
+  {
+    "cotacao-compra": 0.4016,
+    "cotacao-venda": 0.4018,
+    "data": "2014-06-27",
+    "data-hora-fonte": "2014-06-27 13:02:50.058",
+    "paridade-compra": 5.469,
+    "paridade-venda": 5.47
+  },
+  {
+    "cotacao-compra": 0.4042,
+    "cotacao-venda": 0.4044,
+    "data": "2014-06-30",
+    "data-hora-fonte": "2014-06-30 13:08:44.466",
+    "paridade-compra": 5.4459,
+    "paridade-venda": 5.4474
+  },
+  {
+    "cotacao-compra": 0.4045,
+    "cotacao-venda": 0.4047,
+    "data": "2014-07-01",
+    "data-hora-fonte": "2014-07-01 13:09:29.064",
+    "paridade-compra": 5.4495,
+    "paridade-venda": 5.4508
+  },
+  {
+    "cotacao-compra": 0.4051,
+    "cotacao-venda": 0.4053,
+    "data": "2014-07-02",
+    "data-hora-fonte": "2014-07-02 13:04:33.296",
+    "paridade-compra": 5.4605,
+    "paridade-venda": 5.4618
+  },
+  {
+    "cotacao-compra": 0.4065,
+    "cotacao-venda": 0.4067,
+    "data": "2014-07-03",
+    "data-hora-fonte": "2014-07-03 13:11:28.779",
+    "paridade-compra": 5.4779,
+    "paridade-venda": 5.4792
+  },
+  {
+    "cotacao-compra": 0.4035,
+    "cotacao-venda": 0.4037,
+    "data": "2014-07-04",
+    "data-hora-fonte": "2014-07-04 12:11:32.032",
+    "paridade-compra": 5.4864,
+    "paridade-venda": 5.4879
+  },
+  {
+    "cotacao-compra": 0.4049,
+    "cotacao-venda": 0.4051,
+    "data": "2014-07-07",
+    "data-hora-fonte": "2014-07-07 13:05:22.155",
+    "paridade-compra": 5.4804,
+    "paridade-venda": 5.4812
+  },
+  {
+    "cotacao-compra": 0.4043,
+    "cotacao-venda": 0.4045,
+    "data": "2014-07-08",
+    "data-hora-fonte": "2014-07-08 12:07:32.591",
+    "paridade-compra": 5.4758,
+    "paridade-venda": 5.4773
+  },
+  {
+    "cotacao-compra": 0.4046,
+    "cotacao-venda": 0.4048,
+    "data": "2014-07-09",
+    "data-hora-fonte": "2014-07-09 13:11:46.803",
+    "paridade-compra": 5.4694,
+    "paridade-venda": 5.4697
+  },
+  {
+    "cotacao-compra": 0.4055,
+    "cotacao-venda": 0.4057,
+    "data": "2014-07-10",
+    "data-hora-fonte": "2014-07-10 13:02:45.13",
+    "paridade-compra": 5.4814,
+    "paridade-venda": 5.4817
+  },
+  {
+    "cotacao-compra": 0.4053,
+    "cotacao-venda": 0.4054,
+    "data": "2014-07-11",
+    "data-hora-fonte": "2014-07-11 13:11:36.466",
+    "paridade-compra": 5.483,
+    "paridade-venda": 5.4835
+  },
+  {
+    "cotacao-compra": 0.4049,
+    "cotacao-venda": 0.4051,
+    "data": "2014-07-14",
+    "data-hora-fonte": "2014-07-14 13:41:58.416",
+    "paridade-compra": 5.4744,
+    "paridade-venda": 5.4754
+  },
+  {
+    "cotacao-compra": 0.4039,
+    "cotacao-venda": 0.4041,
+    "data": "2014-07-15",
+    "data-hora-fonte": "2014-07-15 13:02:56.899",
+    "paridade-compra": 5.4926,
+    "paridade-venda": 5.4939
+  },
+  {
+    "cotacao-compra": 0.4025,
+    "cotacao-venda": 0.4027,
+    "data": "2014-07-16",
+    "data-hora-fonte": "2014-07-16 13:05:44.519",
+    "paridade-compra": 5.5115,
+    "paridade-venda": 5.512
+  },
+  {
+    "cotacao-compra": 0.4063,
+    "cotacao-venda": 0.4065,
+    "data": "2014-07-17",
+    "data-hora-fonte": "2014-07-17 13:11:56.227",
+    "paridade-compra": 5.5117,
+    "paridade-venda": 5.5127
+  },
+  {
+    "cotacao-compra": 0.4051,
+    "cotacao-venda": 0.4053,
+    "data": "2014-07-18",
+    "data-hora-fonte": "2014-07-18 13:02:42.743",
+    "paridade-compra": 5.517,
+    "paridade-venda": 5.518
+  },
+  {
+    "cotacao-compra": 0.4032,
+    "cotacao-venda": 0.4033,
+    "data": "2014-07-21",
+    "data-hora-fonte": "2014-07-21 13:05:31.034",
+    "paridade-compra": 5.5135,
+    "paridade-venda": 5.5145
+  },
+  {
+    "cotacao-compra": 0.3995,
+    "cotacao-venda": 0.3997,
+    "data": "2014-07-22",
+    "data-hora-fonte": "2014-07-22 13:07:42.776",
+    "paridade-compra": 5.5363,
+    "paridade-venda": 5.5373
+  },
+  {
+    "cotacao-compra": 0.4006,
+    "cotacao-venda": 0.4008,
+    "data": "2014-07-23",
+    "data-hora-fonte": "2014-07-23 13:04:43.489",
+    "paridade-compra": 5.5392,
+    "paridade-venda": 5.5405
+  },
+  {
+    "cotacao-compra": 0.4009,
+    "cotacao-venda": 0.4011,
+    "data": "2014-07-24",
+    "data-hora-fonte": "2014-07-24 13:04:42.984",
+    "paridade-compra": 5.5364,
+    "paridade-venda": 5.5377
+  },
+  {
+    "cotacao-compra": 0.4014,
+    "cotacao-venda": 0.4016,
+    "data": "2014-07-25",
+    "data-hora-fonte": "2014-07-25 13:08:32.614",
+    "paridade-compra": 5.5514,
+    "paridade-venda": 5.5524
+  },
+  {
+    "cotacao-compra": 0.4018,
+    "cotacao-venda": 0.402,
+    "data": "2014-07-28",
+    "data-hora-fonte": "2014-07-28 13:09:20.305",
+    "paridade-compra": 5.5478,
+    "paridade-venda": 5.5488
+  },
+  {
+    "cotacao-compra": 0.4005,
+    "cotacao-venda": 0.4007,
+    "data": "2014-07-29",
+    "data-hora-fonte": "2014-07-29 13:10:27.218",
+    "paridade-compra": 5.5603,
+    "paridade-venda": 5.5605
+  },
+  {
+    "cotacao-compra": 0.4026,
+    "cotacao-venda": 0.4028,
+    "data": "2014-07-30",
+    "data-hora-fonte": "2014-07-30 13:07:44.328",
+    "paridade-compra": 5.5732,
+    "paridade-venda": 5.5747
+  },
+  {
+    "cotacao-compra": 0.407,
+    "cotacao-venda": 0.4072,
+    "data": "2014-07-31",
+    "data-hora-fonte": "2014-07-31 13:07:00.816",
+    "paridade-compra": 5.5689,
+    "paridade-venda": 5.569
+  },
+  {
+    "cotacao-compra": 0.4072,
+    "cotacao-venda": 0.4074,
+    "data": "2014-08-01",
+    "data-hora-fonte": "2014-08-01 13:09:28.709",
+    "paridade-compra": 5.5491,
+    "paridade-venda": 5.5496
+  },
+  {
+    "cotacao-compra": 0.4061,
+    "cotacao-venda": 0.4062,
+    "data": "2014-08-04",
+    "data-hora-fonte": "2014-08-04 13:08:08.847",
+    "paridade-compra": 5.5578,
+    "paridade-venda": 5.5581
+  },
+  {
+    "cotacao-compra": 0.4078,
+    "cotacao-venda": 0.408,
+    "data": "2014-08-05",
+    "data-hora-fonte": "2014-08-05 13:09:32.519",
+    "paridade-compra": 5.5773,
+    "paridade-venda": 5.5786
+  },
+  {
+    "cotacao-compra": 0.4081,
+    "cotacao-venda": 0.4083,
+    "data": "2014-08-06",
+    "data-hora-fonte": "2014-08-06 13:05:14.891",
+    "paridade-compra": 5.5821,
+    "paridade-venda": 5.5834
+  },
+  {
+    "cotacao-compra": 0.4085,
+    "cotacao-venda": 0.4087,
+    "data": "2014-08-07",
+    "data-hora-fonte": "2014-08-07 13:02:33.511",
+    "paridade-compra": 5.5789,
+    "paridade-venda": 5.5802
+  },
+  {
+    "cotacao-compra": 0.4134,
+    "cotacao-venda": 0.4136,
+    "data": "2014-08-08",
+    "data-hora-fonte": "2014-08-08 13:08:27.9",
+    "paridade-compra": 5.5578,
+    "paridade-venda": 5.5589
+  },
+  {
+    "cotacao-compra": 0.4088,
+    "cotacao-venda": 0.409,
+    "data": "2014-08-11",
+    "data-hora-fonte": "2014-08-11 13:06:30.729",
+    "paridade-compra": 5.5701,
+    "paridade-venda": 5.5703
+  },
+  {
+    "cotacao-compra": 0.4078,
+    "cotacao-venda": 0.4079,
+    "data": "2014-08-12",
+    "data-hora-fonte": "2014-08-12 13:05:38.855",
+    "paridade-compra": 5.5816,
+    "paridade-venda": 5.5822
+  },
+  {
+    "cotacao-compra": 0.4067,
+    "cotacao-venda": 0.4069,
+    "data": "2014-08-13",
+    "data-hora-fonte": "2014-08-13 13:03:31.255",
+    "paridade-compra": 5.5772,
+    "paridade-venda": 5.5782
+  },
+  {
+    "cotacao-compra": 0.4072,
+    "cotacao-venda": 0.4073,
+    "data": "2014-08-14",
+    "data-hora-fonte": "2014-08-14 13:08:02.18",
+    "paridade-compra": 5.5736,
+    "paridade-venda": 5.5741
+  },
+  {
+    "cotacao-compra": 0.4074,
+    "cotacao-venda": 0.4076,
+    "data": "2014-08-15",
+    "data-hora-fonte": "2014-08-15 13:04:45.323",
+    "paridade-compra": 5.5665,
+    "paridade-venda": 5.5675
+  },
+  {
+    "cotacao-compra": 0.4047,
+    "cotacao-venda": 0.4049,
+    "data": "2014-08-18",
+    "data-hora-fonte": "2014-08-18 13:05:42.982",
+    "paridade-compra": 5.581,
+    "paridade-venda": 5.582
+  },
+  {
+    "cotacao-compra": 0.4033,
+    "cotacao-venda": 0.4036,
+    "data": "2014-08-19",
+    "data-hora-fonte": "2014-08-19 13:04:34.078",
+    "paridade-compra": 5.5969,
+    "paridade-venda": 5.5984
+  },
+  {
+    "cotacao-compra": 0.4016,
+    "cotacao-venda": 0.4018,
+    "data": "2014-08-20",
+    "data-hora-fonte": "2014-08-20 13:03:45.095",
+    "paridade-compra": 5.6124,
+    "paridade-venda": 5.6137
+  },
+  {
+    "cotacao-compra": 0.4023,
+    "cotacao-venda": 0.4024,
+    "data": "2014-08-21",
+    "data-hora-fonte": "2014-08-21 13:08:15.099",
+    "paridade-compra": 5.6115,
+    "paridade-venda": 5.612
+  },
+  {
+    "cotacao-compra": 0.4043,
+    "cotacao-venda": 0.4044,
+    "data": "2014-08-22",
+    "data-hora-fonte": "2014-08-22 13:09:47.942",
+    "paridade-compra": 5.6321,
+    "paridade-venda": 5.6326
+  },
+  {
+    "cotacao-compra": 0.4039,
+    "cotacao-venda": 0.404,
+    "data": "2014-08-25",
+    "data-hora-fonte": "2014-08-25 13:02:38.914",
+    "paridade-compra": 5.6449,
+    "paridade-venda": 5.6459
+  },
+  {
+    "cotacao-compra": 0.4023,
+    "cotacao-venda": 0.4025,
+    "data": "2014-08-26",
+    "data-hora-fonte": "2014-08-26 13:05:37.553",
+    "paridade-compra": 5.6519,
+    "paridade-venda": 5.6529
+  },
+  {
+    "cotacao-compra": 0.3997,
+    "cotacao-venda": 0.3999,
+    "data": "2014-08-27",
+    "data-hora-fonte": "2014-08-27 13:11:59.4",
+    "paridade-compra": 5.6498,
+    "paridade-venda": 5.6508
+  },
+  {
+    "cotacao-compra": 0.3978,
+    "cotacao-venda": 0.3979,
+    "data": "2014-08-28",
+    "data-hora-fonte": "2014-08-28 13:04:33.121",
+    "paridade-compra": 5.6547,
+    "paridade-venda": 5.655
+  },
+  {
+    "cotacao-compra": 0.3952,
+    "cotacao-venda": 0.3954,
+    "data": "2014-08-29",
+    "data-hora-fonte": "2014-08-29 13:05:02.083",
+    "paridade-compra": 5.6647,
+    "paridade-venda": 5.6652
+  },
+  {
+    "cotacao-compra": 0.3939,
+    "cotacao-venda": 0.3942,
+    "data": "2014-09-01",
+    "data-hora-fonte": "2014-09-01 13:03:17.5",
+    "paridade-compra": 5.6739,
+    "paridade-venda": 5.6754
+  },
+  {
+    "cotacao-compra": 0.3967,
+    "cotacao-venda": 0.3969,
+    "data": "2014-09-02",
+    "data-hora-fonte": "2014-09-02 13:06:36.646",
+    "paridade-compra": 5.6745,
+    "paridade-venda": 5.675
+  },
+  {
+    "cotacao-compra": 0.3935,
+    "cotacao-venda": 0.3937,
+    "data": "2014-09-03",
+    "data-hora-fonte": "2014-09-03 13:07:36.725",
+    "paridade-compra": 5.6691,
+    "paridade-venda": 5.6701
+  },
+  {
+    "cotacao-compra": 0.388,
+    "cotacao-venda": 0.3882,
+    "data": "2014-09-04",
+    "data-hora-fonte": "2014-09-04 13:11:46.701",
+    "paridade-compra": 5.7592,
+    "paridade-venda": 5.7605
+  },
+  {
+    "cotacao-compra": 0.3899,
+    "cotacao-venda": 0.3902,
+    "data": "2014-09-05",
+    "data-hora-fonte": "2014-09-05 13:13:36.251",
+    "paridade-compra": 5.7453,
+    "paridade-venda": 5.7473
+  },
+  {
+    "cotacao-compra": 0.391,
+    "cotacao-venda": 0.3912,
+    "data": "2014-09-08",
+    "data-hora-fonte": "2014-09-08 13:06:35.021",
+    "paridade-compra": 5.7492,
+    "paridade-venda": 5.7502
+  },
+  {
+    "cotacao-compra": 0.3954,
+    "cotacao-venda": 0.3956,
+    "data": "2014-09-09",
+    "data-hora-fonte": "2014-09-09 13:10:34.33",
+    "paridade-compra": 5.7672,
+    "paridade-venda": 5.7679
+  },
+  {
+    "cotacao-compra": 0.3982,
+    "cotacao-venda": 0.3983,
+    "data": "2014-09-10",
+    "data-hora-fonte": "2014-09-10 13:10:04.42",
+    "paridade-compra": 5.766,
+    "paridade-venda": 5.7665
+  },
+  {
+    "cotacao-compra": 0.3975,
+    "cotacao-venda": 0.3977,
+    "data": "2014-09-11",
+    "data-hora-fonte": "2014-09-11 13:03:30.046",
+    "paridade-compra": 5.7537,
+    "paridade-venda": 5.7547
+  },
+  {
+    "cotacao-compra": 0.4045,
+    "cotacao-venda": 0.4047,
+    "data": "2014-09-12",
+    "data-hora-fonte": "2014-09-12 13:11:46.037",
+    "paridade-compra": 5.7453,
+    "paridade-venda": 5.7457
+  },
+  {
+    "cotacao-compra": 0.407,
+    "cotacao-venda": 0.4072,
+    "data": "2014-09-15",
+    "data-hora-fonte": "2014-09-15 13:09:10.2",
+    "paridade-compra": 5.7475,
+    "paridade-venda": 5.7488
+  },
+  {
+    "cotacao-compra": 0.407,
+    "cotacao-venda": 0.4073,
+    "data": "2014-09-16",
+    "data-hora-fonte": "2014-09-16 13:03:30.538",
+    "paridade-compra": 5.7334,
+    "paridade-venda": 5.7354
+  },
+  {
+    "cotacao-compra": 0.4068,
+    "cotacao-venda": 0.407,
+    "data": "2014-09-17",
+    "data-hora-fonte": "2014-09-17 13:03:54.594",
+    "paridade-compra": 5.7456,
+    "paridade-venda": 5.7469
+  },
+  {
+    "cotacao-compra": 0.4104,
+    "cotacao-venda": 0.4106,
+    "data": "2014-09-18",
+    "data-hora-fonte": "2014-09-18 13:11:49.182",
+    "paridade-compra": 5.7649,
+    "paridade-venda": 5.7659
+  },
+  {
+    "cotacao-compra": 0.4078,
+    "cotacao-venda": 0.4079,
+    "data": "2014-09-19",
+    "data-hora-fonte": "2014-09-19 13:10:47.7",
+    "paridade-compra": 5.7988,
+    "paridade-venda": 5.7998
+  },
+  {
+    "cotacao-compra": 0.4113,
+    "cotacao-venda": 0.4114,
+    "data": "2014-09-22",
+    "data-hora-fonte": "2014-09-22 13:10:24.895",
+    "paridade-compra": 5.8022,
+    "paridade-venda": 5.8027
+  },
+  {
+    "cotacao-compra": 0.4149,
+    "cotacao-venda": 0.4151,
+    "data": "2014-09-23",
+    "data-hora-fonte": "2014-09-23 13:08:37.756",
+    "paridade-compra": 5.7885,
+    "paridade-venda": 5.7895
+  },
+  {
+    "cotacao-compra": 0.4134,
+    "cotacao-venda": 0.4135,
+    "data": "2014-09-24",
+    "data-hora-fonte": "2014-09-24 13:04:44.7",
+    "paridade-compra": 5.8208,
+    "paridade-venda": 5.8212
+  },
+  {
+    "cotacao-compra": 0.4124,
+    "cotacao-venda": 0.4126,
+    "data": "2014-09-25",
+    "data-hora-fonte": "2014-09-25 13:08:00.462",
+    "paridade-compra": 5.8379,
+    "paridade-venda": 5.8384
+  },
+  {
+    "cotacao-compra": 0.4142,
+    "cotacao-venda": 0.4144,
+    "data": "2014-09-26",
+    "data-hora-fonte": "2014-09-26 13:05:32.974",
+    "paridade-compra": 5.8668,
+    "paridade-venda": 5.8681
+  },
+  {
+    "cotacao-compra": 0.4184,
+    "cotacao-venda": 0.4186,
+    "data": "2014-09-29",
+    "data-hora-fonte": "2014-09-29 13:02:37.5",
+    "paridade-compra": 5.8581,
+    "paridade-venda": 5.8594
+  },
+  {
+    "cotacao-compra": 0.4156,
+    "cotacao-venda": 0.4158,
+    "data": "2014-09-30",
+    "data-hora-fonte": "2014-09-30 13:07:31.767",
+    "paridade-compra": 5.8949,
+    "paridade-venda": 5.8959
+  },
+  {
+    "cotacao-compra": 0.4172,
+    "cotacao-venda": 0.4174,
+    "data": "2014-10-01",
+    "data-hora-fonte": "2014-10-01 13:06:15.963",
+    "paridade-compra": 5.899,
+    "paridade-venda": 5.901
+  },
+  {
+    "cotacao-compra": 0.4217,
+    "cotacao-venda": 0.4219,
+    "data": "2014-10-02",
+    "data-hora-fonte": "2014-10-02 13:02:31.206",
+    "paridade-compra": 5.8744,
+    "paridade-venda": 5.8764
+  },
+  {
+    "cotacao-compra": 0.4191,
+    "cotacao-venda": 0.4192,
+    "data": "2014-10-03",
+    "data-hora-fonte": "2014-10-03 13:05:35.859",
+    "paridade-compra": 5.9471,
+    "paridade-venda": 5.9481
+  },
+  {
+    "cotacao-compra": 0.4075,
+    "cotacao-venda": 0.4076,
+    "data": "2014-10-06",
+    "data-hora-fonte": "2014-10-06 13:02:58.407",
+    "paridade-compra": 5.9117,
+    "paridade-venda": 5.9122
+  },
+  {
+    "cotacao-compra": 0.4076,
+    "cotacao-venda": 0.4077,
+    "data": "2014-10-07",
+    "data-hora-fonte": "2014-10-07 13:11:36.399",
+    "paridade-compra": 5.8958,
+    "paridade-venda": 5.8963
+  },
+  {
+    "cotacao-compra": 0.41,
+    "cotacao-venda": 0.4103,
+    "data": "2014-10-08",
+    "data-hora-fonte": "2014-10-08 13:08:55.651",
+    "paridade-compra": 5.8675,
+    "paridade-venda": 5.8695
+  },
+  {
+    "cotacao-compra": 0.4074,
+    "cotacao-venda": 0.4075,
+    "data": "2014-10-09",
+    "data-hora-fonte": "2014-10-09 13:03:40.259",
+    "paridade-compra": 5.8682,
+    "paridade-venda": 5.8687
+  },
+  {
+    "cotacao-compra": 0.409,
+    "cotacao-venda": 0.4092,
+    "data": "2014-10-10",
+    "data-hora-fonte": "2014-10-10 13:13:19.054",
+    "paridade-compra": 5.8907,
+    "paridade-venda": 5.8917
+  },
+  {
+    "cotacao-compra": 0.4075,
+    "cotacao-venda": 0.4077,
+    "data": "2014-10-13",
+    "data-hora-fonte": "2014-10-13 13:09:33.37",
+    "paridade-compra": 5.8675,
+    "paridade-venda": 5.8688
+  },
+  {
+    "cotacao-compra": 0.4078,
+    "cotacao-venda": 0.408,
+    "data": "2014-10-14",
+    "data-hora-fonte": "2014-10-14 13:22:15.436",
+    "paridade-compra": 5.8801,
+    "paridade-venda": 5.8821
+  },
+  {
+    "cotacao-compra": 0.4172,
+    "cotacao-venda": 0.4174,
+    "data": "2014-10-15",
+    "data-hora-fonte": "2014-10-15 13:03:40.188",
+    "paridade-compra": 5.8251,
+    "paridade-venda": 5.8264
+  },
+  {
+    "cotacao-compra": 0.426,
+    "cotacao-venda": 0.4262,
+    "data": "2014-10-16",
+    "data-hora-fonte": "2014-10-16 13:10:18.164",
+    "paridade-compra": 5.8123,
+    "paridade-venda": 5.8133
+  },
+  {
+    "cotacao-compra": 0.419,
+    "cotacao-venda": 0.4192,
+    "data": "2014-10-17",
+    "data-hora-fonte": "2014-10-17 13:10:30.552",
+    "paridade-compra": 5.8388,
+    "paridade-venda": 5.8401
+  },
+  {
+    "cotacao-compra": 0.4213,
+    "cotacao-venda": 0.4215,
+    "data": "2014-10-20",
+    "data-hora-fonte": "2014-10-20 13:09:58.45",
+    "paridade-compra": 5.826,
+    "paridade-venda": 5.827
+  },
+  {
+    "cotacao-compra": 0.4238,
+    "cotacao-venda": 0.4239,
+    "data": "2014-10-21",
+    "data-hora-fonte": "2014-10-21 13:04:33.267",
+    "paridade-compra": 5.8492,
+    "paridade-venda": 5.8502
+  },
+  {
+    "cotacao-compra": 0.4214,
+    "cotacao-venda": 0.4215,
+    "data": "2014-10-22",
+    "data-hora-fonte": "2014-10-22 13:12:14.81",
+    "paridade-compra": 5.8786,
+    "paridade-venda": 5.8796
+  },
+  {
+    "cotacao-compra": 0.4246,
+    "cotacao-venda": 0.4249,
+    "data": "2014-10-23",
+    "data-hora-fonte": "2014-10-23 13:05:33.166",
+    "paridade-compra": 5.8853,
+    "paridade-venda": 5.8873
+  },
+  {
+    "cotacao-compra": 0.4219,
+    "cotacao-venda": 0.4222,
+    "data": "2014-10-24",
+    "data-hora-fonte": "2014-10-24 13:10:25.757",
+    "paridade-compra": 5.8756,
+    "paridade-venda": 5.8776
+  },
+  {
+    "cotacao-compra": 0.4324,
+    "cotacao-venda": 0.4327,
+    "data": "2014-10-27",
+    "data-hora-fonte": "2014-10-27 13:04:30.034",
+    "paridade-compra": 5.8565,
+    "paridade-venda": 5.8585
+  },
+  {
+    "cotacao-compra": 0.4258,
+    "cotacao-venda": 0.4259,
+    "data": "2014-10-28",
+    "data-hora-fonte": "2014-10-28 13:07:38.966",
+    "paridade-compra": 5.8387,
+    "paridade-venda": 5.8397
+  },
+  {
+    "cotacao-compra": 0.4171,
+    "cotacao-venda": 0.4173,
+    "data": "2014-10-29",
+    "data-hora-fonte": "2014-10-29 13:06:57.407",
+    "paridade-compra": 5.8345,
+    "paridade-venda": 5.835
+  },
+  {
+    "cotacao-compra": 0.4088,
+    "cotacao-venda": 0.409,
+    "data": "2014-10-30",
+    "data-hora-fonte": "2014-10-30 13:11:53.954",
+    "paridade-compra": 5.897,
+    "paridade-venda": 5.899
+  },
+  {
+    "cotacao-compra": 0.4105,
+    "cotacao-venda": 0.4107,
+    "data": "2014-10-31",
+    "data-hora-fonte": "2014-10-31 13:11:09.669",
+    "paridade-compra": 5.9515,
+    "paridade-venda": 5.9527
+  },
+  {
+    "cotacao-compra": 0.4162,
+    "cotacao-venda": 0.4164,
+    "data": "2014-11-03",
+    "data-hora-fonte": "2014-11-03 13:10:56.504",
+    "paridade-compra": 5.965,
+    "paridade-venda": 5.967
+  },
+  {
+    "cotacao-compra": 0.4234,
+    "cotacao-venda": 0.4236,
+    "data": "2014-11-04",
+    "data-hora-fonte": "2014-11-04 13:12:26.441",
+    "paridade-compra": 5.9477,
+    "paridade-venda": 5.9495
+  },
+  {
+    "cotacao-compra": 0.4222,
+    "cotacao-venda": 0.4224,
+    "data": "2014-11-05",
+    "data-hora-fonte": "2014-11-05 13:14:49.568",
+    "paridade-compra": 5.9589,
+    "paridade-venda": 5.9602
+  },
+  {
+    "cotacao-compra": 0.4234,
+    "cotacao-venda": 0.4236,
+    "data": "2014-11-06",
+    "data-hora-fonte": "2014-11-06 13:07:30.928",
+    "paridade-compra": 5.9788,
+    "paridade-venda": 5.9798
+  },
+  {
+    "cotacao-compra": 0.4298,
+    "cotacao-venda": 0.43,
+    "data": "2014-11-07",
+    "data-hora-fonte": "2014-11-07 13:03:43.797",
+    "paridade-compra": 5.9823,
+    "paridade-venda": 5.9834
+  },
+  {
+    "cotacao-compra": 0.4245,
+    "cotacao-venda": 0.4246,
+    "data": "2014-11-10",
+    "data-hora-fonte": "2014-11-10 13:03:34.928",
+    "paridade-compra": 5.9793,
+    "paridade-venda": 5.9803
+  },
+  {
+    "cotacao-compra": 0.428,
+    "cotacao-venda": 0.4282,
+    "data": "2014-11-11",
+    "data-hora-fonte": "2014-11-11 13:09:11.584",
+    "paridade-compra": 5.989,
+    "paridade-venda": 5.99
+  },
+  {
+    "cotacao-compra": 0.4275,
+    "cotacao-venda": 0.4276,
+    "data": "2014-11-12",
+    "data-hora-fonte": "2014-11-12 13:04:44.611",
+    "paridade-compra": 5.9748,
+    "paridade-venda": 5.9752
+  },
+  {
+    "cotacao-compra": 0.4309,
+    "cotacao-venda": 0.431,
+    "data": "2014-11-13",
+    "data-hora-fonte": "2014-11-13 13:04:18.948",
+    "paridade-compra": 5.9683,
+    "paridade-venda": 5.9693
+  },
+  {
+    "cotacao-compra": 0.4358,
+    "cotacao-venda": 0.436,
+    "data": "2014-11-14",
+    "data-hora-fonte": "2014-11-14 13:05:52.618",
+    "paridade-compra": 5.9947,
+    "paridade-venda": 5.9957
+  },
+  {
+    "cotacao-compra": 0.4356,
+    "cotacao-venda": 0.4358,
+    "data": "2014-11-17",
+    "data-hora-fonte": "2014-11-17 13:04:53.524",
+    "paridade-compra": 5.9739,
+    "paridade-venda": 5.9749
+  },
+  {
+    "cotacao-compra": 0.4362,
+    "cotacao-venda": 0.4364,
+    "data": "2014-11-18",
+    "data-hora-fonte": "2014-11-18 13:05:12.687",
+    "paridade-compra": 5.9507,
+    "paridade-venda": 5.9517
+  },
+  {
+    "cotacao-compra": 0.4354,
+    "cotacao-venda": 0.4355,
+    "data": "2014-11-19",
+    "data-hora-fonte": "2014-11-19 13:04:30.893",
+    "paridade-compra": 5.9349,
+    "paridade-venda": 5.9359
+  },
+  {
+    "cotacao-compra": 0.4288,
+    "cotacao-venda": 0.429,
+    "data": "2014-11-20",
+    "data-hora-fonte": "2014-11-20 13:09:58.555",
+    "paridade-compra": 5.9319,
+    "paridade-venda": 5.9329
+  },
+  {
+    "cotacao-compra": 0.4238,
+    "cotacao-venda": 0.4239,
+    "data": "2014-11-21",
+    "data-hora-fonte": "2014-11-21 13:13:43.713",
+    "paridade-compra": 5.9897,
+    "paridade-venda": 5.9902
+  },
+  {
+    "cotacao-compra": 0.422,
+    "cotacao-venda": 0.4222,
+    "data": "2014-11-24",
+    "data-hora-fonte": "2014-11-24 13:10:55.459",
+    "paridade-compra": 5.988,
+    "paridade-venda": 5.99
+  },
+  {
+    "cotacao-compra": 0.4228,
+    "cotacao-venda": 0.423,
+    "data": "2014-11-25",
+    "data-hora-fonte": "2014-11-25 13:12:08.702",
+    "paridade-compra": 5.9661,
+    "paridade-venda": 5.9671
+  },
+  {
+    "cotacao-compra": 0.4217,
+    "cotacao-venda": 0.4219,
+    "data": "2014-11-26",
+    "data-hora-fonte": "2014-11-26 13:08:55.919",
+    "paridade-compra": 5.9506,
+    "paridade-venda": 5.9516
+  },
+  {
+    "cotacao-compra": 0.4206,
+    "cotacao-venda": 0.4207,
+    "data": "2014-11-27",
+    "data-hora-fonte": "2014-11-27 13:10:31.162",
+    "paridade-compra": 5.9575,
+    "paridade-venda": 5.9585
+  },
+  {
+    "cotacao-compra": 0.4287,
+    "cotacao-venda": 0.4289,
+    "data": "2014-11-28",
+    "data-hora-fonte": "2014-11-28 13:13:55.737",
+    "paridade-compra": 5.9694,
+    "paridade-venda": 5.9699
+  },
+  {
+    "cotacao-compra": 0.4304,
+    "cotacao-venda": 0.4306,
+    "data": "2014-12-01",
+    "data-hora-fonte": "2014-12-01 13:13:18.894",
+    "paridade-compra": 5.9501,
+    "paridade-venda": 5.9519
+  },
+  {
+    "cotacao-compra": 0.4276,
+    "cotacao-venda": 0.4279,
+    "data": "2014-12-02",
+    "data-hora-fonte": "2014-12-02 13:07:39.693",
+    "paridade-compra": 5.9978,
+    "paridade-venda": 5.9998
+  },
+  {
+    "cotacao-compra": 0.4236,
+    "cotacao-venda": 0.4237,
+    "data": "2014-12-03",
+    "data-hora-fonte": "2014-12-03 13:03:03.283",
+    "paridade-compra": 6.043,
+    "paridade-venda": 6.0435
+  },
+  {
+    "cotacao-compra": 0.4297,
+    "cotacao-venda": 0.4299,
+    "data": "2014-12-04",
+    "data-hora-fonte": "2014-12-04 13:05:35.617",
+    "paridade-compra": 6.0004,
+    "paridade-venda": 6.0014
+  },
+  {
+    "cotacao-compra": 0.4271,
+    "cotacao-venda": 0.4273,
+    "data": "2014-12-05",
+    "data-hora-fonte": "2014-12-05 13:18:44.756",
+    "paridade-compra": 6.0585,
+    "paridade-venda": 6.0605
+  },
+  {
+    "cotacao-compra": 0.4276,
+    "cotacao-venda": 0.4278,
+    "data": "2014-12-08",
+    "data-hora-fonte": "2014-12-08 13:11:24.541",
+    "paridade-compra": 6.059,
+    "paridade-venda": 6.061
+  },
+  {
+    "cotacao-compra": 0.4332,
+    "cotacao-venda": 0.4334,
+    "data": "2014-12-09",
+    "data-hora-fonte": "2014-12-09 13:10:36.875",
+    "paridade-compra": 6.0025,
+    "paridade-venda": 6.0035
+  },
+  {
+    "cotacao-compra": 0.4325,
+    "cotacao-venda": 0.4328,
+    "data": "2014-12-10",
+    "data-hora-fonte": "2014-12-10 13:06:25.303",
+    "paridade-compra": 5.9916,
+    "paridade-venda": 5.9936
+  },
+  {
+    "cotacao-compra": 0.4376,
+    "cotacao-venda": 0.4379,
+    "data": "2014-12-11",
+    "data-hora-fonte": "2014-12-11 13:09:37.296",
+    "paridade-compra": 6.0,
+    "paridade-venda": 6.002
+  },
+  {
+    "cotacao-compra": 0.4442,
+    "cotacao-venda": 0.4443,
+    "data": "2014-12-12",
+    "data-hora-fonte": "2014-12-12 13:05:36.926",
+    "paridade-compra": 5.9771,
+    "paridade-venda": 5.9781
+  },
+  {
+    "cotacao-compra": 0.4463,
+    "cotacao-venda": 0.4465,
+    "data": "2014-12-15",
+    "data-hora-fonte": "2014-12-15 13:04:26.703",
+    "paridade-compra": 5.9831,
+    "paridade-venda": 5.9851
+  },
+  {
+    "cotacao-compra": 0.4611,
+    "cotacao-venda": 0.4613,
+    "data": "2014-12-16",
+    "data-hora-fonte": "2014-12-16 13:05:32.513",
+    "paridade-compra": 5.9404,
+    "paridade-venda": 5.9422
+  },
+  {
+    "cotacao-compra": 0.4558,
+    "cotacao-venda": 0.456,
+    "data": "2014-12-17",
+    "data-hora-fonte": "2014-12-17 13:06:40.557",
+    "paridade-compra": 5.9752,
+    "paridade-venda": 5.9762
+  },
+  {
+    "cotacao-compra": 0.4402,
+    "cotacao-venda": 0.4404,
+    "data": "2014-12-18",
+    "data-hora-fonte": "2014-12-18 13:12:30.66",
+    "paridade-compra": 6.0576,
+    "paridade-venda": 6.0586
+  },
+  {
+    "cotacao-compra": 0.4374,
+    "cotacao-venda": 0.4375,
+    "data": "2014-12-19",
+    "data-hora-fonte": "2014-12-19 13:03:33.122",
+    "paridade-compra": 6.0536,
+    "paridade-venda": 6.0543
+  },
+  {
+    "cotacao-compra": 0.4369,
+    "cotacao-venda": 0.4371,
+    "data": "2014-12-22",
+    "data-hora-fonte": "2014-12-22 13:02:47.709",
+    "paridade-compra": 6.0692,
+    "paridade-venda": 6.0697
+  },
+  {
+    "cotacao-compra": 0.4379,
+    "cotacao-venda": 0.4381,
+    "data": "2014-12-23",
+    "data-hora-fonte": "2014-12-23 13:03:36.09",
+    "paridade-compra": 6.1122,
+    "paridade-venda": 6.1127
+  },
+  {
+    "cotacao-compra": 0.4399,
+    "cotacao-venda": 0.4401,
+    "data": "2014-12-24",
+    "data-hora-fonte": "2014-12-24 11:02:55.818",
+    "paridade-compra": 6.0962,
+    "paridade-venda": 6.0972
+  },
+  {
+    "cotacao-compra": 0.4385,
+    "cotacao-venda": 0.4387,
+    "data": "2014-12-26",
+    "data-hora-fonte": "2014-12-26 13:04:25.701",
+    "paridade-compra": 6.1119,
+    "paridade-venda": 6.1129
+  },
+  {
+    "cotacao-compra": 0.4386,
+    "cotacao-venda": 0.4388,
+    "data": "2014-12-29",
+    "data-hora-fonte": "2014-12-29 13:10:47.411",
+    "paridade-compra": 6.1036,
+    "paridade-venda": 6.1049
+  },
+  {
+    "cotacao-compra": 0.4342,
+    "cotacao-venda": 0.4343,
+    "data": "2014-12-30",
+    "data-hora-fonte": "2014-12-30 13:03:56.172",
+    "paridade-compra": 6.1156,
+    "paridade-venda": 6.1166
+  },
+  {
+    "cotacao-compra": 0.4333,
+    "cotacao-venda": 0.4334,
+    "data": "2014-12-31",
+    "data-hora-fonte": "2014-12-31 11:04:46.932",
+    "paridade-compra": 6.1284,
+    "paridade-venda": 6.1289
+  }
+]
