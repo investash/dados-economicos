@@ -1,0 +1,20 @@
+{
+  "categoria": "inflacao",
+  "codigo-sgs": 433,
+  "descricao": "Variação mensal do Índice Nacional de Preços ao Consumidor Amplo (IPCA), medido pelo IBGE. É o índice oficial de inflação do Brasil, usado como referência do regime de metas.",
+  "frequencia": "mensal",
+  "identificador": "ipca",
+  "instituicao-responsavel": "IBGE",
+  "moeda": "BRL",
+  "nome": "Índice nacional de preços ao consumidor-amplo (IPCA)",
+  "primeira-observacao": "1980-01-01",
+  "provedor": "BACEN",
+  "referencia-oficial": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json",
+  "status": "ativa",
+  "tipo-serie": "escalar",
+  "ultima-alteracao-dados": "2026-08-13",
+  "ultima-observacao": "2026-07-01",
+  "unidade": "% a.m.",
+  "versao-schema": "v1",
+  "versao-sneffelz": "2.0.0"
+}

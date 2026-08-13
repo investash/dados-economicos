@@ -1,0 +1,2002 @@
+[
+  {
+    "cotacao-compra": 9777.86,
+    "cotacao-venda": 9794.83,
+    "data": "1993-01-04",
+    "data-hora-fonte": "1993-01-04 18:29:00.0",
+    "paridade-compra": 1.2794,
+    "paridade-venda": 1.2816
+  },
+  {
+    "cotacao-compra": 9918.71,
+    "cotacao-venda": 9935.89,
+    "data": "1993-01-05",
+    "data-hora-fonte": "1993-01-05 18:24:00.0",
+    "paridade-compra": 1.2759,
+    "paridade-venda": 1.2781
+  },
+  {
+    "cotacao-compra": 10012.1,
+    "cotacao-venda": 10029.4,
+    "data": "1993-01-06",
+    "data-hora-fonte": "1993-01-06 18:08:00.0",
+    "paridade-compra": 1.2787,
+    "paridade-venda": 1.2809
+  },
+  {
+    "cotacao-compra": 10127.71,
+    "cotacao-venda": 10145.21,
+    "data": "1993-01-07",
+    "data-hora-fonte": "1993-01-07 18:14:00.0",
+    "paridade-compra": 1.2788,
+    "paridade-venda": 1.281
+  },
+  {
+    "cotacao-compra": 10222.45,
+    "cotacao-venda": 10240.07,
+    "data": "1993-01-08",
+    "data-hora-fonte": "1993-01-08 18:07:00.0",
+    "paridade-compra": 1.2817,
+    "paridade-venda": 1.2839
+  },
+  {
+    "cotacao-compra": 10385.03,
+    "cotacao-venda": 10403.01,
+    "data": "1993-01-11",
+    "data-hora-fonte": "1993-01-11 18:58:00.0",
+    "paridade-compra": 1.2764,
+    "paridade-venda": 1.2786
+  },
+  {
+    "cotacao-compra": 10511.23,
+    "cotacao-venda": 10529.43,
+    "data": "1993-01-12",
+    "data-hora-fonte": "1993-01-12 18:12:00.0",
+    "paridade-compra": 1.2759,
+    "paridade-venda": 1.2781
+  },
+  {
+    "cotacao-compra": 10612.74,
+    "cotacao-venda": 10631.08,
+    "data": "1993-01-13",
+    "data-hora-fonte": "1993-01-13 18:58:00.0",
+    "paridade-compra": 1.2786,
+    "paridade-venda": 1.2808
+  },
+  {
+    "cotacao-compra": 10869.17,
+    "cotacao-venda": 10887.96,
+    "data": "1993-01-14",
+    "data-hora-fonte": "1993-01-14 18:45:00.0",
+    "paridade-compra": 1.2781,
+    "paridade-venda": 1.2803
+  },
+  {
+    "cotacao-compra": 10975.45,
+    "cotacao-venda": 10994.38,
+    "data": "1993-01-15",
+    "data-hora-fonte": "1993-01-15 18:18:00.0",
+    "paridade-compra": 1.2807,
+    "paridade-venda": 1.2829
+  },
+  {
+    "cotacao-compra": 11013.61,
+    "cotacao-venda": 11032.67,
+    "data": "1993-01-18",
+    "data-hora-fonte": "1993-01-18 18:38:00.0",
+    "paridade-compra": 1.2763,
+    "paridade-venda": 1.2785
+  },
+  {
+    "cotacao-compra": 11135.75,
+    "cotacao-venda": 11154.96,
+    "data": "1993-01-19",
+    "data-hora-fonte": "1993-01-19 18:24:00.0",
+    "paridade-compra": 1.2774,
+    "paridade-venda": 1.2796
+  },
+  {
+    "cotacao-compra": 11257.55,
+    "cotacao-venda": 11277.0,
+    "data": "1993-01-20",
+    "data-hora-fonte": "1993-01-20 18:28:00.0",
+    "paridade-compra": 1.2787,
+    "paridade-venda": 1.2809
+  },
+  {
+    "cotacao-compra": 11344.32,
+    "cotacao-venda": 11363.83,
+    "data": "1993-01-21",
+    "data-hora-fonte": "1993-01-21 18:37:00.0",
+    "paridade-compra": 1.2841,
+    "paridade-venda": 1.2863
+  },
+  {
+    "cotacao-compra": 11505.53,
+    "cotacao-venda": 11525.36,
+    "data": "1993-01-22",
+    "data-hora-fonte": "1993-01-22 18:23:00.0",
+    "paridade-compra": 1.2814,
+    "paridade-venda": 1.2836
+  },
+  {
+    "cotacao-compra": 11692.53,
+    "cotacao-venda": 11712.76,
+    "data": "1993-01-25",
+    "data-hora-fonte": "1993-01-25 19:18:00.0",
+    "paridade-compra": 1.2763,
+    "paridade-venda": 1.2785
+  },
+  {
+    "cotacao-compra": 11888.22,
+    "cotacao-venda": 11908.88,
+    "data": "1993-01-26",
+    "data-hora-fonte": "1993-01-26 18:43:00.0",
+    "paridade-compra": 1.2708,
+    "paridade-venda": 1.273
+  },
+  {
+    "cotacao-compra": 12068.21,
+    "cotacao-venda": 12089.32,
+    "data": "1993-01-27",
+    "data-hora-fonte": "1993-01-27 18:57:00.0",
+    "paridade-compra": 1.2674,
+    "paridade-venda": 1.2696
+  },
+  {
+    "cotacao-compra": 12196.63,
+    "cotacao-venda": 12217.85,
+    "data": "1993-01-28",
+    "data-hora-fonte": "1993-01-28 18:56:00.0",
+    "paridade-compra": 1.2697,
+    "paridade-venda": 1.2719
+  },
+  {
+    "cotacao-compra": 12379.11,
+    "cotacao-venda": 12401.39,
+    "data": "1993-01-29",
+    "data-hora-fonte": "1993-01-29 17:59:00.0",
+    "paridade-compra": 1.2676,
+    "paridade-venda": 1.2698
+  },
+  {
+    "cotacao-compra": 12602.8,
+    "cotacao-venda": 12619.81,
+    "data": "1993-02-01",
+    "data-hora-fonte": "1993-02-01 18:20:00.0",
+    "paridade-compra": 1.2624,
+    "paridade-venda": 1.2641
+  },
+  {
+    "cotacao-compra": 12760.06,
+    "cotacao-venda": 12777.3,
+    "data": "1993-02-02",
+    "data-hora-fonte": "1993-02-02 18:15:00.0",
+    "paridade-compra": 1.2636,
+    "paridade-venda": 1.2653
+  },
+  {
+    "cotacao-compra": 12908.4,
+    "cotacao-venda": 12925.82,
+    "data": "1993-02-03",
+    "data-hora-fonte": "1993-02-03 17:58:00.0",
+    "paridade-compra": 1.2658,
+    "paridade-venda": 1.2675
+  },
+  {
+    "cotacao-compra": 13119.4,
+    "cotacao-venda": 13137.15,
+    "data": "1993-02-04",
+    "data-hora-fonte": "1993-02-04 18:13:00.0",
+    "paridade-compra": 1.2621,
+    "paridade-venda": 1.2638
+  },
+  {
+    "cotacao-compra": 13313.34,
+    "cotacao-venda": 13331.38,
+    "data": "1993-02-05",
+    "data-hora-fonte": "1993-02-05 18:13:00.0",
+    "paridade-compra": 1.2602,
+    "paridade-venda": 1.2619
+  },
+  {
+    "cotacao-compra": 13472.1,
+    "cotacao-venda": 13490.33,
+    "data": "1993-02-08",
+    "data-hora-fonte": "1993-02-08 18:02:00.0",
+    "paridade-compra": 1.2618,
+    "paridade-venda": 1.2635
+  },
+  {
+    "cotacao-compra": 13590.87,
+    "cotacao-venda": 13614.56,
+    "data": "1993-02-09",
+    "data-hora-fonte": "1993-02-09 17:54:00.0",
+    "paridade-compra": 1.2666,
+    "paridade-venda": 1.2688
+  },
+  {
+    "cotacao-compra": 13802.15,
+    "cotacao-venda": 13820.79,
+    "data": "1993-02-10",
+    "data-hora-fonte": "1993-02-10 17:44:00.0",
+    "paridade-compra": 1.2639,
+    "paridade-venda": 1.2656
+  },
+  {
+    "cotacao-compra": 14275.41,
+    "cotacao-venda": 14294.84,
+    "data": "1993-02-11",
+    "data-hora-fonte": "1993-02-11 17:47:00.0",
+    "paridade-compra": 1.2539,
+    "paridade-venda": 1.2556
+  },
+  {
+    "cotacao-compra": 14466.42,
+    "cotacao-venda": 14486.12,
+    "data": "1993-02-12",
+    "data-hora-fonte": "1993-02-12 17:35:00.0",
+    "paridade-compra": 1.2534,
+    "paridade-venda": 1.2551
+  },
+  {
+    "cotacao-compra": 14473.22,
+    "cotacao-venda": 14492.94,
+    "data": "1993-02-15",
+    "data-hora-fonte": "1993-02-15 16:51:00.0",
+    "paridade-compra": 1.2528,
+    "paridade-venda": 1.2545
+  },
+  {
+    "cotacao-compra": 14599.1,
+    "cotacao-venda": 14624.72,
+    "data": "1993-02-16",
+    "data-hora-fonte": "1993-02-16 18:18:00.0",
+    "paridade-compra": 1.2576,
+    "paridade-venda": 1.2598
+  },
+  {
+    "cotacao-compra": 14734.42,
+    "cotacao-venda": 14754.34,
+    "data": "1993-02-17",
+    "data-hora-fonte": "1993-02-17 18:08:00.0",
+    "paridade-compra": 1.2627,
+    "paridade-venda": 1.2644
+  },
+  {
+    "cotacao-compra": 14964.63,
+    "cotacao-venda": 14984.91,
+    "data": "1993-02-18",
+    "data-hora-fonte": "1993-02-18 17:41:00.0",
+    "paridade-compra": 1.2594,
+    "paridade-venda": 1.2611
+  },
+  {
+    "cotacao-compra": 15177.04,
+    "cotacao-venda": 15203.67,
+    "data": "1993-02-19",
+    "data-hora-fonte": "1993-02-19 17:09:00.0",
+    "paridade-compra": 1.2574,
+    "paridade-venda": 1.2596
+  },
+  {
+    "cotacao-compra": 15369.79,
+    "cotacao-venda": 15396.76,
+    "data": "1993-02-24",
+    "data-hora-fonte": "1993-02-24 17:43:00.0",
+    "paridade-compra": 1.2577,
+    "paridade-venda": 1.2599
+  },
+  {
+    "cotacao-compra": 15636.31,
+    "cotacao-venda": 15663.87,
+    "data": "1993-02-25",
+    "data-hora-fonte": "1993-02-25 17:45:00.0",
+    "paridade-compra": 1.2519,
+    "paridade-venda": 1.2541
+  },
+  {
+    "cotacao-compra": 15880.52,
+    "cotacao-venda": 15909.31,
+    "data": "1993-02-26",
+    "data-hora-fonte": "1993-02-26 17:08:00.0",
+    "paridade-compra": 1.2482,
+    "paridade-venda": 1.2504
+  },
+  {
+    "cotacao-compra": 16062.37,
+    "cotacao-venda": 16090.79,
+    "data": "1993-03-01",
+    "data-hora-fonte": "1993-03-01 17:23:00.0",
+    "paridade-compra": 1.2468,
+    "paridade-venda": 1.249
+  },
+  {
+    "cotacao-compra": 16234.62,
+    "cotacao-venda": 16256.84,
+    "data": "1993-03-02",
+    "data-hora-fonte": "1993-03-02 18:05:00.0",
+    "paridade-compra": 1.2467,
+    "paridade-venda": 1.2484
+  },
+  {
+    "cotacao-compra": 16469.95,
+    "cotacao-venda": 16492.59,
+    "data": "1993-03-03",
+    "data-hora-fonte": "1993-03-03 18:16:00.0",
+    "paridade-compra": 1.2414,
+    "paridade-venda": 1.2431
+  },
+  {
+    "cotacao-compra": 16620.83,
+    "cotacao-venda": 16643.65,
+    "data": "1993-03-04",
+    "data-hora-fonte": "1993-03-04 18:21:00.0",
+    "paridade-compra": 1.2426,
+    "paridade-venda": 1.2443
+  },
+  {
+    "cotacao-compra": 16748.54,
+    "cotacao-venda": 16771.48,
+    "data": "1993-03-05",
+    "data-hora-fonte": "1993-03-05 18:11:00.0",
+    "paridade-compra": 1.2456,
+    "paridade-venda": 1.2473
+  },
+  {
+    "cotacao-compra": 16959.81,
+    "cotacao-venda": 16983.1,
+    "data": "1993-03-08",
+    "data-hora-fonte": "1993-03-08 18:33:00.0",
+    "paridade-compra": 1.2425,
+    "paridade-venda": 1.2442
+  },
+  {
+    "cotacao-compra": 17093.83,
+    "cotacao-venda": 17117.25,
+    "data": "1993-03-09",
+    "data-hora-fonte": "1993-03-09 17:56:00.0",
+    "paridade-compra": 1.2452,
+    "paridade-venda": 1.2469
+  },
+  {
+    "cotacao-compra": 17277.51,
+    "cotacao-venda": 17301.19,
+    "data": "1993-03-10",
+    "data-hora-fonte": "1993-03-10 18:32:00.0",
+    "paridade-compra": 1.2444,
+    "paridade-venda": 1.2461
+  },
+  {
+    "cotacao-compra": 17416.98,
+    "cotacao-venda": 17447.81,
+    "data": "1993-03-11",
+    "data-hora-fonte": "1993-03-11 18:36:00.0",
+    "paridade-compra": 1.2463,
+    "paridade-venda": 1.2485
+  },
+  {
+    "cotacao-compra": 17628.14,
+    "cotacao-venda": 17659.4,
+    "data": "1993-03-12",
+    "data-hora-fonte": "1993-03-12 18:36:00.0",
+    "paridade-compra": 1.2437,
+    "paridade-venda": 1.2459
+  },
+  {
+    "cotacao-compra": 17757.6,
+    "cotacao-venda": 17789.01,
+    "data": "1993-03-15",
+    "data-hora-fonte": "1993-03-15 18:51:00.0",
+    "paridade-compra": 1.247,
+    "paridade-venda": 1.2492
+  },
+  {
+    "cotacao-compra": 17895.29,
+    "cotacao-venda": 17926.87,
+    "data": "1993-03-16",
+    "data-hora-fonte": "1993-03-16 18:06:00.0",
+    "paridade-compra": 1.2498,
+    "paridade-venda": 1.252
+  },
+  {
+    "cotacao-compra": 18073.56,
+    "cotacao-venda": 18098.21,
+    "data": "1993-03-17",
+    "data-hora-fonte": "1993-03-17 17:38:00.0",
+    "paridade-compra": 1.2504,
+    "paridade-venda": 1.2521
+  },
+  {
+    "cotacao-compra": 18307.69,
+    "cotacao-venda": 18340.09,
+    "data": "1993-03-18",
+    "data-hora-fonte": "1993-03-18 18:15:00.0",
+    "paridade-compra": 1.2463,
+    "paridade-venda": 1.2485
+  },
+  {
+    "cotacao-compra": 18502.89,
+    "cotacao-venda": 18535.65,
+    "data": "1993-03-19",
+    "data-hora-fonte": "1993-03-19 18:27:00.0",
+    "paridade-compra": 1.2456,
+    "paridade-venda": 1.2478
+  },
+  {
+    "cotacao-compra": 18686.72,
+    "cotacao-venda": 18712.29,
+    "data": "1993-03-22",
+    "data-hora-fonte": "1993-03-22 17:41:00.0",
+    "paridade-compra": 1.2464,
+    "paridade-venda": 1.2481
+  },
+  {
+    "cotacao-compra": 18870.9,
+    "cotacao-venda": 18904.28,
+    "data": "1993-03-23",
+    "data-hora-fonte": "1993-03-23 18:39:00.0",
+    "paridade-compra": 1.2464,
+    "paridade-venda": 1.2486
+  },
+  {
+    "cotacao-compra": 19136.82,
+    "cotacao-venda": 19170.8,
+    "data": "1993-03-24",
+    "data-hora-fonte": "1993-03-24 18:52:00.0",
+    "paridade-compra": 1.2418,
+    "paridade-venda": 1.244
+  },
+  {
+    "cotacao-compra": 19305.5,
+    "cotacao-venda": 19339.73,
+    "data": "1993-03-25",
+    "data-hora-fonte": "1993-03-25 18:21:00.0",
+    "paridade-compra": 1.2438,
+    "paridade-venda": 1.246
+  },
+  {
+    "cotacao-compra": 19516.38,
+    "cotacao-venda": 19550.99,
+    "data": "1993-03-26",
+    "data-hora-fonte": "1993-03-26 17:33:00.0",
+    "paridade-compra": 1.2434,
+    "paridade-venda": 1.2456
+  },
+  {
+    "cotacao-compra": 19678.36,
+    "cotacao-venda": 19713.24,
+    "data": "1993-03-29",
+    "data-hora-fonte": "1993-03-29 18:20:00.0",
+    "paridade-compra": 1.2467,
+    "paridade-venda": 1.2489
+  },
+  {
+    "cotacao-compra": 19831.19,
+    "cotacao-venda": 19866.47,
+    "data": "1993-03-30",
+    "data-hora-fonte": "1993-03-30 18:26:00.0",
+    "paridade-compra": 1.2507,
+    "paridade-venda": 1.2529
+  },
+  {
+    "cotacao-compra": 19934.93,
+    "cotacao-venda": 19970.59,
+    "data": "1993-03-31",
+    "data-hora-fonte": "1993-03-31 18:18:00.0",
+    "paridade-compra": 1.2579,
+    "paridade-venda": 1.2601
+  },
+  {
+    "cotacao-compra": 20177.64,
+    "cotacao-venda": 20213.3,
+    "data": "1993-04-01",
+    "data-hora-fonte": "1993-04-01 17:55:00.0",
+    "paridade-compra": 1.2588,
+    "paridade-venda": 1.261
+  },
+  {
+    "cotacao-compra": 20370.53,
+    "cotacao-venda": 20406.18,
+    "data": "1993-04-02",
+    "data-hora-fonte": "1993-04-02 18:27:00.0",
+    "paridade-compra": 1.263,
+    "paridade-venda": 1.2652
+  },
+  {
+    "cotacao-compra": 20656.93,
+    "cotacao-venda": 20693.03,
+    "data": "1993-04-05",
+    "data-hora-fonte": "1993-04-05 19:06:00.0",
+    "paridade-compra": 1.2617,
+    "paridade-venda": 1.2639
+  },
+  {
+    "cotacao-compra": 21005.72,
+    "cotacao-venda": 21042.56,
+    "data": "1993-04-06",
+    "data-hora-fonte": "1993-04-06 18:13:00.0",
+    "paridade-compra": 1.257,
+    "paridade-venda": 1.2592
+  },
+  {
+    "cotacao-compra": 21192.31,
+    "cotacao-venda": 21229.33,
+    "data": "1993-04-07",
+    "data-hora-fonte": "1993-04-07 17:40:00.0",
+    "paridade-compra": 1.2624,
+    "paridade-venda": 1.2646
+  },
+  {
+    "cotacao-compra": 21515.45,
+    "cotacao-venda": 21553.1,
+    "data": "1993-04-12",
+    "data-hora-fonte": "1993-04-12 18:13:00.0",
+    "paridade-compra": 1.26,
+    "paridade-venda": 1.2622
+  },
+  {
+    "cotacao-compra": 21805.17,
+    "cotacao-venda": 21834.66,
+    "data": "1993-04-13",
+    "data-hora-fonte": "1993-04-13 17:40:00.0",
+    "paridade-compra": 1.2604,
+    "paridade-venda": 1.2621
+  },
+  {
+    "cotacao-compra": 22073.6,
+    "cotacao-venda": 22103.42,
+    "data": "1993-04-14",
+    "data-hora-fonte": "1993-04-14 18:29:00.0",
+    "paridade-compra": 1.2619,
+    "paridade-venda": 1.2636
+  },
+  {
+    "cotacao-compra": 22443.55,
+    "cotacao-venda": 22473.96,
+    "data": "1993-04-15",
+    "data-hora-fonte": "1993-04-15 17:55:00.0",
+    "paridade-compra": 1.2579,
+    "paridade-venda": 1.2596
+  },
+  {
+    "cotacao-compra": 22724.24,
+    "cotacao-venda": 22764.04,
+    "data": "1993-04-16",
+    "data-hora-fonte": "1993-04-16 17:35:00.0",
+    "paridade-compra": 1.2587,
+    "paridade-venda": 1.2609
+  },
+  {
+    "cotacao-compra": 23110.78,
+    "cotacao-venda": 23151.39,
+    "data": "1993-04-19",
+    "data-hora-fonte": "1993-04-19 18:07:00.0",
+    "paridade-compra": 1.2544,
+    "paridade-venda": 1.2566
+  },
+  {
+    "cotacao-compra": 23427.49,
+    "cotacao-venda": 23468.67,
+    "data": "1993-04-20",
+    "data-hora-fonte": "1993-04-20 18:35:00.0",
+    "paridade-compra": 1.2542,
+    "paridade-venda": 1.2564
+  },
+  {
+    "cotacao-compra": 23585.66,
+    "cotacao-venda": 23626.83,
+    "data": "1993-04-22",
+    "data-hora-fonte": "1993-04-22 17:57:00.0",
+    "paridade-compra": 1.2627,
+    "paridade-venda": 1.2649
+  },
+  {
+    "cotacao-compra": 23936.26,
+    "cotacao-venda": 23978.43,
+    "data": "1993-04-23",
+    "data-hora-fonte": "1993-04-23 18:08:00.0",
+    "paridade-compra": 1.2608,
+    "paridade-venda": 1.263
+  },
+  {
+    "cotacao-compra": 24312.08,
+    "cotacao-venda": 24355.02,
+    "data": "1993-04-26",
+    "data-hora-fonte": "1993-04-26 18:10:00.0",
+    "paridade-compra": 1.2574,
+    "paridade-venda": 1.2596
+  },
+  {
+    "cotacao-compra": 24383.25,
+    "cotacao-venda": 24425.7,
+    "data": "1993-04-27",
+    "data-hora-fonte": "1993-04-27 18:16:00.0",
+    "paridade-compra": 1.2706,
+    "paridade-venda": 1.2728
+  },
+  {
+    "cotacao-compra": 24732.23,
+    "cotacao-venda": 24775.88,
+    "data": "1993-04-28",
+    "data-hora-fonte": "1993-04-28 17:45:00.0",
+    "paridade-compra": 1.2694,
+    "paridade-venda": 1.2716
+  },
+  {
+    "cotacao-compra": 25024.35,
+    "cotacao-venda": 25068.45,
+    "data": "1993-04-29",
+    "data-hora-fonte": "1993-04-29 18:03:00.0",
+    "paridade-compra": 1.271,
+    "paridade-venda": 1.2732
+  },
+  {
+    "cotacao-compra": 25345.22,
+    "cotacao-venda": 25389.88,
+    "data": "1993-04-30",
+    "data-hora-fonte": "1993-04-30 18:02:00.0",
+    "paridade-compra": 1.2709,
+    "paridade-venda": 1.2731
+  },
+  {
+    "cotacao-compra": 25752.52,
+    "cotacao-venda": 25787.48,
+    "data": "1993-05-03",
+    "data-hora-fonte": "1993-05-03 17:36:00.0",
+    "paridade-compra": 1.2667,
+    "paridade-venda": 1.2684
+  },
+  {
+    "cotacao-compra": 25983.81,
+    "cotacao-venda": 26028.97,
+    "data": "1993-05-04",
+    "data-hora-fonte": "1993-05-04 17:48:00.0",
+    "paridade-compra": 1.2704,
+    "paridade-venda": 1.2726
+  },
+  {
+    "cotacao-compra": 26252.06,
+    "cotacao-venda": 26297.67,
+    "data": "1993-05-05",
+    "data-hora-fonte": "1993-05-05 18:05:00.0",
+    "paridade-compra": 1.2729,
+    "paridade-venda": 1.2751
+  },
+  {
+    "cotacao-compra": 26677.29,
+    "cotacao-venda": 26723.74,
+    "data": "1993-05-06",
+    "data-hora-fonte": "1993-05-06 17:40:00.0",
+    "paridade-compra": 1.268,
+    "paridade-venda": 1.2702
+  },
+  {
+    "cotacao-compra": 27013.31,
+    "cotacao-venda": 27060.35,
+    "data": "1993-05-07",
+    "data-hora-fonte": "1993-05-07 17:43:00.0",
+    "paridade-compra": 1.2676,
+    "paridade-venda": 1.2698
+  },
+  {
+    "cotacao-compra": 27309.66,
+    "cotacao-venda": 27357.08,
+    "data": "1993-05-10",
+    "data-hora-fonte": "1993-05-10 18:12:00.0",
+    "paridade-compra": 1.2692,
+    "paridade-venda": 1.2714
+  },
+  {
+    "cotacao-compra": 27549.97,
+    "cotacao-venda": 27597.64,
+    "data": "1993-05-11",
+    "data-hora-fonte": "1993-05-11 18:11:00.0",
+    "paridade-compra": 1.2735,
+    "paridade-venda": 1.2757
+  },
+  {
+    "cotacao-compra": 27901.96,
+    "cotacao-venda": 27950.35,
+    "data": "1993-05-12",
+    "data-hora-fonte": "1993-05-12 18:28:00.0",
+    "paridade-compra": 1.2728,
+    "paridade-venda": 1.275
+  },
+  {
+    "cotacao-compra": 28254.47,
+    "cotacao-venda": 28303.57,
+    "data": "1993-05-13",
+    "data-hora-fonte": "1993-05-13 18:39:00.0",
+    "paridade-compra": 1.2722,
+    "paridade-venda": 1.2744
+  },
+  {
+    "cotacao-compra": 28571.03,
+    "cotacao-venda": 28620.54,
+    "data": "1993-05-14",
+    "data-hora-fonte": "1993-05-14 17:47:00.0",
+    "paridade-compra": 1.2734,
+    "paridade-venda": 1.2756
+  },
+  {
+    "cotacao-compra": 28854.97,
+    "cotacao-venda": 28904.87,
+    "data": "1993-05-17",
+    "data-hora-fonte": "1993-05-17 17:40:00.0",
+    "paridade-compra": 1.2762,
+    "paridade-venda": 1.2784
+  },
+  {
+    "cotacao-compra": 29408.32,
+    "cotacao-venda": 29459.44,
+    "data": "1993-05-18",
+    "data-hora-fonte": "1993-05-18 18:12:00.0",
+    "paridade-compra": 1.2674,
+    "paridade-venda": 1.2696
+  },
+  {
+    "cotacao-compra": 29826.91,
+    "cotacao-venda": 29878.87,
+    "data": "1993-05-19",
+    "data-hora-fonte": "1993-05-19 18:20:00.0",
+    "paridade-compra": 1.2648,
+    "paridade-venda": 1.267
+  },
+  {
+    "cotacao-compra": 30144.3,
+    "cotacao-venda": 30196.81,
+    "data": "1993-05-20",
+    "data-hora-fonte": "1993-05-20 18:07:00.0",
+    "paridade-compra": 1.2667,
+    "paridade-venda": 1.2689
+  },
+  {
+    "cotacao-compra": 30578.31,
+    "cotacao-venda": 30631.62,
+    "data": "1993-05-21",
+    "data-hora-fonte": "1993-05-21 18:12:00.0",
+    "paridade-compra": 1.2639,
+    "paridade-venda": 1.2661
+  },
+  {
+    "cotacao-compra": 31054.28,
+    "cotacao-venda": 31108.6,
+    "data": "1993-05-24",
+    "data-hora-fonte": "1993-05-24 18:04:00.0",
+    "paridade-compra": 1.2597,
+    "paridade-venda": 1.2619
+  },
+  {
+    "cotacao-compra": 31441.58,
+    "cotacao-venda": 31496.59,
+    "data": "1993-05-25",
+    "data-hora-fonte": "1993-05-25 18:14:00.0",
+    "paridade-compra": 1.2594,
+    "paridade-venda": 1.2616
+  },
+  {
+    "cotacao-compra": 31751.01,
+    "cotacao-venda": 31806.73,
+    "data": "1993-05-26",
+    "data-hora-fonte": "1993-05-26 18:10:00.0",
+    "paridade-compra": 1.2625,
+    "paridade-venda": 1.2647
+  },
+  {
+    "cotacao-compra": 32535.57,
+    "cotacao-venda": 32593.03,
+    "data": "1993-05-27",
+    "data-hora-fonte": "1993-05-27 18:25:00.0",
+    "paridade-compra": 1.263,
+    "paridade-venda": 1.2652
+  },
+  {
+    "cotacao-compra": 32759.05,
+    "cotacao-venda": 32816.56,
+    "data": "1993-05-28",
+    "data-hora-fonte": "1993-05-28 17:46:00.0",
+    "paridade-compra": 1.2707,
+    "paridade-venda": 1.2729
+  },
+  {
+    "cotacao-compra": 32782.23,
+    "cotacao-venda": 32826.89,
+    "data": "1993-05-31",
+    "data-hora-fonte": "1993-05-31 17:28:00.0",
+    "paridade-compra": 1.2703,
+    "paridade-venda": 1.272
+  },
+  {
+    "cotacao-compra": 33175.82,
+    "cotacao-venda": 33233.4,
+    "data": "1993-06-01",
+    "data-hora-fonte": "1993-06-01 18:00:00.0",
+    "paridade-compra": 1.271,
+    "paridade-venda": 1.2732
+  },
+  {
+    "cotacao-compra": 33607.89,
+    "cotacao-venda": 33666.14,
+    "data": "1993-06-02",
+    "data-hora-fonte": "1993-06-02 18:25:00.0",
+    "paridade-compra": 1.2709,
+    "paridade-venda": 1.2731
+  },
+  {
+    "cotacao-compra": 33992.0,
+    "cotacao-venda": 34050.91,
+    "data": "1993-06-03",
+    "data-hora-fonte": "1993-06-03 17:39:00.0",
+    "paridade-compra": 1.2728,
+    "paridade-venda": 1.275
+  },
+  {
+    "cotacao-compra": 34273.17,
+    "cotacao-venda": 34332.29,
+    "data": "1993-06-04",
+    "data-hora-fonte": "1993-06-04 17:08:00.0",
+    "paridade-compra": 1.2787,
+    "paridade-venda": 1.2809
+  },
+  {
+    "cotacao-compra": 34628.77,
+    "cotacao-venda": 34688.28,
+    "data": "1993-06-07",
+    "data-hora-fonte": "1993-06-07 17:43:00.0",
+    "paridade-compra": 1.2819,
+    "paridade-venda": 1.2841
+  },
+  {
+    "cotacao-compra": 35077.02,
+    "cotacao-venda": 35137.3,
+    "data": "1993-06-08",
+    "data-hora-fonte": "1993-06-08 18:02:00.0",
+    "paridade-compra": 1.2819,
+    "paridade-venda": 1.2841
+  },
+  {
+    "cotacao-compra": 35596.82,
+    "cotacao-venda": 35659.19,
+    "data": "1993-06-09",
+    "data-hora-fonte": "1993-06-09 18:14:00.0",
+    "paridade-compra": 1.2796,
+    "paridade-venda": 1.2818
+  },
+  {
+    "cotacao-compra": 36069.76,
+    "cotacao-venda": 36134.13,
+    "data": "1993-06-11",
+    "data-hora-fonte": "1993-06-11 17:51:00.0",
+    "paridade-compra": 1.2794,
+    "paridade-venda": 1.2816
+  },
+  {
+    "cotacao-compra": 36507.06,
+    "cotacao-venda": 36571.36,
+    "data": "1993-06-14",
+    "data-hora-fonte": "1993-06-14 18:06:00.0",
+    "paridade-compra": 1.2801,
+    "paridade-venda": 1.2823
+  },
+  {
+    "cotacao-compra": 36990.72,
+    "cotacao-venda": 37055.88,
+    "data": "1993-06-15",
+    "data-hora-fonte": "1993-06-15 17:19:00.0",
+    "paridade-compra": 1.2795,
+    "paridade-venda": 1.2817
+  },
+  {
+    "cotacao-compra": 37511.13,
+    "cotacao-venda": 37577.28,
+    "data": "1993-06-16",
+    "data-hora-fonte": "1993-06-16 18:10:00.0",
+    "paridade-compra": 1.2779,
+    "paridade-venda": 1.2801
+  },
+  {
+    "cotacao-compra": 38042.56,
+    "cotacao-venda": 38108.39,
+    "data": "1993-06-17",
+    "data-hora-fonte": "1993-06-17 18:29:00.0",
+    "paridade-compra": 1.276,
+    "paridade-venda": 1.2782
+  },
+  {
+    "cotacao-compra": 38589.12,
+    "cotacao-venda": 38657.35,
+    "data": "1993-06-18",
+    "data-hora-fonte": "1993-06-18 17:30:00.0",
+    "paridade-compra": 1.2736,
+    "paridade-venda": 1.2758
+  },
+  {
+    "cotacao-compra": 39126.37,
+    "cotacao-venda": 39188.68,
+    "data": "1993-06-21",
+    "data-hora-fonte": "1993-06-21 17:51:00.0",
+    "paridade-compra": 1.272,
+    "paridade-venda": 1.274
+  },
+  {
+    "cotacao-compra": 39451.41,
+    "cotacao-venda": 39519.77,
+    "data": "1993-06-22",
+    "data-hora-fonte": "1993-06-22 18:14:00.0",
+    "paridade-compra": 1.2769,
+    "paridade-venda": 1.2791
+  },
+  {
+    "cotacao-compra": 39889.92,
+    "cotacao-venda": 39959.33,
+    "data": "1993-06-23",
+    "data-hora-fonte": "1993-06-23 17:28:00.0",
+    "paridade-compra": 1.2787,
+    "paridade-venda": 1.2809
+  },
+  {
+    "cotacao-compra": 40267.05,
+    "cotacao-venda": 40321.2,
+    "data": "1993-06-24",
+    "data-hora-fonte": "1993-06-24 17:18:00.0",
+    "paridade-compra": 1.2827,
+    "paridade-venda": 1.2844
+  },
+  {
+    "cotacao-compra": 40819.43,
+    "cotacao-venda": 40874.39,
+    "data": "1993-06-25",
+    "data-hora-fonte": "1993-06-25 17:06:00.0",
+    "paridade-compra": 1.2809,
+    "paridade-venda": 1.2826
+  },
+  {
+    "cotacao-compra": 41317.33,
+    "cotacao-venda": 41372.93,
+    "data": "1993-06-28",
+    "data-hora-fonte": "1993-06-28 17:53:00.0",
+    "paridade-compra": 1.2812,
+    "paridade-venda": 1.2829
+  },
+  {
+    "cotacao-compra": 41824.49,
+    "cotacao-venda": 41880.76,
+    "data": "1993-06-29",
+    "data-hora-fonte": "1993-06-29 17:27:00.0",
+    "paridade-compra": 1.2814,
+    "paridade-venda": 1.2831
+  },
+  {
+    "cotacao-compra": 42363.17,
+    "cotacao-venda": 42420.17,
+    "data": "1993-06-30",
+    "data-hora-fonte": "1993-06-30 17:41:00.0",
+    "paridade-compra": 1.2809,
+    "paridade-venda": 1.2826
+  },
+  {
+    "cotacao-compra": 43209.93,
+    "cotacao-venda": 43267.56,
+    "data": "1993-07-01",
+    "data-hora-fonte": "1993-07-01 18:08:00.0",
+    "paridade-compra": 1.2868,
+    "paridade-venda": 1.2885
+  },
+  {
+    "cotacao-compra": 43736.32,
+    "cotacao-venda": 43811.89,
+    "data": "1993-07-02",
+    "data-hora-fonte": "1993-07-02 18:07:00.0",
+    "paridade-compra": 1.2865,
+    "paridade-venda": 1.2887
+  },
+  {
+    "cotacao-compra": 43805.38,
+    "cotacao-venda": 43881.19,
+    "data": "1993-07-05",
+    "data-hora-fonte": "1993-07-05 18:13:00.0",
+    "paridade-compra": 1.2844,
+    "paridade-venda": 1.2866
+  },
+  {
+    "cotacao-compra": 44380.4,
+    "cotacao-venda": 44457.26,
+    "data": "1993-07-06",
+    "data-hora-fonte": "1993-07-06 18:06:00.0",
+    "paridade-compra": 1.2833,
+    "paridade-venda": 1.2855
+  },
+  {
+    "cotacao-compra": 44891.57,
+    "cotacao-venda": 44969.24,
+    "data": "1993-07-07",
+    "data-hora-fonte": "1993-07-07 18:18:00.0",
+    "paridade-compra": 1.2843,
+    "paridade-venda": 1.2865
+  },
+  {
+    "cotacao-compra": 45631.05,
+    "cotacao-venda": 45709.93,
+    "data": "1993-07-08",
+    "data-hora-fonte": "1993-07-08 17:51:00.0",
+    "paridade-compra": 1.279,
+    "paridade-venda": 1.2812
+  },
+  {
+    "cotacao-compra": 46300.76,
+    "cotacao-venda": 46363.21,
+    "data": "1993-07-09",
+    "data-hora-fonte": "1993-07-09 17:10:00.0",
+    "paridade-compra": 1.2764,
+    "paridade-venda": 1.2781
+  },
+  {
+    "cotacao-compra": 46819.21,
+    "cotacao-venda": 46900.64,
+    "data": "1993-07-12",
+    "data-hora-fonte": "1993-07-12 17:29:00.0",
+    "paridade-compra": 1.2772,
+    "paridade-venda": 1.2794
+  },
+  {
+    "cotacao-compra": 47277.41,
+    "cotacao-venda": 47359.42,
+    "data": "1993-07-13",
+    "data-hora-fonte": "1993-07-13 18:00:00.0",
+    "paridade-compra": 1.2804,
+    "paridade-venda": 1.2826
+  },
+  {
+    "cotacao-compra": 47782.97,
+    "cotacao-venda": 47847.07,
+    "data": "1993-07-14",
+    "data-hora-fonte": "1993-07-14 17:22:00.0",
+    "paridade-compra": 1.2829,
+    "paridade-venda": 1.2846
+  },
+  {
+    "cotacao-compra": 48444.57,
+    "cotacao-venda": 48528.58,
+    "data": "1993-07-15",
+    "data-hora-fonte": "1993-07-15 17:50:00.0",
+    "paridade-compra": 1.2804,
+    "paridade-venda": 1.2826
+  },
+  {
+    "cotacao-compra": 49146.74,
+    "cotacao-venda": 49232.15,
+    "data": "1993-07-16",
+    "data-hora-fonte": "1993-07-16 17:20:00.0",
+    "paridade-compra": 1.2776,
+    "paridade-venda": 1.2798
+  },
+  {
+    "cotacao-compra": 49736.74,
+    "cotacao-venda": 49823.15,
+    "data": "1993-07-19",
+    "data-hora-fonte": "1993-07-19 18:13:00.0",
+    "paridade-compra": 1.2779,
+    "paridade-venda": 1.2801
+  },
+  {
+    "cotacao-compra": 50378.33,
+    "cotacao-venda": 50465.9,
+    "data": "1993-07-20",
+    "data-hora-fonte": "1993-07-20 18:00:00.0",
+    "paridade-compra": 1.2771,
+    "paridade-venda": 1.2793
+  },
+  {
+    "cotacao-compra": 51063.71,
+    "cotacao-venda": 51152.58,
+    "data": "1993-07-21",
+    "data-hora-fonte": "1993-07-21 17:56:00.0",
+    "paridade-compra": 1.2754,
+    "paridade-venda": 1.2776
+  },
+  {
+    "cotacao-compra": 51504.45,
+    "cotacao-venda": 51593.75,
+    "data": "1993-07-22",
+    "data-hora-fonte": "1993-07-22 17:58:00.0",
+    "paridade-compra": 1.28,
+    "paridade-venda": 1.2822
+  },
+  {
+    "cotacao-compra": 52107.72,
+    "cotacao-venda": 52198.02,
+    "data": "1993-07-23",
+    "data-hora-fonte": "1993-07-23 17:24:00.0",
+    "paridade-compra": 1.2807,
+    "paridade-venda": 1.2829
+  },
+  {
+    "cotacao-compra": 52781.37,
+    "cotacao-venda": 52872.88,
+    "data": "1993-07-26",
+    "data-hora-fonte": "1993-07-26 17:44:00.0",
+    "paridade-compra": 1.2799,
+    "paridade-venda": 1.2821
+  },
+  {
+    "cotacao-compra": 53333.59,
+    "cotacao-venda": 53425.88,
+    "data": "1993-07-27",
+    "data-hora-fonte": "1993-07-27 18:00:00.0",
+    "paridade-compra": 1.2823,
+    "paridade-venda": 1.2845
+  },
+  {
+    "cotacao-compra": 53936.71,
+    "cotacao-venda": 54030.69,
+    "data": "1993-07-28",
+    "data-hora-fonte": "1993-07-28 17:53:00.0",
+    "paridade-compra": 1.2839,
+    "paridade-venda": 1.2861
+  },
+  {
+    "cotacao-compra": 54542.7,
+    "cotacao-venda": 54636.8,
+    "data": "1993-07-29",
+    "data-hora-fonte": "1993-07-29 18:08:00.0",
+    "paridade-compra": 1.2858,
+    "paridade-venda": 1.288
+  },
+  {
+    "cotacao-compra": 55302.35,
+    "cotacao-venda": 55397.85,
+    "data": "1993-07-30",
+    "data-hora-fonte": "1993-07-30 17:41:00.0",
+    "paridade-compra": 1.2844,
+    "paridade-venda": 1.2866
+  },
+  {
+    "cotacao-compra": 55.823,
+    "cotacao-venda": 55.919,
+    "data": "1993-08-02",
+    "data-hora-fonte": "1993-08-02 18:05:00.0",
+    "paridade-compra": 1.2888,
+    "paridade-venda": 1.291
+  },
+  {
+    "cotacao-compra": 56.579,
+    "cotacao-venda": 56.677,
+    "data": "1993-08-03",
+    "data-hora-fonte": "1993-08-03 17:58:00.0",
+    "paridade-compra": 1.2879,
+    "paridade-venda": 1.2901
+  },
+  {
+    "cotacao-compra": 57.295,
+    "cotacao-venda": 57.394,
+    "data": "1993-08-04",
+    "data-hora-fonte": "1993-08-04 17:39:00.0",
+    "paridade-compra": 1.2881,
+    "paridade-venda": 1.2903
+  },
+  {
+    "cotacao-compra": 57.978,
+    "cotacao-venda": 58.079,
+    "data": "1993-08-05",
+    "data-hora-fonte": "1993-08-05 17:48:00.0",
+    "paridade-compra": 1.2893,
+    "paridade-venda": 1.2915
+  },
+  {
+    "cotacao-compra": 58.666,
+    "cotacao-venda": 58.767,
+    "data": "1993-08-06",
+    "data-hora-fonte": "1993-08-06 17:50:00.0",
+    "paridade-compra": 1.2906,
+    "paridade-venda": 1.2928
+  },
+  {
+    "cotacao-compra": 59.421,
+    "cotacao-venda": 59.523,
+    "data": "1993-08-09",
+    "data-hora-fonte": "1993-08-09 17:35:00.0",
+    "paridade-compra": 1.2906,
+    "paridade-venda": 1.2928
+  },
+  {
+    "cotacao-compra": 60.148,
+    "cotacao-venda": 60.252,
+    "data": "1993-08-10",
+    "data-hora-fonte": "1993-08-10 17:39:00.0",
+    "paridade-compra": 1.2914,
+    "paridade-venda": 1.2936
+  },
+  {
+    "cotacao-compra": 60.301,
+    "cotacao-venda": 60.412,
+    "data": "1993-08-11",
+    "data-hora-fonte": "1993-08-11 17:38:00.0",
+    "paridade-compra": 1.3045,
+    "paridade-venda": 1.3069
+  },
+  {
+    "cotacao-compra": 60.742,
+    "cotacao-venda": 60.855,
+    "data": "1993-08-12",
+    "data-hora-fonte": "1993-08-12 17:24:00.0",
+    "paridade-compra": 1.3117,
+    "paridade-venda": 1.3141
+  },
+  {
+    "cotacao-compra": 61.52,
+    "cotacao-venda": 61.634,
+    "data": "1993-08-13",
+    "data-hora-fonte": "1993-08-13 17:44:00.0",
+    "paridade-compra": 1.3118,
+    "paridade-venda": 1.3142
+  },
+  {
+    "cotacao-compra": 62.275,
+    "cotacao-venda": 62.389,
+    "data": "1993-08-16",
+    "data-hora-fonte": "1993-08-16 17:48:00.0",
+    "paridade-compra": 1.3126,
+    "paridade-venda": 1.315
+  },
+  {
+    "cotacao-compra": 63.056,
+    "cotacao-venda": 63.173,
+    "data": "1993-08-17",
+    "data-hora-fonte": "1993-08-17 17:52:00.0",
+    "paridade-compra": 1.313,
+    "paridade-venda": 1.3154
+  },
+  {
+    "cotacao-compra": 63.467,
+    "cotacao-venda": 63.583,
+    "data": "1993-08-18",
+    "data-hora-fonte": "1993-08-18 17:48:00.0",
+    "paridade-compra": 1.3213,
+    "paridade-venda": 1.3237
+  },
+  {
+    "cotacao-compra": 64.683,
+    "cotacao-venda": 64.802,
+    "data": "1993-08-19",
+    "data-hora-fonte": "1993-08-19 18:04:00.0",
+    "paridade-compra": 1.3131,
+    "paridade-venda": 1.3155
+  },
+  {
+    "cotacao-compra": 65.35,
+    "cotacao-venda": 65.471,
+    "data": "1993-08-20",
+    "data-hora-fonte": "1993-08-20 17:29:00.0",
+    "paridade-compra": 1.3165,
+    "paridade-venda": 1.3189
+  },
+  {
+    "cotacao-compra": 66.044,
+    "cotacao-venda": 66.165,
+    "data": "1993-08-23",
+    "data-hora-fonte": "1993-08-23 17:46:00.0",
+    "paridade-compra": 1.3195,
+    "paridade-venda": 1.3219
+  },
+  {
+    "cotacao-compra": 67.0,
+    "cotacao-venda": 67.123,
+    "data": "1993-08-24",
+    "data-hora-fonte": "1993-08-24 17:58:00.0",
+    "paridade-compra": 1.3176,
+    "paridade-venda": 1.32
+  },
+  {
+    "cotacao-compra": 68.249,
+    "cotacao-venda": 68.378,
+    "data": "1993-08-25",
+    "data-hora-fonte": "1993-08-25 18:29:00.0",
+    "paridade-compra": 1.3108,
+    "paridade-venda": 1.3132
+  },
+  {
+    "cotacao-compra": 68.981,
+    "cotacao-venda": 69.108,
+    "data": "1993-08-26",
+    "data-hora-fonte": "1993-08-26 17:49:00.0",
+    "paridade-compra": 1.3144,
+    "paridade-venda": 1.3168
+  },
+  {
+    "cotacao-compra": 69.73,
+    "cotacao-venda": 69.86,
+    "data": "1993-08-27",
+    "data-hora-fonte": "1993-08-27 18:19:00.0",
+    "paridade-compra": 1.3182,
+    "paridade-venda": 1.3206
+  },
+  {
+    "cotacao-compra": 70.515,
+    "cotacao-venda": 70.647,
+    "data": "1993-08-30",
+    "data-hora-fonte": "1993-08-30 18:04:00.0",
+    "paridade-compra": 1.3215,
+    "paridade-venda": 1.3239
+  },
+  {
+    "cotacao-compra": 71.656,
+    "cotacao-venda": 71.788,
+    "data": "1993-08-31",
+    "data-hora-fonte": "1993-08-31 17:55:00.0",
+    "paridade-compra": 1.3185,
+    "paridade-venda": 1.3209
+  },
+  {
+    "cotacao-compra": 72.3,
+    "cotacao-venda": 72.383,
+    "data": "1993-09-01",
+    "data-hora-fonte": "1993-09-01 17:55:00.0",
+    "paridade-compra": 1.326,
+    "paridade-venda": 1.3275
+  },
+  {
+    "cotacao-compra": 74.416,
+    "cotacao-venda": 74.552,
+    "data": "1993-09-02",
+    "data-hora-fonte": "1993-09-02 18:08:00.0",
+    "paridade-compra": 1.3246,
+    "paridade-venda": 1.327
+  },
+  {
+    "cotacao-compra": 75.307,
+    "cotacao-venda": 75.45,
+    "data": "1993-09-03",
+    "data-hora-fonte": "1993-09-03 17:42:00.0",
+    "paridade-compra": 1.3271,
+    "paridade-venda": 1.3295
+  },
+  {
+    "cotacao-compra": 75.3296,
+    "cotacao-venda": 75.4628,
+    "data": "1993-09-06",
+    "data-hora-fonte": "1993-09-06 17:59:00.0",
+    "paridade-compra": 1.32664,
+    "paridade-venda": 1.32896
+  },
+  {
+    "cotacao-compra": 76.7691,
+    "cotacao-venda": 77.1386,
+    "data": "1993-09-08",
+    "data-hora-fonte": "1993-09-08 17:57:00.0",
+    "paridade-compra": 1.31584,
+    "paridade-venda": 1.32216
+  },
+  {
+    "cotacao-compra": 78.1468,
+    "cotacao-venda": 78.2854,
+    "data": "1993-09-09",
+    "data-hora-fonte": "1993-09-09 17:55:00.0",
+    "paridade-compra": 1.31474,
+    "paridade-venda": 1.31706
+  },
+  {
+    "cotacao-compra": 79.3525,
+    "cotacao-venda": 79.4934,
+    "data": "1993-09-10",
+    "data-hora-fonte": "1993-09-10 17:51:00.0",
+    "paridade-compra": 1.31314,
+    "paridade-venda": 1.31546
+  },
+  {
+    "cotacao-compra": 80.4531,
+    "cotacao-venda": 80.5959,
+    "data": "1993-09-13",
+    "data-hora-fonte": "1993-09-13 17:57:00.0",
+    "paridade-compra": 1.31354,
+    "paridade-venda": 1.31586
+  },
+  {
+    "cotacao-compra": 81.1127,
+    "cotacao-venda": 81.2566,
+    "data": "1993-09-14",
+    "data-hora-fonte": "1993-09-14 17:42:00.0",
+    "paridade-compra": 1.32164,
+    "paridade-venda": 1.32396
+  },
+  {
+    "cotacao-compra": 82.987,
+    "cotacao-venda": 83.1354,
+    "data": "1993-09-15",
+    "data-hora-fonte": "1993-09-15 17:53:00.0",
+    "paridade-compra": 1.31044,
+    "paridade-venda": 1.31276
+  },
+  {
+    "cotacao-compra": 84.0992,
+    "cotacao-venda": 84.2495,
+    "data": "1993-09-16",
+    "data-hora-fonte": "1993-09-16 17:59:00.0",
+    "paridade-compra": 1.31164,
+    "paridade-venda": 1.31396
+  },
+  {
+    "cotacao-compra": 85.2947,
+    "cotacao-venda": 85.4477,
+    "data": "1993-09-17",
+    "data-hora-fonte": "1993-09-17 17:36:00.0",
+    "paridade-compra": 1.31244,
+    "paridade-venda": 1.31476
+  },
+  {
+    "cotacao-compra": 85.9246,
+    "cotacao-venda": 86.0763,
+    "data": "1993-09-20",
+    "data-hora-fonte": "1993-09-20 18:12:00.0",
+    "paridade-compra": 1.32134,
+    "paridade-venda": 1.32366
+  },
+  {
+    "cotacao-compra": 87.3021,
+    "cotacao-venda": 87.4594,
+    "data": "1993-09-21",
+    "data-hora-fonte": "1993-09-21 18:10:00.0",
+    "paridade-compra": 1.31884,
+    "paridade-venda": 1.32116
+  },
+  {
+    "cotacao-compra": 88.639,
+    "cotacao-venda": 88.7973,
+    "data": "1993-09-22",
+    "data-hora-fonte": "1993-09-22 17:59:00.0",
+    "paridade-compra": 1.31834,
+    "paridade-venda": 1.32066
+  },
+  {
+    "cotacao-compra": 89.7022,
+    "cotacao-venda": 89.8611,
+    "data": "1993-09-23",
+    "data-hora-fonte": "1993-09-23 17:55:00.0",
+    "paridade-compra": 1.32184,
+    "paridade-venda": 1.32416
+  },
+  {
+    "cotacao-compra": 91.2777,
+    "cotacao-venda": 91.442,
+    "data": "1993-09-24",
+    "data-hora-fonte": "1993-09-24 17:56:00.0",
+    "paridade-compra": 1.31854,
+    "paridade-venda": 1.32086
+  },
+  {
+    "cotacao-compra": 92.1931,
+    "cotacao-venda": 92.3583,
+    "data": "1993-09-27",
+    "data-hora-fonte": "1993-09-27 17:47:00.0",
+    "paridade-compra": 1.32484,
+    "paridade-venda": 1.32716
+  },
+  {
+    "cotacao-compra": 93.8307,
+    "cotacao-venda": 93.9991,
+    "data": "1993-09-28",
+    "data-hora-fonte": "1993-09-28 17:59:00.0",
+    "paridade-compra": 1.32214,
+    "paridade-venda": 1.32446
+  },
+  {
+    "cotacao-compra": 94.7976,
+    "cotacao-venda": 94.9708,
+    "data": "1993-09-29",
+    "data-hora-fonte": "1993-09-29 18:13:00.0",
+    "paridade-compra": 1.32804,
+    "paridade-venda": 1.33036
+  },
+  {
+    "cotacao-compra": 95.9238,
+    "cotacao-venda": 96.096,
+    "data": "1993-09-30",
+    "data-hora-fonte": "1993-09-30 17:56:00.0",
+    "paridade-compra": 1.33273,
+    "paridade-venda": 1.33507
+  },
+  {
+    "cotacao-compra": 96.9888,
+    "cotacao-venda": 97.1659,
+    "data": "1993-10-01",
+    "data-hora-fonte": "1993-10-01 17:50:00.0",
+    "paridade-compra": 1.33833,
+    "paridade-venda": 1.34067
+  },
+  {
+    "cotacao-compra": 98.4001,
+    "cotacao-venda": 98.5757,
+    "data": "1993-10-04",
+    "data-hora-fonte": "1993-10-04 17:55:00.0",
+    "paridade-compra": 1.33963,
+    "paridade-venda": 1.34197
+  },
+  {
+    "cotacao-compra": 100.188,
+    "cotacao-venda": 100.365,
+    "data": "1993-10-05",
+    "data-hora-fonte": "1993-10-05 18:20:00.0",
+    "paridade-compra": 1.33603,
+    "paridade-venda": 1.33837
+  },
+  {
+    "cotacao-compra": 101.975,
+    "cotacao-venda": 102.156,
+    "data": "1993-10-06",
+    "data-hora-fonte": "1993-10-06 18:03:00.0",
+    "paridade-compra": 1.33283,
+    "paridade-venda": 1.33517
+  },
+  {
+    "cotacao-compra": 104.924,
+    "cotacao-venda": 105.111,
+    "data": "1993-10-07",
+    "data-hora-fonte": "1993-10-07 17:36:00.0",
+    "paridade-compra": 1.33563,
+    "paridade-venda": 1.33797
+  },
+  {
+    "cotacao-compra": 106.957,
+    "cotacao-venda": 107.152,
+    "data": "1993-10-08",
+    "data-hora-fonte": "1993-10-08 17:30:00.0",
+    "paridade-compra": 1.33063,
+    "paridade-venda": 1.33297
+  },
+  {
+    "cotacao-compra": 107.062,
+    "cotacao-venda": 107.257,
+    "data": "1993-10-11",
+    "data-hora-fonte": "1993-10-11 18:06:00.0",
+    "paridade-compra": 1.32914,
+    "paridade-venda": 1.33147
+  },
+  {
+    "cotacao-compra": 108.509,
+    "cotacao-venda": 109.027,
+    "data": "1993-10-13",
+    "data-hora-fonte": "1993-10-13 17:53:00.0",
+    "paridade-compra": 1.32774,
+    "paridade-venda": 1.33407
+  },
+  {
+    "cotacao-compra": 110.777,
+    "cotacao-venda": 110.972,
+    "data": "1993-10-14",
+    "data-hora-fonte": "1993-10-14 18:17:00.0",
+    "paridade-compra": 1.32464,
+    "paridade-venda": 1.32696
+  },
+  {
+    "cotacao-compra": 111.955,
+    "cotacao-venda": 112.156,
+    "data": "1993-10-15",
+    "data-hora-fonte": "1993-10-15 17:50:00.0",
+    "paridade-compra": 1.33083,
+    "paridade-venda": 1.33317
+  },
+  {
+    "cotacao-compra": 114.264,
+    "cotacao-venda": 114.472,
+    "data": "1993-10-18",
+    "data-hora-fonte": "1993-10-18 17:44:00.0",
+    "paridade-compra": 1.32434,
+    "paridade-venda": 1.32666
+  },
+  {
+    "cotacao-compra": 116.049,
+    "cotacao-venda": 116.256,
+    "data": "1993-10-19",
+    "data-hora-fonte": "1993-10-19 17:37:00.0",
+    "paridade-compra": 1.32384,
+    "paridade-venda": 1.32616
+  },
+  {
+    "cotacao-compra": 118.522,
+    "cotacao-venda": 118.735,
+    "data": "1993-10-20",
+    "data-hora-fonte": "1993-10-20 17:46:00.0",
+    "paridade-compra": 1.31634,
+    "paridade-venda": 1.31866
+  },
+  {
+    "cotacao-compra": 120.929,
+    "cotacao-venda": 121.147,
+    "data": "1993-10-21",
+    "data-hora-fonte": "1993-10-21 18:16:00.0",
+    "paridade-compra": 1.30994,
+    "paridade-venda": 1.31226
+  },
+  {
+    "cotacao-compra": 123.472,
+    "cotacao-venda": 123.694,
+    "data": "1993-10-22",
+    "data-hora-fonte": "1993-10-22 17:49:00.0",
+    "paridade-compra": 1.30285,
+    "paridade-venda": 1.30515
+  },
+  {
+    "cotacao-compra": 124.663,
+    "cotacao-venda": 124.887,
+    "data": "1993-10-25",
+    "data-hora-fonte": "1993-10-25 17:56:00.0",
+    "paridade-compra": 1.31034,
+    "paridade-venda": 1.31266
+  },
+  {
+    "cotacao-compra": 126.022,
+    "cotacao-venda": 126.246,
+    "data": "1993-10-26",
+    "data-hora-fonte": "1993-10-26 18:07:00.0",
+    "paridade-compra": 1.31624,
+    "paridade-venda": 1.31856
+  },
+  {
+    "cotacao-compra": 127.885,
+    "cotacao-venda": 128.112,
+    "data": "1993-10-27",
+    "data-hora-fonte": "1993-10-27 17:47:00.0",
+    "paridade-compra": 1.31714,
+    "paridade-venda": 1.31946
+  },
+  {
+    "cotacao-compra": 129.413,
+    "cotacao-venda": 129.648,
+    "data": "1993-10-28",
+    "data-hora-fonte": "1993-10-28 18:12:00.0",
+    "paridade-compra": 1.32204,
+    "paridade-venda": 1.32436
+  },
+  {
+    "cotacao-compra": 131.679,
+    "cotacao-venda": 131.914,
+    "data": "1993-10-29",
+    "data-hora-fonte": "1993-10-29 17:40:00.0",
+    "paridade-compra": 1.31904,
+    "paridade-venda": 1.32136
+  },
+  {
+    "cotacao-compra": 134.59,
+    "cotacao-venda": 134.833,
+    "data": "1993-11-01",
+    "data-hora-fonte": "1993-11-01 18:00:00.0",
+    "paridade-compra": 1.31044,
+    "paridade-venda": 1.31276
+  },
+  {
+    "cotacao-compra": 136.914,
+    "cotacao-venda": 137.161,
+    "data": "1993-11-03",
+    "data-hora-fonte": "1993-11-03 17:56:00.0",
+    "paridade-compra": 1.30805,
+    "paridade-venda": 1.31035
+  },
+  {
+    "cotacao-compra": 139.164,
+    "cotacao-venda": 139.841,
+    "data": "1993-11-04",
+    "data-hora-fonte": "1993-11-04 17:58:00.0",
+    "paridade-compra": 1.30305,
+    "paridade-venda": 1.30935
+  },
+  {
+    "cotacao-compra": 142.671,
+    "cotacao-venda": 143.372,
+    "data": "1993-11-05",
+    "data-hora-fonte": "1993-11-05 17:58:00.0",
+    "paridade-compra": 1.29035,
+    "paridade-venda": 1.29665
+  },
+  {
+    "cotacao-compra": 144.39,
+    "cotacao-venda": 145.094,
+    "data": "1993-11-08",
+    "data-hora-fonte": "1993-11-08 18:28:00.0",
+    "paridade-compra": 1.29475,
+    "paridade-venda": 1.30105
+  },
+  {
+    "cotacao-compra": 147.672,
+    "cotacao-venda": 148.389,
+    "data": "1993-11-09",
+    "data-hora-fonte": "1993-11-09 18:34:00.0",
+    "paridade-compra": 1.30535,
+    "paridade-venda": 1.31166
+  },
+  {
+    "cotacao-compra": 149.819,
+    "cotacao-venda": 150.546,
+    "data": "1993-11-10",
+    "data-hora-fonte": "1993-11-10 18:37:00.0",
+    "paridade-compra": 1.30655,
+    "paridade-venda": 1.31286
+  },
+  {
+    "cotacao-compra": 148.935,
+    "cotacao-venda": 149.653,
+    "data": "1993-11-11",
+    "data-hora-fonte": "1993-11-11 18:05:00.0",
+    "paridade-compra": 1.31434,
+    "paridade-venda": 1.32066
+  },
+  {
+    "cotacao-compra": 151.518,
+    "cotacao-venda": 152.255,
+    "data": "1993-11-12",
+    "data-hora-fonte": "1993-11-12 18:21:00.0",
+    "paridade-compra": 1.31204,
+    "paridade-venda": 1.31836
+  },
+  {
+    "cotacao-compra": 153.622,
+    "cotacao-venda": 154.364,
+    "data": "1993-11-16",
+    "data-hora-fonte": "1993-11-16 17:56:00.0",
+    "paridade-compra": 1.31384,
+    "paridade-venda": 1.32016
+  },
+  {
+    "cotacao-compra": 155.745,
+    "cotacao-venda": 156.496,
+    "data": "1993-11-17",
+    "data-hora-fonte": "1993-11-17 18:17:00.0",
+    "paridade-compra": 1.31594,
+    "paridade-venda": 1.32226
+  },
+  {
+    "cotacao-compra": 157.38,
+    "cotacao-venda": 158.136,
+    "data": "1993-11-18",
+    "data-hora-fonte": "1993-11-18 18:19:00.0",
+    "paridade-compra": 1.32234,
+    "paridade-venda": 1.32866
+  },
+  {
+    "cotacao-compra": 159.347,
+    "cotacao-venda": 160.111,
+    "data": "1993-11-19",
+    "data-hora-fonte": "1993-11-19 18:10:00.0",
+    "paridade-compra": 1.32614,
+    "paridade-venda": 1.33247
+  },
+  {
+    "cotacao-compra": 161.503,
+    "cotacao-venda": 162.28,
+    "data": "1993-11-22",
+    "data-hora-fonte": "1993-11-22 18:14:00.0",
+    "paridade-compra": 1.32894,
+    "paridade-venda": 1.33527
+  },
+  {
+    "cotacao-compra": 166.313,
+    "cotacao-venda": 168.289,
+    "data": "1993-11-23",
+    "data-hora-fonte": "1993-11-23 18:21:00.0",
+    "paridade-compra": 1.32109,
+    "paridade-venda": 1.33673
+  },
+  {
+    "cotacao-compra": 169.33,
+    "cotacao-venda": 170.145,
+    "data": "1993-11-24",
+    "data-hora-fonte": "1993-11-24 18:17:00.0",
+    "paridade-compra": 1.32734,
+    "paridade-venda": 1.33367
+  },
+  {
+    "cotacao-compra": 169.21,
+    "cotacao-venda": 170.024,
+    "data": "1993-11-25",
+    "data-hora-fonte": "1993-11-25 17:59:00.0",
+    "paridade-compra": 1.32784,
+    "paridade-venda": 1.33417
+  },
+  {
+    "cotacao-compra": 171.834,
+    "cotacao-venda": 172.668,
+    "data": "1993-11-26",
+    "data-hora-fonte": "1993-11-26 18:08:00.0",
+    "paridade-compra": 1.32804,
+    "paridade-venda": 1.33437
+  },
+  {
+    "cotacao-compra": 173.727,
+    "cotacao-venda": 174.56,
+    "data": "1993-11-29",
+    "data-hora-fonte": "1993-11-29 18:12:00.0",
+    "paridade-compra": 1.33433,
+    "paridade-venda": 1.34067
+  },
+  {
+    "cotacao-compra": 176.009,
+    "cotacao-venda": 176.853,
+    "data": "1993-11-30",
+    "data-hora-fonte": "1993-11-30 18:08:00.0",
+    "paridade-compra": 1.33433,
+    "paridade-venda": 1.34067
+  },
+  {
+    "cotacao-compra": 178.651,
+    "cotacao-venda": 179.509,
+    "data": "1993-12-01",
+    "data-hora-fonte": "1993-12-01 18:00:00.0",
+    "paridade-compra": 1.33233,
+    "paridade-venda": 1.33867
+  },
+  {
+    "cotacao-compra": 181.235,
+    "cotacao-venda": 182.106,
+    "data": "1993-12-02",
+    "data-hora-fonte": "1993-12-02 17:59:00.0",
+    "paridade-compra": 1.33093,
+    "paridade-venda": 1.33727
+  },
+  {
+    "cotacao-compra": 184.661,
+    "cotacao-venda": 184.991,
+    "data": "1993-12-03",
+    "data-hora-fonte": "1993-12-03 18:10:00.0",
+    "paridade-compra": 1.32774,
+    "paridade-venda": 1.33006
+  },
+  {
+    "cotacao-compra": 187.834,
+    "cotacao-venda": 188.171,
+    "data": "1993-12-06",
+    "data-hora-fonte": "1993-12-06 17:48:00.0",
+    "paridade-compra": 1.32284,
+    "paridade-venda": 1.32516
+  },
+  {
+    "cotacao-compra": 190.498,
+    "cotacao-venda": 190.848,
+    "data": "1993-12-07",
+    "data-hora-fonte": "1993-12-07 17:52:00.0",
+    "paridade-compra": 1.32184,
+    "paridade-venda": 1.32416
+  },
+  {
+    "cotacao-compra": 193.07,
+    "cotacao-venda": 193.416,
+    "data": "1993-12-08",
+    "data-hora-fonte": "1993-12-08 18:08:00.0",
+    "paridade-compra": 1.32194,
+    "paridade-venda": 1.32426
+  },
+  {
+    "cotacao-compra": 194.825,
+    "cotacao-venda": 195.173,
+    "data": "1993-12-09",
+    "data-hora-fonte": "1993-12-09 18:04:00.0",
+    "paridade-compra": 1.32754,
+    "paridade-venda": 1.32986
+  },
+  {
+    "cotacao-compra": 197.375,
+    "cotacao-venda": 197.728,
+    "data": "1993-12-10",
+    "data-hora-fonte": "1993-12-10 18:09:00.0",
+    "paridade-compra": 1.32814,
+    "paridade-venda": 1.33046
+  },
+  {
+    "cotacao-compra": 200.382,
+    "cotacao-venda": 200.748,
+    "data": "1993-12-13",
+    "data-hora-fonte": "1993-12-13 18:01:00.0",
+    "paridade-compra": 1.32664,
+    "paridade-venda": 1.32896
+  },
+  {
+    "cotacao-compra": 202.338,
+    "cotacao-venda": 202.701,
+    "data": "1993-12-14",
+    "data-hora-fonte": "1993-12-14 18:17:00.0",
+    "paridade-compra": 1.33233,
+    "paridade-venda": 1.33467
+  },
+  {
+    "cotacao-compra": 205.154,
+    "cotacao-venda": 205.518,
+    "data": "1993-12-15",
+    "data-hora-fonte": "1993-12-15 18:29:00.0",
+    "paridade-compra": 1.33263,
+    "paridade-venda": 1.33497
+  },
+  {
+    "cotacao-compra": 208.257,
+    "cotacao-venda": 208.63,
+    "data": "1993-12-16",
+    "data-hora-fonte": "1993-12-16 18:03:00.0",
+    "paridade-compra": 1.33123,
+    "paridade-venda": 1.33357
+  },
+  {
+    "cotacao-compra": 209.647,
+    "cotacao-venda": 210.649,
+    "data": "1993-12-17",
+    "data-hora-fonte": "1993-12-17 18:04:00.0",
+    "paridade-compra": 1.33713,
+    "paridade-venda": 1.34347
+  },
+  {
+    "cotacao-compra": 211.633,
+    "cotacao-venda": 212.636,
+    "data": "1993-12-20",
+    "data-hora-fonte": "1993-12-20 18:14:00.0",
+    "paridade-compra": 1.34333,
+    "paridade-venda": 1.34967
+  },
+  {
+    "cotacao-compra": 214.586,
+    "cotacao-venda": 215.603,
+    "data": "1993-12-21",
+    "data-hora-fonte": "1993-12-21 18:21:00.0",
+    "paridade-compra": 1.34363,
+    "paridade-venda": 1.34997
+  },
+  {
+    "cotacao-compra": 219.189,
+    "cotacao-venda": 220.238,
+    "data": "1993-12-22",
+    "data-hora-fonte": "1993-12-22 18:13:00.0",
+    "paridade-compra": 1.33433,
+    "paridade-venda": 1.34067
+  },
+  {
+    "cotacao-compra": 223.79,
+    "cotacao-venda": 224.867,
+    "data": "1993-12-23",
+    "data-hora-fonte": "1993-12-23 17:49:00.0",
+    "paridade-compra": 1.32514,
+    "paridade-venda": 1.33147
+  },
+  {
+    "cotacao-compra": 226.515,
+    "cotacao-venda": 226.973,
+    "data": "1993-12-24",
+    "data-hora-fonte": "1993-12-24 11:33:00.0",
+    "paridade-compra": 1.33183,
+    "paridade-venda": 1.33417
+  },
+  {
+    "cotacao-compra": 230.784,
+    "cotacao-venda": 231.195,
+    "data": "1993-12-27",
+    "data-hora-fonte": "1993-12-27 18:41:00.0",
+    "paridade-compra": 1.32654,
+    "paridade-venda": 1.32886
+  },
+  {
+    "cotacao-compra": 233.284,
+    "cotacao-venda": 234.411,
+    "data": "1993-12-28",
+    "data-hora-fonte": "1993-12-28 17:59:00.0",
+    "paridade-compra": 1.32784,
+    "paridade-venda": 1.33417
+  },
+  {
+    "cotacao-compra": 236.002,
+    "cotacao-venda": 237.133,
+    "data": "1993-12-29",
+    "data-hora-fonte": "1993-12-29 18:08:00.0",
+    "paridade-compra": 1.33263,
+    "paridade-venda": 1.33897
+  },
+  {
+    "cotacao-compra": 240.434,
+    "cotacao-venda": 241.595,
+    "data": "1993-12-30",
+    "data-hora-fonte": "1993-12-30 18:06:00.0",
+    "paridade-compra": 1.32834,
+    "paridade-venda": 1.33467
+  },
+  {
+    "cotacao-compra": 245.395,
+    "cotacao-venda": 245.831,
+    "data": "1993-12-31",
+    "data-hora-fonte": "1993-12-31 11:37:00.0",
+    "paridade-compra": 1.32654,
+    "paridade-venda": 1.32886
+  }
+]
