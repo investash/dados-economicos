@@ -210,7 +210,8 @@ class Validator:
             if not isinstance(rel, str):
                 continue
             no_manifesto.add(rel)
-            base = v1 / rel
+            # caminho do manifesto é relativo à RAIZ do repo (dados/v1/...)
+            base = self.raiz / rel
             if not base.is_dir():
                 self._erro(f"manifesto.json: caminho não existe no filesystem: {rel}")
                 continue
@@ -251,7 +252,7 @@ class Validator:
             for serie_dir in sorted(cat_dir.iterdir()):
                 if not serie_dir.is_dir():
                     continue
-                rel = f"{categoria}/{serie_dir.name}"
+                rel = f"dados/{SCHEMA_VERSION}/{categoria}/{serie_dir.name}"
                 if rel not in no_manifesto:
                     self._erro(f"série órfã no filesystem (ausente do manifesto): {rel}")
 

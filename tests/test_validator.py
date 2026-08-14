@@ -139,7 +139,7 @@ def _manifesto_valido(v1: Path) -> dict:
                     "identificador": serie_dir.name,
                     "nome": serie_dir.name,
                     "categoria": categoria,
-                    "caminho": f"{categoria}/{serie_dir.name}",
+                    "caminho": f"dados/v1/{categoria}/{serie_dir.name}",
                     "descricao": "d",
                     "frequencia": meta["frequencia"],
                     "unidade": "%",
@@ -152,8 +152,8 @@ def _manifesto_valido(v1: Path) -> dict:
                     "primeira-observacao": meta["primeira-observacao"],
                     "ultima-observacao": meta["ultima-observacao"],
                     "ultima-alteracao-dados": meta["ultima-alteracao-dados"],
-                    "metadados": f"{categoria}/{serie_dir.name}/metadados.json",
-                    "somas-verificacao": f"{categoria}/{serie_dir.name}/somas-verificacao.json",
+                    "metadados": f"dados/v1/{categoria}/{serie_dir.name}/metadados.json",
+                    "somas-verificacao": f"dados/v1/{categoria}/{serie_dir.name}/somas-verificacao.json",
                 }
             )
     return {
@@ -357,7 +357,7 @@ class TestSemanticValidator:
                 "identificador": "fantasma",
                 "nome": "x",
                 "categoria": "inflacao",
-                "caminho": "inflacao/fantasma",
+                "caminho": "dados/v1/inflacao/fantasma",
                 "descricao": "d",
                 "frequencia": "mensal",
                 "unidade": "%",
@@ -370,8 +370,8 @@ class TestSemanticValidator:
                 "primeira-observacao": None,
                 "ultima-observacao": None,
                 "ultima-alteracao-dados": None,
-                "metadados": "inflacao/fantasma/metadados.json",
-                "somas-verificacao": "inflacao/fantasma/somas-verificacao.json",
+                "metadados": "dados/v1/inflacao/fantasma/metadados.json",
+                "somas-verificacao": "dados/v1/inflacao/fantasma/somas-verificacao.json",
             }
         )
         (raiz / "manifesto.json").write_text(json.dumps(manifesto), encoding="utf-8")
