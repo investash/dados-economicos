@@ -84,4 +84,25 @@ proveniência. Os scripts públicos de validação (`scripts/`) são **MIT**.
 * A fonte da verdade é o BACEN: em caso de divergência, o valor oficial vence.
 
 <!-- sneffelz:generated:start -->
+## Séries disponíveis
+
+| Identificador | Nome | Categoria | Frequência | Unidade | Provedor | Última observação | Última alteração dos dados |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| `igp-di` | Índice geral de preços - disponibilidade interna (IGP-DI) | inflacao | mensal | % a.m. | BACEN | 2026-07-01 | 2026-08-14 |
+| `igp-m` | Índice geral de preços - mercado (IGP-M) | inflacao | mensal | % a.m. | BACEN | 2026-07-01 | 2026-08-14 |
+| `inpc` | Índice nacional de preços ao consumidor (INPC) | inflacao | mensal | % a.m. | BACEN | 2026-07-01 | 2026-08-14 |
+| `ipc-brasil` | Índice de preços ao consumidor - Brasil (IPC-Br) | inflacao | mensal | % a.m. | BACEN | 2026-07-01 | 2026-08-14 |
+| `ipc-m` | Índice de preços ao consumidor - mercado (IPC-M) | inflacao | mensal | % a.m. | BACEN | 2026-07-01 | 2026-08-14 |
+| `ipc-sp` | Índice de preços ao consumidor - São Paulo (IPC-Fipe) | inflacao | mensal | % a.m. | BACEN | 2026-07-01 | 2026-08-14 |
+| `ipca` | Índice nacional de preços ao consumidor-amplo (IPCA) | inflacao | mensal | % a.m. | BACEN | 2026-07-01 | 2026-08-14 |
+| `ipca-15` | Índice nacional de preços ao consumidor-15 (IPCA-15) | inflacao | mensal | % a.m. | BACEN | 2026-07-01 | 2026-08-14 |
+| `metas-de-inflacao` | Meta para inflação | inflacao | anual | % | BACEN | 2026-01-01 | 2026-08-14 |
+| `eur` | Euro | taxas-de-cambio | diaria | BRL | BACEN | 2026-08-14 | 2026-08-14 |
+| `usd` | Dólar dos Estados Unidos | taxas-de-cambio | diaria | BRL | BACEN | 2026-08-14 | 2026-08-14 |
+| `cdi-acumulada-no-mes` | Taxa de juros - CDI acumulada no mês | taxas-de-juros | mensal | % a.m. | BACEN | 2026-08-01 | 2026-08-14 |
+| `cdi-diaria` | Taxa de juros - CDI | taxas-de-juros | diaria | % a.d. | BACEN | 2026-08-13 | 2026-08-14 |
+| `selic-diaria` | Taxa de juros - Selic | taxas-de-juros | diaria | % a.d. | BACEN | 2026-08-13 | 2026-08-14 |
+| `selic-mensal` | Taxa de juros - Selic acumulada no mês | taxas-de-juros | mensal | % a.m. | BACEN | 2026-08-01 | 2026-08-14 |
+| `selic-meta-anual` | Taxa de juros - Meta Selic definida pelo Copom | taxas-de-juros | diaria | % a.a. | BACEN | 2026-08-14 | 2026-08-14 |
+| `tr-mensal` | Taxa referencial (TR) | taxas-de-juros | diaria | % a.m. | BACEN | 2026-08-13 | 2026-08-14 |
 <!-- sneffelz:generated:end -->
