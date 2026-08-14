@@ -1,0 +1,23 @@
+{
+  "agregado-disponivel": false,
+  "armazenamento": "particionado-anual",
+  "categoria": "taxas-de-juros",
+  "codigo-sgs": 226,
+  "descricao": "Taxa Referencial (TR) mensal, divulgada diariamente pelo Banco Central do Brasil. Cada observação diária carrega o valor vigente da TR do mês.",
+  "frequencia": "diaria",
+  "identificador": "tr-mensal",
+  "instituicao-responsavel": "BACEN",
+  "moeda": "BRL",
+  "nome": "Taxa referencial (TR)",
+  "particionamento": "anual",
+  "primeira-observacao": "1991-02-01",
+  "provedor": "BACEN",
+  "referencia-oficial": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.226/dados?formato=json",
+  "status": "ativa",
+  "tipo-serie": "escalar",
+  "ultima-alteracao-dados": "2026-08-14",
+  "ultima-observacao": "2026-08-13",
+  "unidade": "% a.m.",
+  "versao-schema": "v1",
+  "versao-sneffelz": "2.0.0"
+}

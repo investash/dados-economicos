@@ -57,6 +57,11 @@ ARQUIVOS_RAIZ = {
     "pyproject.toml",
     "uv.lock",
     "tests",
+    # artefatos de desenvolvimento local
+    ".venv",
+    ".pytest_cache",
+    ".ruff_cache",
+    ".mypy_cache",
 }
 ARMAZENAMENTO_AGREGADO = "agregado-e-anual"
 ARMAZENAMENTO_PARTICIONADO = "particionado-anual"

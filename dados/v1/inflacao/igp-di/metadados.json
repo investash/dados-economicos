@@ -1,0 +1,23 @@
+{
+  "agregado-disponivel": true,
+  "armazenamento": "agregado-e-anual",
+  "categoria": "inflacao",
+  "codigo-sgs": 190,
+  "descricao": "Variação mensal do IGP-DI, índice geral de preços calculado pela FGV para o mês calendário fechado.",
+  "frequencia": "mensal",
+  "identificador": "igp-di",
+  "instituicao-responsavel": "FGV",
+  "moeda": "BRL",
+  "nome": "Índice geral de preços - disponibilidade interna (IGP-DI)",
+  "particionamento": "anual",
+  "primeira-observacao": "1944-02-01",
+  "provedor": "BACEN",
+  "referencia-oficial": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.190/dados?formato=json",
+  "status": "ativa",
+  "tipo-serie": "escalar",
+  "ultima-alteracao-dados": "2026-08-14",
+  "ultima-observacao": "2026-07-01",
+  "unidade": "% a.m.",
+  "versao-schema": "v1",
+  "versao-sneffelz": "2.0.0"
+}
