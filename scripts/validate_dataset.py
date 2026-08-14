@@ -243,10 +243,26 @@ class Validator:
                 self._erro(f"{prefixo}/valores.json: data inexistente {data!r}")
                 return
             datas.append(data)
-            if "valor" in item and not isinstance(item["valor"], (int, float)):
-                self._erro(f"{prefixo}/valores.json: valor não numérico no registro {i}")
-            if isinstance(item["valor"], float) and item["valor"] != item["valor"]:
-                self._erro(f"{prefixo}/valores.json: valor NaN no registro {i}")
+            if "valor" in item:
+                # série escalar: valor numérico finito
+                valor = item["valor"]
+                if not isinstance(valor, (int, float)):
+                    self._erro(f"{prefixo}/valores.json: valor não numérico no registro {i}")
+                elif isinstance(valor, float) and (valor != valor or valor in (float("inf"), float("-inf"))):
+                    self._erro(f"{prefixo}/valores.json: valor NaN/Infinity no registro {i}")
+            else:
+                # série de câmbio: campos de cotação/paridade obrigatórios
+                for campo in (
+                    "cotacao-compra",
+                    "cotacao-venda",
+                    "paridade-compra",
+                    "paridade-venda",
+                    "data-hora-fonte",
+                ):
+                    if campo not in item:
+                        self._erro(f"{prefixo}/valores.json: campo '{campo}' ausente no registro {i}")
+                    elif not isinstance(item[campo], (int, float)) and campo != "data-hora-fonte":
+                        self._erro(f"{prefixo}/valores.json: '{campo}' não numérico no registro {i}")
         if datas != sorted(datas):
             self._erro(f"{prefixo}/valores.json: registros fora de ordem cronológica")
         if len(set(datas)) != len(datas):
@@ -259,12 +275,23 @@ class Validator:
             return
         combinado: list[object] = []
         for arquivo in sorted(anos_dir.glob("*.json")):
-            payload = self._ler_json(arquivo, f"{prefixo}/anos/{arquivo.name}")
+            nome = arquivo.name
+            if not re.fullmatch(r"\d{4}\.json", nome):
+                self._erro(f"{prefixo}/anos/: nome deve ser estritamente YYYY.json — {nome}")
+                continue
+            payload = self._ler_json(arquivo, f"{prefixo}/anos/{nome}")
             if payload is None:
                 return
             if not isinstance(payload, list):
-                self._erro(f"{prefixo}/anos/{arquivo.name}: deve ser uma lista")
+                self._erro(f"{prefixo}/anos/{nome}: deve ser uma lista")
                 return
+            for item in payload:
+                if isinstance(item, dict) and isinstance(item.get("data"), str):
+                    if item["data"][:4] != nome[:4]:
+                        self._erro(
+                            f"{prefixo}/anos/{nome}: registro de {item['data']} "
+                            f"fora do ano do arquivo"
+                        )
             combinado.extend(payload)
         if combinado != valores:
             self._erro(f"{prefixo}: anos/*.json não correspondem a valores.json")
@@ -292,9 +319,29 @@ class Validator:
             if not caminho_arquivo.is_file():
                 self._erro(f"{prefixo}: checksum referencia arquivo inexistente: {rel}")
                 continue
-            real = hashlib.sha256(caminho_arquivo.read_bytes()).hexdigest()
+            real = _sha256_streaming(caminho_arquivo)
             if real != esperado:
                 self._erro(f"{prefixo}: checksum de {rel} não confere")
+        # checksums órfãos: arquivos esperados sem hash
+        esperados = {"valores.json", "metadados.json"}
+        if (base / "anos").is_dir():
+            esperados.update(f"anos/{f.name}" for f in (base / "anos").glob("*.json"))
+        for esperado in sorted(esperados):
+            if esperado not in arquivos:
+                self._erro(f"{prefixo}: checksum ausente para {esperado}")
+
+
+def _sha256_streaming(caminho: Path) -> str:
+    digest = hashlib.sha256()
+    with open(caminho, "rb") as f:
+        for bloco in iter(lambda: f.read(65536), b""):
+            digest.update(bloco)
+    return digest.hexdigest()
+
+
+def _ano_do_arquivo(prefixo: str) -> int | None:
+    m = re.search(r"/anos/(\d{4})\.json", prefixo)
+    return int(m.group(1)) if m else None
 
 
 def main() -> int:
