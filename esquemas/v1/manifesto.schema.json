@@ -43,6 +43,9 @@
           "moeda",
           "provedor",
           "status",
+          "armazenamento",
+          "particionamento",
+          "agregado-disponivel",
           "primeira-observacao",
           "ultima-observacao",
           "ultima-alteracao-dados",
@@ -65,6 +68,19 @@
           "status": {
             "type": "string",
             "enum": ["ativa", "inativa"]
+          },
+          "armazenamento": {
+            "type": "string",
+            "enum": ["agregado-e-anual", "particionado-anual"],
+            "description": "Estratégia de storage: agregado-e-anual = valores.json + anos/*.json; particionado-anual = apenas anos/*.json."
+          },
+          "particionamento": {
+            "type": "string",
+            "const": "anual"
+          },
+          "agregado-disponivel": {
+            "type": "boolean",
+            "description": "True quando valores.json existe; false para particionado-anual."
           },
           "primeira-observacao": { "type": ["string", "null"] },
           "ultima-observacao": { "type": ["string", "null"] },
