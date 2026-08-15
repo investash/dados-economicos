@@ -49,19 +49,29 @@ const valores = await fetch(
 ```text
 dados/v1/
 ├── inflacao/          # IPCA, IPCA-15, INPC, IGP-M, IGP-DI, IPC-Brasil, IPC-M,
-│                      # IPC-Fipe, metas de inflação, IPCA 12 meses
+│                      # IPC-Fipe, metas de inflação
 ├── taxas-de-juros/    # Selic, CDI, TR, meta Selic
-└── taxas-de-cambio/   # USD, EUR, JPY, ... (universo dinâmico do PTAX)
+└── taxas-de-cambio/   # EUR e USD (catálogo publicado atual)
 ```
 
-Cada série:
+O snapshot atual contém **17 séries**. `ipca-12-meses` não integra este
+snapshot.
+
+Há duas estratégias de armazenamento, declaradas em `metadados.json`:
 
 ```text
+# agregado-e-anual (mensal/anual)
 dados/v1/<categoria>/<serie>/
 ├── metadados.json          # descrição autoexplicativa da série
 ├── valores.json            # observações em ordem cronológica
 ├── somas-verificacao.json  # checksums SHA-256
 └── anos/<ano>.json         # partição por ano (idêntica a valores.json)
+
+# particionado-anual (diária)
+dados/v1/<categoria>/<serie>/
+├── metadados.json
+├── somas-verificacao.json
+└── anos/<ano>.json         # única representação das observações; sem valores.json
 ```
 
 Descubra o catálogo completo em [`manifesto.json`](manifesto.json) — ele é a
