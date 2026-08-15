@@ -92,6 +92,20 @@
       "type": "string",
       "enum": ["escalar", "cambio"]
     },
+    "armazenamento": {
+      "type": "string",
+      "enum": ["agregado-e-anual", "particionado-anual"],
+      "description": "Estratégia de storage da série. agregado-e-anual = valores.json + anos/*.json; particionado-anual = apenas anos/*.json (valores.json NÃO deve existir)."
+    },
+    "particionamento": {
+      "type": "string",
+      "const": "anual",
+      "description": "Granularidade das partições (v1: sempre anual)."
+    },
+    "agregado-disponivel": {
+      "type": "boolean",
+      "description": "True quando valores.json (agregado) existe; false para particionado-anual."
+    },
     "paridade-contra-usd": {
       "type": "boolean",
       "description": "Presente em séries de câmbio: True quando a paridade é contra o dólar americano."
@@ -100,5 +114,36 @@
       "type": "string",
       "description": "Nota sobre a semântica de data-hora-fonte (câmbio)."
     }
-  }
+  },
+  "allOf": [
+    {
+      "description": "Combinações armazenamento × frequência × agregado-disponivel (aplicado apenas quando armazenamento é declarado)",
+      "if": {
+        "properties": {
+          "armazenamento": { "const": "agregado-e-anual" }
+        },
+        "required": ["armazenamento"]
+      },
+      "then": {
+        "properties": {
+          "frequencia": { "enum": ["mensal", "anual"] },
+          "agregado-disponivel": { "const": true }
+        }
+      },
+      "else": {
+        "if": {
+          "properties": {
+            "armazenamento": { "const": "particionado-anual" }
+          },
+          "required": ["armazenamento"]
+        },
+        "then": {
+          "properties": {
+            "frequencia": { "const": "diaria" },
+            "agregado-disponivel": { "const": false }
+          }
+        }
+      }
+    }
+  ]
 }

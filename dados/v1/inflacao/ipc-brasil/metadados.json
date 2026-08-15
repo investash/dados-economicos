@@ -1,0 +1,23 @@
+{
+  "agregado-disponivel": true,
+  "armazenamento": "agregado-e-anual",
+  "categoria": "inflacao",
+  "codigo-sgs": 191,
+  "descricao": "Variação mensal do IPC-Brasil, índice de preços ao consumidor calculado pela FGV.",
+  "frequencia": "mensal",
+  "identificador": "ipc-brasil",
+  "instituicao-responsavel": "FGV",
+  "moeda": "BRL",
+  "nome": "Índice de preços ao consumidor - Brasil (IPC-Br)",
+  "particionamento": "anual",
+  "primeira-observacao": "1990-01-01",
+  "provedor": "BACEN",
+  "referencia-oficial": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.191/dados?formato=json",
+  "status": "ativa",
+  "tipo-serie": "escalar",
+  "ultima-alteracao-dados": "2026-08-14",
+  "ultima-observacao": "2026-07-01",
+  "unidade": "% a.m.",
+  "versao-schema": "v1",
+  "versao-sneffelz": "2.0.0"
+}

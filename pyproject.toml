@@ -1,0 +1,18 @@
+[project]
+name = "dados-economicos-validator"
+version = "1.0.0"
+description = "Validação independente do dataset de dados econômicos (schema v1)."
+requires-python = ">=3.11"
+dependencies = [
+    "jsonschema>=4.23",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3",
+]
+
+[tool.pytest.ini_options]
+addopts = "-ra --strict-markers"
+filterwarnings = ["error"]
+testpaths = ["tests"]

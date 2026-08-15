@@ -16,9 +16,9 @@ por sistemas consumidores. **Não é** a fonte primária — o BACEN é.
 dados/v1/<categoria>/<serie>/
 ├── metadados.json          # autoexplicativo (identificador, nome, unidade,
 │                           #   frequência, provedor, status, referências)
-├── valores.json            # registros em ordem cronológica crescente
 ├── somas-verificacao.json  # SHA-256 de valores/metadados/anos (sem self-hash)
-└── anos/<ano>.json         # partição exata de valores.json por ano
+├── valores.json            # somente agregado-e-anual (mensal/anual)
+└── anos/<ano>.json         # partições anuais; única representação no diário
 manifesto.json              # catálogo completo e auto-descritivo
 esquemas/v1/                # contratos formais (JSON Schema, nomes PT-BR)
 scripts/validate_dataset.py # validador independente (stdlib; MIT)
@@ -46,7 +46,10 @@ observação oficial que existe na fonte.
 
 ## Integridade
 
-* `valores.json` deve ser a concatenação exata de `anos/*.json`.
+* `agregado-e-anual` contém `valores.json`, que deve ser a concatenação exata
+  de `anos/*.json`.
+* `particionado-anual` contém apenas `anos/YYYY.json`; `valores.json` é
+  proibido nesse layout.
 * Checksums SHA-256 em `somas-verificacao.json` (nunca inclui a si mesmo).
 * Uma observação local ausente na fonte não é removida automaticamente —
   isso é anomalia de integridade e exige investigação humana.
@@ -59,8 +62,8 @@ observação oficial que existe na fonte.
 python3 scripts/validate_dataset.py .     # barreira de CI (stdlib, MIT)
 ```
 
-Valida JSON, estrutura, tipos, datas, ordenação, duplicidades,
-`valores.json ↔ anos/*.json`, checksums, manifesto, metadados, README
+Valida JSON, estrutura, tipos, datas, ordenação, duplicidades, a relação
+aplicável entre agregado e partições, checksums, manifesto, metadados, README
 gerenciado e ausência de dados legados na raiz.
 
 ## Processo de contribuição manual

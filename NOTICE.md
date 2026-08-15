@@ -29,8 +29,9 @@ licença.
 
 * `dados/` — dados econômicos (ODbL, conforme a fonte).
 * `esquemas/`, `scripts/` — contratos e ferramentas de validação (MIT).
-* `docs/`, `README.md`, `AGENTS.md` — documentação (CC-BY-4.0 ou domínio
-  conforme indicado; texto simples para conveniência).
+* `docs/`, `README.md`, `AGENTS.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md` —
+  documentação e textos do projeto: sem licença formal de código aplicável;
+  o conteúdo é fornecido para conveniência e atribuição (veja acima).
 
 ## Observação
 
